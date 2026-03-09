@@ -1,0 +1,871 @@
+Processing list → AEM (AEM-b68c577425af.html)
+  Found 21 articles
+    → AEM Sitemap Creation
+    → AEM ACS Commons error page handling
+    → Why NASA Developers Write Code Completely Differently (And W
+    → Sling Model Complete Notes
+    → AEMasCS : Egress IP address setup for outbound API call
+    → AEM Headless/Headful/Hybrid
+    → AEM: OSGi service with multiple implementations and calling 
+    → AEM: Differences between JCR EventListener, OSGi EventHandle
+    → AEM React: Making API Calls from an AEM React Component
+    → AEM: Configure NGINX as a Load Balancer for two AEM Dispatch
+    → AEM: Fixing the “No Renderer for Extension HTML” Error in AE
+    → AEM: Sling Model with multiple export formats
+    → AEM with traditional(headfull) sites and AEM with SPA
+    → AEM Dispatcher — Turn Fear into Confidence
+    → Key folder structures in AEM
+    → Best Practices for Accessibility in AEM: A Developer and Aut
+    → AEM 6.5 Model Annotations
+    → GraphQL simple guide for AEM ( Adobe Experience Manager )
+    → kiranmantha
+    → Link to list
+    → Medium.Com
+  No article body found for https://medium.com
+  Saved 20 articles for 'AEM'
+
+Processing list → AI_Agents (AI-Agents-bb0f05b7f1d3.html)
+  Found 16 articles
+    → Level Up Your Claude Code with This CLAUDE.md
+    → Using spec-driven development with Claude Code
+    → Anthropic Just Released Claude Code Course (And I Earned My 
+    → I Stopped Vibe Coding and Started “Prompt Contracts” — Claud
+    → Build a LLM App with RAG to Chat with GitHub in 10 Lines of 
+    → Building Production-Grade Autonomous Agents in less than 10 
+    → MCP Introduction for Dummies Part 01
+    → Model Context Protocol (MCP): 10 Must-Try MCP Servers for De
+    → Building an Advanced Agentic RAG Pipeline that Mimics a Huma
+    → I Built an AI Team That Codes Itself, And You Can Too
+    → Optimizing LangChain AI Agents with Contextual Engineering
+    → LangChain Agents for Noobs: A Complete Practical Guide
+    → Ollama Pydantic Project: Integrating MCP Server with a Local
+    → kiranmantha
+    → Link to list
+    → Medium.Com
+  No article body found for https://medium.com
+  Saved 15 articles for 'AI_Agents'
+
+Processing list → Archive (Archive-m2archive:5815b5fb8e5f.html)
+  Found 22 articles
+    → Powerful JS Reduce Function
+  Request failed https://medium.com/p/58cf47edcb8: HTTPSConnectionPool(host='itnext.io', port=443): Max retries exceeded with url: /powerful-js-reduce-function-58cf47edcb8 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → Moving beyond console.log() — 8 Console Methods You Should U
+    → JavaScript Prototypes, a Pocket Reference
+    → Easy i18n in 10 lines of JavaScript (PoC)
+    → Adopt a Design System inside your Web Components with Constr
+    → Generating Config driven Dynamic Forms using Web Components
+  Request failed https://medium.com/p/7c8d400f7f2e: HTTPSConnectionPool(host='codeburst.io', port=443): Max retries exceeded with url: /generating-config-driven-dynamic-forms-using-web-components-7c8d400f7f2e (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → Quick Tip — Creating an XMLHttpRequest Interceptor
+    → Vanilla DOM VS hyperHTML
+    → Build a Responsive, Modern Dashboard Layout With CSS Grid an
+    → Call By Value/Call By Reference In JavaScript
+    → Material design styled inputs with CSS.
+    → What is WebAssembly?
+  Request failed https://medium.com/p/e1a06f856974: HTTPSConnectionPool(host='itnext.io', port=443): Max retries exceeded with url: /what-is-webassembly-e1a06f856974 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → Different ways to achieve encapsulation in JavaScript(ES6)
+  Request failed https://medium.com/p/7cb938e83f2d: HTTPSConnectionPool(host='itnext.io', port=443): Max retries exceeded with url: /different-ways-to-achieve-encapsulation-in-javascript-es6-7cb938e83f2d (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → Push-based Architectures with RxJS
+    → Addressing the iOS Address Bar in 100vh Layouts
+    → Learn the basics of the JavaScript module system and build y
+    → Do-it-yourself: Client-side State Management — Part 1
+  Request failed https://medium.com/p/31396d28177f: HTTPSConnectionPool(host='itnext.io', port=443): Max retries exceeded with url: /do-it-yourself-client-side-state-management-part-1-31396d28177f (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → Effector: powerful and fast 5kb state manager
+  Request failed https://medium.com/p/6ee2e72e8e0b: HTTPSConnectionPool(host='codeburst.io', port=443): Max retries exceeded with url: /effector-state-manager-6ee2e72e8e0b (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → Get started with WebAssembly — using only 14 lines of JavaSc
+    → kiranmantha
+    → Link to list
+    → Medium.Com
+  No article body found for https://medium.com
+  Saved 15 articles for 'Archive'
+
+Processing list → AWS (AWS-918cbe7f79be.html)
+  Found 7 articles
+    → 10 AWS Tools That Made My Side Project Feel Enterprise Grade
+    → How I  Passed AI Practitioner in 5 days
+    → Why NASA Developers Write Code Completely Differently (And W
+    → Get User Postal Code, Latitude, Longitude etc from AWS
+    → kiranmantha
+    → Link to list
+    → Medium.Com
+  No article body found for https://medium.com
+  Saved 6 articles for 'AWS'
+
+Processing list → Backend_Databases_etc (Backend---Databases-etc-d64d8550fe9d.html)
+  Found 10 articles
+    → How I Built High-Performance JavaScript Backends That Handle
+    → Stop Memorizing Design Patterns: Use This Decision Tree Inst
+    → I Replaced Bull/BullMQ With 60 Lines of PostgreSQL (And You 
+    → Dynamic Configuration in Node.js: Stop Redeploying Your App 
+    → Token, Session, Cookie, JWT, OAuth2 — I can’t tell the diffe
+    → I Worked on a Banking Backend. This Is What “Production-Read
+    → How to Choose a Database for your Project in 2026?
+    → kiranmantha
+    → Link to list
+    → Medium.Com
+  No article body found for https://medium.com
+  Saved 9 articles for 'Backend_Databases_etc'
+
+Processing list → Banking_ (Banking--b986ecbf25a7.html)
+  Found 6 articles
+    → Stop Memorizing Design Patterns: Use This Decision Tree Inst
+    → Double Entry Accounting in a Relational Database
+    → How to Build a Double-Entry Ledger
+    → kiranmantha
+    → Link to list
+    → Medium.Com
+  No article body found for https://medium.com
+  Saved 5 articles for 'Banking_'
+
+Processing list → Crypto (Crypto-46f2d039f687.html)
+  Found 9 articles
+    → PolyMarket — Deep Dive
+    → 5 ways to make $100K on Polymarket
+    → How Programmers Are “Printing Money” on Polymarket
+  Request failed https://medium.com/p/d068c84ea93b: 403 Client Error: Forbidden for url: https://wire.insiderfinance.io/how-programmers-are-printing-money-on-polymarket-d068c84ea93b
+    → How to Make Money on Polymarket
+    → Top Traders on Polymarket
+    → Inside the Mind of a Polymarket BOT
+    → kiranmantha
+    → Link to list
+    → Medium.Com
+  No article body found for https://medium.com
+  Saved 7 articles for 'Crypto'
+
+Processing list → css (css-e5c4cb537f53.html)
+  Found 7 articles
+    → 3 CSS Grid Layouts That Replace Your Entire Component Librar
+    → Why 100vh Is Still Broken on Mobile and How to Fix 100vh
+    → This One CSS Trick Adds Smart Numbering to Anything Without 
+  Request failed https://medium.com/p/5a0fe7f69628: 410 Client Error: Gone for url: https://medium.com/p/5a0fe7f69628
+    → This New CSS Pattern Solves the #1 Pain of Responsive UI
+  Request failed https://medium.com/p/899625a2365c: 410 Client Error: Gone for url: https://medium.com/p/899625a2365c
+    → kiranmantha
+    → Link to list
+    → Medium.Com
+  No article body found for https://medium.com
+  Saved 4 articles for 'css'
+
+Processing list → javascript (javascript-39089e8ad008.html)
+  Found 23 articles
+    → Stop Writing the Same Code Twice — 10 JavaScript Utility Fun
+    → Stop Memorizing Design Patterns: Use This Decision Tree Inst
+    → Token, Session, Cookie, JWT, OAuth2 — I can’t tell the diffe
+    → I Built a JavaScript Tool in One Night That Solved a Problem
+    → ES2025 JavaScript Features You Can Start Using Right Now
+    → Why NASA Developers Write Code Completely Differently (And W
+    → Plugin Architecture in Node.js Without Regrets
+    → Uploading Massive Files Without Breaking Your App: A Guide t
+    → I Copy These 10 Code Snippets Into Every Project
+    → The JavaScript Undo Trick That Turns Chaos into Control
+  Request failed https://medium.com/p/757cae3fef83: 410 Client Error: Gone for url: https://medium.com/p/757cae3fef83
+    → Crop Images in the Browser: My No-Dependency JavaScript Tric
+  Request failed https://medium.com/p/62b5c188e965: 410 Client Error: Gone for url: https://medium.com/p/62b5c188e965
+    → I Replaced Axios With 25 Lines of Vanilla JS (And You Should
+    → JavaScript Promise Hell at 3AM? This One-Liner Saved Me
+  Request failed https://medium.com/p/754794aa5c1f: 410 Client Error: Gone for url: https://medium.com/p/754794aa5c1f
+    → React Patterns Made Simple
+    → A JavaScript Trick That Makes Web Components Fun Again
+  Request failed https://medium.com/p/06409fe4f66b: 410 Client Error: Gone for url: https://medium.com/p/06409fe4f66b
+    → How One Simple Pattern Makes Side Effects Completely Predict
+  Request failed https://medium.com/p/3a030a3ea8e4: 410 Client Error: Gone for url: https://medium.com/p/3a030a3ea8e4
+    → Web Workers vs. WASM: When to Use Which for Performance
+    → The Simple JavaScript Beacon Trick For Debugging: Exposes An
+  Request failed https://medium.com/p/e0e6a00fa5e7: 410 Client Error: Gone for url: https://medium.com/p/e0e6a00fa5e7
+    → The Vanilla JS Framework: 5 Advanced Patterns That Replace Y
+    → Fetch API Trick: Auto Retry Request When It Fails
+    → kiranmantha
+    → Link to list
+    → Medium.Com
+  No article body found for https://medium.com
+  Saved 16 articles for 'javascript'
+
+Processing list → logging (logging-0db6cf5d078e.html)
+  Found 5 articles
+    → From Client to Pod: How an API Request Reaches a Microservic
+    → How to Log Every API Call Without Slowing Down Your Server
+    → kiranmantha
+    → Link to list
+    → Medium.Com
+  No article body found for https://medium.com
+  Saved 4 articles for 'logging'
+
+Processing list → Nextjs (Nextjs-0fc6123ae73b.html)
+  Found 23 articles
+    → Stop Memorizing Design Patterns: Use This Decision Tree Inst
+    → I Replaced React Context With 30 Lines of Vanilla JS (And Av
+    → I Stopped Fighting useEffect Dependency Arrays (Here’s What 
+    → 🧩 What is Multi-Zone in Next.js?
+    → 5 React Component Patterns That Make Your Code Reusable
+    → Token, Session, Cookie, JWT, OAuth2 — I can’t tell the diffe
+    → 15 React Concepts Every Frontend Engineer Must Know in 2026
+    → The Biggest Mistake I See in React Native Projects (and How 
+    → 12 React 19 Data-Fetching Patterns That Feel Instant
+    → Why NASA Developers Write Code Completely Differently (And W
+    → One Missing File That Can Crash Your Next.js Layout in Produ
+  Request failed https://medium.com/p/6a8b671fca1a: 410 Client Error: Gone for url: https://medium.com/p/6a8b671fca1a
+    → I Copy These 10 Code Snippets Into Every Project
+    → Turbopack: A Better Way to Inline SVG in Next.js 16
+    → I Was Asked About Virtual DOM in a frontend interview: “It’s
+    → How to Eliminate Prop Drilling Completely: The 2025 State Ar
+    → Stop Using Index as a Key. Here’s How React Keys Really Work
+    → 7 RxJS Patterns Every React Developer Misses—Until It’s Too 
+    → This Vite SSR Pattern Gave Me Superpowers (And No Regrets)
+  Request failed https://medium.com/p/70e0e343cd03: 410 Client Error: Gone for url: https://medium.com/p/70e0e343cd03
+    → Create Micro-Frontend Architecture Using React
+    → How One Simple Pattern Makes Side Effects Completely Predict
+  Request failed https://medium.com/p/3a030a3ea8e4: 410 Client Error: Gone for url: https://medium.com/p/3a030a3ea8e4
+    → kiranmantha
+    → Link to list
+    → Medium.Com
+  No article body found for https://medium.com
+  Saved 19 articles for 'Nextjs'
+
+Processing list → Python (Python-9bf8d399bee2.html)
+  Found 13 articles
+    → 10 AWS Tools That Made My Side Project Feel Enterprise Grade
+    → Decoding Market Patterns: A Nobel Prize-Inspired Trading Ind
+    → 3 Python Projects That Made Python Finally Feel Practical
+    → How One Small Python Script Ended Up Earning Me More Than a 
+    → How I Built 6 Micro-Tools in Python That Earn Me Passive Inc
+    → 5 Tiny Python Scripts That Got More Attention Than My Resume
+    → 10 Python Concepts That Took Me Years to Understand — Until 
+    → I Handed ChatGPT $100 to Trade Stocks — Here’s What Happened
+    → 15 Python Nano-Scripts That Automate Actual Business Problem
+    → The Python Tool I Built in a Weekend That Now Pays My Rent
+    → kiranmantha
+    → Link to list
+    → Medium.Com
+  No article body found for https://medium.com
+  Saved 12 articles for 'Python'
+
+Processing list → React_Native (React-Native-98cc51c66650.html)
+  Found 12 articles
+    → Stop Memorizing Design Patterns: Use This Decision Tree Inst
+    → 6 React Native UI Components I Copy-Paste Into Every App
+    → Building LightOS with React Native
+    → Preloading Resources in React Without Third-Party Tools (Fin
+  Request failed https://medium.com/p/2b08f3579a0e: 410 Client Error: Gone for url: https://medium.com/p/2b08f3579a0e
+    → FlashList vs. FlatList: Understanding the Key Differences fo
+    → We Thought React Native Was the Answer — Until Our App Hit 1
+    → The Hook I Use in Every React Project (You’ll Want It Too)
+  Request failed https://medium.com/p/50a504b1b854: 410 Client Error: Gone for url: https://medium.com/p/50a504b1b854
+    → Tailwind in React Native? Here’s the Truth!
+    → React Native Overlapping Components
+    → kiranmantha
+    → Link to list
+    → Medium.Com
+  No article body found for https://medium.com
+  Saved 9 articles for 'React_Native'
+
+Processing list → Read_later_Trading (Read-later---Trading-8375ffacd6bb.html)
+  Found 7 articles
+    → Deploying Algorithmic Trading Strategy Part-3 (Telegram Bot 
+    → Presenting and Back-testing the 3–2–2 Candlestick Pattern
+    → The Forgotten Way of Using the RSI
+    → Using the @incomesharks trading strategy. A simple but very 
+    → kiranmantha
+    → Link to list
+    → Medium.Com
+  No article body found for https://medium.com
+  Saved 6 articles for 'Read_later_Trading'
+
+Processing list → Reading_list (Reading-list-predefined:5815b5fb8e5f:READING_LIST.html)
+  Found 463 articles
+    → How I Built High-Performance JavaScript Backends That Handle
+    → Level Up Your Claude Code with This CLAUDE.md
+    → Stop Writing Utility Functions in Python (Here’s the Better 
+    → Building an Automated Crypto Trading Bot with Larry Williams
+    → I Turned a Chinese Quant Finance Paper into a Forex Trading 
+    → Stop Writing the Same Code Twice — 10 JavaScript Utility Fun
+    → Using spec-driven development with Claude Code
+    → Anthropic Just Released Claude Code Course (And I Earned My 
+    → Stop Memorizing Design Patterns: Use This Decision Tree Inst
+    → I Replaced Bull/BullMQ With 60 Lines of PostgreSQL (And You 
+    → I Replaced React Context With 30 Lines of Vanilla JS (And Av
+    → 10 AWS Tools That Made My Side Project Feel Enterprise Grade
+    → 6 React Native UI Components I Copy-Paste Into Every App
+    → I Stopped Vibe Coding and Started “Prompt Contracts” — Claud
+    → The Month We Stopped Calling It “Web3 Payments”
+    → Decoding Market Patterns: A Nobel Prize-Inspired Trading Ind
+    → How I  Passed AI Practitioner in 5 days
+    → I Stopped Fighting useEffect Dependency Arrays (Here’s What 
+    → 🧩 What is Multi-Zone in Next.js?
+    → Dynamic Configuration in Node.js: Stop Redeploying Your App 
+    → 3 CSS Grid Layouts That Replace Your Entire Component Librar
+    → 5 React Component Patterns That Make Your Code Reusable
+    → Token, Session, Cookie, JWT, OAuth2 — I can’t tell the diffe
+    → AEM Sitemap Creation
+    → AEM ACS Commons error page handling
+    → I Worked on a Banking Backend. This Is What “Production-Read
+    → I Built a JavaScript Tool in One Night That Solved a Problem
+    → How to Choose a Database for your Project in 2026?
+    → From Client to Pod: How an API Request Reaches a Microservic
+    → 3 Python Projects That Made Python Finally Feel Practical
+    → How One Small Python Script Ended Up Earning Me More Than a 
+    → Building LightOS with React Native
+    → Top Traders on Polymarket
+    → The Biggest Mistake I See in React Native Projects (and How 
+    → 12 React 19 Data-Fetching Patterns That Feel Instant
+    → Inside the Mind of a Polymarket BOT
+    → Why NASA Developers Write Code Completely Differently (And W
+    → Plugin Architecture in Node.js Without Regrets
+    → How I Made My First ₹10K Trading Stocks Using AI (And You Ca
+    → Building a Multi-Timeframe Trading Predictor Inspired by Nob
+    → Why 100vh Is Still Broken on Mobile and How to Fix 100vh
+    → We Scaled to 1 Million Users with a Single SQLite Database. 
+    → How I Built 6 Micro-Tools in Python That Earn Me Passive Inc
+    → One Missing File That Can Crash Your Next.js Layout in Produ
+  Request failed https://medium.com/p/6a8b671fca1a: 410 Client Error: Gone for url: https://medium.com/p/6a8b671fca1a
+    → 5 Tiny Python Scripts That Got More Attention Than My Resume
+    → How to Build a Double-Entry Ledger
+    → Uploading Massive Files Without Breaking Your App: A Guide t
+    → I Copy These 10 Code Snippets Into Every Project
+    → Turbopack: A Better Way to Inline SVG in Next.js 16
+    → 10 Python Concepts That Took Me Years to Understand — Until 
+    → The JavaScript Undo Trick That Turns Chaos into Control
+  Request failed https://medium.com/p/757cae3fef83: 410 Client Error: Gone for url: https://medium.com/p/757cae3fef83
+    → I Handed ChatGPT $100 to Trade Stocks — Here’s What Happened
+    → Crop Images in the Browser: My No-Dependency JavaScript Tric
+  Request failed https://medium.com/p/62b5c188e965: 410 Client Error: Gone for url: https://medium.com/p/62b5c188e965
+    → Stop Using Index as a Key. Here’s How React Keys Really Work
+    → 7 RxJS Patterns Every React Developer Misses—Until It’s Too 
+    → The Python Tool I Built in a Weekend That Now Pays My Rent
+    → 7 “Boring” Micro-SaaS Ideas Making $2k/Month (The Developer’
+    → This Vite SSR Pattern Gave Me Superpowers (And No Regrets)
+  Request failed https://medium.com/p/70e0e343cd03: 410 Client Error: Gone for url: https://medium.com/p/70e0e343cd03
+    → This One CSS Trick Adds Smart Numbering to Anything Without 
+  Request failed https://medium.com/p/5a0fe7f69628: 410 Client Error: Gone for url: https://medium.com/p/5a0fe7f69628
+    → Create Micro-Frontend Architecture Using React
+    → JavaScript Promise Hell at 3AM? This One-Liner Saved Me
+  Request failed https://medium.com/p/754794aa5c1f: 410 Client Error: Gone for url: https://medium.com/p/754794aa5c1f
+    → React Patterns Made Simple
+    → A JavaScript Trick That Makes Web Components Fun Again
+  Request failed https://medium.com/p/06409fe4f66b: 410 Client Error: Gone for url: https://medium.com/p/06409fe4f66b
+    → Why I Stopped Using CSS Box-Shadow — It Slows Your Page by U
+    → How One Simple Pattern Makes Side Effects Completely Predict
+  Request failed https://medium.com/p/3a030a3ea8e4: 410 Client Error: Gone for url: https://medium.com/p/3a030a3ea8e4
+    → Web Workers vs. WASM: When to Use Which for Performance
+    → The One Routing System That Works on Both Sides of JavaScrip
+  Request failed https://medium.com/p/59906a55f7f0: 410 Client Error: Gone for url: https://medium.com/p/59906a55f7f0
+    → A DOM-Driven Strategy to Auto-Register Web Components Dynami
+  Request failed https://medium.com/p/9ca8073feaa7: 410 Client Error: Gone for url: https://medium.com/p/9ca8073feaa7
+    → Localhost HTTPs: 3 Easy Ways to Secure Your Local Developmen
+    → A Smarter Way to Run Background Tasks in JavaScript: When Br
+  Request failed https://medium.com/p/eea263647696: 410 Client Error: Gone for url: https://medium.com/p/eea263647696
+    → Next.js Server Actions: The Future of Fullstack
+    → Say Goodbye to Screen Timeouts Forever With This Simple Java
+  Request failed https://medium.com/p/a1e7942211ae: 410 Client Error: Gone for url: https://medium.com/p/a1e7942211ae
+    → I Replaced 400ms Of JavaScript With 12ms Of Rust In Angular
+    → I Stopped Using JavaScript for Menus
+    → How to Prevent 10,000 Concurrent Database Hits in 2 Seconds
+    → The Simple JavaScript Beacon Trick For Debugging: Exposes An
+  Request failed https://medium.com/p/e0e6a00fa5e7: 410 Client Error: Gone for url: https://medium.com/p/e0e6a00fa5e7
+    → The Vanilla JS Framework: 5 Advanced Patterns That Replace Y
+    → Build a LLM App with RAG to Chat with GitHub in 10 Lines of 
+    → Building Production-Grade Autonomous Agents in less than 10 
+    → MCP Introduction for Dummies Part 01
+    → Fetch API Trick: Auto Retry Request When It Fails
+    → I Wasted 8 Months on Every Remote Job Site. This Is the Only
+    → How to Eliminate Prop Drilling Completely: The 2025 State Ar
+    → This New CSS Pattern Solves the #1 Pain of Responsive UI
+  Request failed https://medium.com/p/899625a2365c: 410 Client Error: Gone for url: https://medium.com/p/899625a2365c
+    → The Hidden HTML5 Feature That Tracks Clicks Without JavaScri
+  Request failed https://medium.com/p/416ee6b571fd: 410 Client Error: Gone for url: https://medium.com/p/416ee6b571fd
+    → Use These 7 Secret React Patterns and Instantly Join the Top
+    → How to Learn DevOps & Cloud from Scratch in 2026 (A Practica
+    → I Was Asked About Virtual DOM in a frontend interview: “It’s
+    → Stop Abusing Base64: Blob is the Right Way to Unburden the F
+    → I Replaced Axios With 25 Lines of Vanilla JS (And You Should
+    → BFF (Backend-for-Frontend) Pattern with Next.js API Routes: 
+    → Web Components with static and dynamic content
+    → End to End Deployment Automation to AWS Using GitHub Actions
+    → Role-Based Access Control (RBAC) in Next.js: A Complete Guid
+    → Stop Using Old React Patterns — React 19 Just Changed Enterp
+    → 3 CSS Nesting Patterns I Actually Use
+    → HTML & CSS Just Replaced JavaScript Sliders
+    → The Rendering Guide Nobody Explains Properly — SSR, ISR, and
+    → 5 Vanilla JS Patterns That Replace Entire Libraries
+    → Patterns for Massive Forms in React: Scalable, Performant an
+    → How a React Request Turned Into Full Server Shell Root Acces
+    → Netflix Live Origin
+  Request failed https://medium.com/p/41f1b0ad5371: HTTPSConnectionPool(host='netflixtechblog.com', port=443): Max retries exceeded with url: /netflix-live-origin-41f1b0ad5371 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → How JavaScript is Changing Single-Page App Navigation in 202
+  Request failed https://medium.com/p/53659f4be5c1: 410 Client Error: Gone for url: https://medium.com/p/53659f4be5c1
+    → 9 Repos Every Developer Should Know
+    → The Tiny CSS Upgrade That Solves Big Design System Headaches
+  Request failed https://medium.com/p/3d933675bf76: 410 Client Error: Gone for url: https://medium.com/p/3d933675bf76
+    → Python Mastery in 7 Days: From Beginner to Confident Develop
+    → From Theory to Automation: WCAG compliance using axe-core, n
+    → Using Tailwind CSS in a Turborepo with apps and packages
+    → Model Context Protocol (MCP): 10 Must-Try MCP Servers for De
+    → Building an Advanced Agentic RAG Pipeline that Mimics a Huma
+    → From Next.js to Remix: The Migration Trick No One Told You
+  Request failed https://medium.com/p/11b273f84f17: 410 Client Error: Gone for url: https://medium.com/p/11b273f84f17
+    → Preloading Resources in React Without Third-Party Tools (Fin
+  Request failed https://medium.com/p/2b08f3579a0e: 410 Client Error: Gone for url: https://medium.com/p/2b08f3579a0e
+    → Optimizing LangChain AI Agents with Contextual Engineering
+    → LangChain Agents for Noobs: A Complete Practical Guide
+    → Load Balancing 100,000 WebSocket Connections: HAProxy vs. Ng
+    → Integrating GraphQL and REST APIs in a Single NestJS Applica
+  Request failed https://medium.com/p/710c48dac411: 410 Client Error: Gone for url: https://medium.com/p/710c48dac411
+    → We Thought React Native Was the Answer — Until Our App Hit 1
+    → 10 Advanced CSS Techniques That Will Transform Your Web Deve
+    → 15 Python Nano-Scripts That Automate Actual Business Problem
+    → Docker, Jenkins, Prometheus, locally?! Here’s the stack that
+    → The Hook I Use in Every React Project (You’ll Want It Too)
+  Request failed https://medium.com/p/50a504b1b854: 410 Client Error: Gone for url: https://medium.com/p/50a504b1b854
+    → Ollama Pydantic Project: Integrating MCP Server with a Local
+    → React Native Overlapping Components
+    → Why Silicon Valley CTOs Are Secretly Moving Away from React
+    → Introducing Static Sharding to an SQLite Backend
+    → Best Practices for Writing Sling Models in AEM
+    → Exploring Different Front-End Rendering Approaches in Adobe 
+    → Why You Should Avoid Using Server Actions for Data Fetching 
+    → Angular Multi-Language Without Libraries: A Custom Pipe with
+    → Things only senior React engineers know
+    → Advanced Kubernetes Tutorial Every DevOps Engineer Has Been 
+    → Angular Reactive Forms Add Form Control And Remove Form Cont
+    → Route Guards in Angular
+    → React Signals: Another Way to Handle State Management 🚀
+    → How to Secure API Gateways in a Node.js Microservices Archit
+  Request failed https://medium.com/p/ff41679a2490: 410 Client Error: Gone for url: https://medium.com/p/ff41679a2490
+    → My Favourite Software Architecture Patterns
+    → Rebuilding Netflix Video Processing Pipeline with Microservi
+  Request failed https://medium.com/p/4e5e6310e359: HTTPSConnectionPool(host='netflixtechblog.com', port=443): Max retries exceeded with url: /rebuilding-netflix-video-processing-pipeline-with-microservices-4e5e6310e359 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → Mastering Concurrent/Multiple API Requests with RxJS: A Deep
+    → TypeScript Patterns You Should Know for React Development
+    → Building Multi-Brand Websites with a Single Next.js Codebase
+  Request failed https://medium.com/p/93376411b929: 410 Client Error: Gone for url: https://medium.com/p/93376411b929
+    → Mastering React’s Specialized Hooks: 7 Essential Hooks for Y
+    → React 19: Goodbye to Old Features, Hello to the Future
+    → Building a Robust Controlled Rollout System for Frontend at 
+  Request failed https://medium.com/p/91cabeea2898: HTTPSConnectionPool(host='bytes.swiggy.com', port=443): Max retries exceeded with url: /building-a-robust-controlled-rollout-system-for-frontend-at-scale-91cabeea2898 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → Internationalization with Next.js 15 and react-intl
+    → Complete Guide: Password Reset and Authentication in Next.js
+    → Distributed Transaction Patterns in Event-Driven Microservic
+    → Multi-Zone vs Multi-Tenant in Next.js: A Practical Guide
+    → 2305258A87D7
+  Request failed https://medium.com/p/2305258a87d7: 410 Client Error: Gone for url: https://medium.com/p/2305258a87d7
+    → Make Your React App Multilingual with Ease
+    → Implementing Micro Frontends with Next.js: A Real-World Expe
+    → Dynamic Conditional Types in TypeScript
+    → Dockerizing Turborepo Remix Application
+    → Implementing MVVM in React: A Real-World Guide
+    → Implementing CSRF Protection in Next.js Applications
+    → Docker pros are shrinking images by 99%: The hidden techniqu
+    → 10 Proven Micro SaaS Ideas That Are Making Money
+    → How I Am Using a Lifetime 100% Free Server
+    → How the NEW CSS Anchor API solved one of the HARDEST web dev
+    → Building a Nest.js API That Can Handle Millions of Requests 
+  Request failed https://medium.com/p/6212add27122: 410 Client Error: Gone for url: https://medium.com/p/6212add27122
+    → Building a Custom Image Optimization Pipeline in Next.js for
+  Request failed https://medium.com/p/526643380dbc: 410 Client Error: Gone for url: https://medium.com/p/526643380dbc
+    → Why do many people not recommend using JWT?
+    → Event-Driven React with the Observer Pattern: A Clean Altern
+    → Build Scalable Event-Driven Applications With Nest.js
+    → System Architecture : Deep Dive into 1M RPS API Design
+    → Express.js Secrets That Senior Developers Don’t Share
+    → Top 30 Most Complicated Interview Questions on React
+    → An alternative way of writing Single Page Applications (SPA)
+    → 650Ca8508625
+  Request failed https://medium.com/p/650ca8508625: 410 Client Error: Gone for url: https://medium.com/p/650ca8508625
+    → NestJS vs Go: Performance comparison for JWT verify and MySQ
+    → Top 7 Alternatives to Next.js in 2025
+    → Create your next VS Code extension as fast as possible
+    → Service Mesh vs API Gateway
+    → Vite, Nginx and environment variables for a static website a
+    → I Stopped Using Kubernetes. Our DevOps Team Is Happier Than 
+    → Ambiguous architectural patterns
+  Request failed https://medium.com/p/7733c1225422: HTTPSConnectionPool(host='itnext.io', port=443): Max retries exceeded with url: /ambiguous-architectural-patterns-7733c1225422 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → Headless CMS (Contentful) and NextJS: How to create a modern
+    → Mapping content types to React components: How to create a m
+    → Exploring Different Types of Micro Frontends
+    → Simple React Server Components Implementation Without Next.j
+    → Building a Real-Time AI Agent with LangChain, LangGraph, and
+    → GraphQL as BFF (Backend-For-Frontends)
+    → Understanding Execution Context and Execution Stack in Javas
+    → High-Level System Architecture of Booking.com
+    → Concurrency Conundrum in Booking Systems
+    → The Placement of Script Tags in HTML: Choosing Between Top a
+    → TypeScript Library tips: Rollup your types!
+    → Creating Envless Angular-application
+  Request failed https://medium.com/p/0ce3c2ecaddd: HTTPSConnectionPool(host='itnext.io', port=443): Max retries exceeded with url: /creating-envless-angular-application-0ce3c2ecaddd (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → AWS, Azure and Google Cloud Equivalent Services
+    → Next Js: How to automate performance testing using Apache JM
+    → Client side error logging in React web application
+    → Microservices Authentication and Authorization Using API Gat
+    → Automated Penetration Testing Useing OWASP ZAP
+    → AEM SPA | Comparison of Different Approaches
+    → Angular: Generating, Accessing and Using CSP Nonces with Ngi
+    → AEM with NextJS spa component rendering
+    → Implement a Dependency Injection Container in TypeScript fro
+    → Enhancing Adobe Experience Manager with Web Components: Prac
+  Request failed https://medium.com/p/e5569164d0ec: 403 Client Error: Forbidden for url: https://sumeerbasha.medium.com/enhancing-adobe-experience-manager-with-web-components-practical-implementation-guide-e5569164d0ec
+    → All About Kubernetes Port Types: NodePort,TargetPort,Port,Co
+    → Solving Event Losses with Kafka Dead Letter Queue
+    → Deploy React Application using Tekton Pipelines
+    → Tekton: Build Simple Build Pipeline using Kubernetes Native 
+    → Why do I need an API Gateway on a Kubernetes cluster
+    → Native Git Hooks: Bye Bye, Husky!
+    → GraphQL Subscriptions in NestJS with Apache Kafka, and Mongo
+    → Kafka vs. RabbitMQ: Choosing the Right Messaging Broker
+    → How to deploy application on Kubernetes with Helm
+    → Full Stack Application Deployment with Docker, AWS EC2, and 
+    → Next.js App Router Routing patterns you should know
+    → Goodbye SASS 👋, welcome back native CSS
+    → Execution context, Scope chain and JavaScript internals
+    → A TC39 Proposal for Signals
+  Request failed https://medium.com/p/f0bedd37a335: 403 Client Error: Forbidden for url: https://eisenbergeffect.medium.com/a-tc39-proposal-for-signals-f0bedd37a335
+    → ⏰ It’s Time to Talk About Import Map, Micro Frontend, and Nx
+    → Contract Testing for Event Driven Architectures — Can We, Do
+    → Session Authentication with Lambda and DynamoDB
+    → Work with Vite and NX
+    → Clustering In NodeJs
+    → Deploying Algorithmic Trading Strategy Part-3 (Telegram Bot 
+    → Decoupling UI and Logic in React: A Clean Code Approach with
+  Request failed https://medium.com/p/82e46b5820c: HTTPSConnectionPool(host='itnext.io', port=443): Max retries exceeded with url: /decoupling-ui-and-logic-in-react-a-clean-code-approach-with-headless-components-82e46b5820c (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → Laws of UX that Airbnb follows
+    → How To Hydrate A Server-Side Rendered Web Component
+  Request failed https://medium.com/p/2e795651e07c: HTTPSConnectionPool(host='itnext.io', port=443): Max retries exceeded with url: /how-to-hydrate-a-server-side-rendered-web-component-2e795651e07c (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → Re-create the RxJS Library from Scratch: Deep Dive into RxJS
+    → A Bit of Reactivity with Vanilla JS
+    → How and Why You Should Store React UI State in the URL
+    → Build a back-end with PostgreSQL, FastAPI, and Docker
+    → Using the @incomesharks trading strategy. A simple but very 
+    → Optimized “920 Straddle Strategy” To Get More Than 80% Retur
+    → Demystifying JSX: building your own JSX parser from scratch
+    → Scraping Google Maps to Measure Electric Vehicle Infrastruct
+    → Native Form Validation Of Web Components
+  Request failed https://medium.com/p/a599e85176c7: HTTPSConnectionPool(host='itnext.io', port=443): Max retries exceeded with url: /native-form-validation-of-web-components-a599e85176c7 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → The Hidden Power of Custom States For Web Components
+  Request failed https://medium.com/p/dcae5b048e20: HTTPSConnectionPool(host='itnext.io', port=443): Max retries exceeded with url: /the-hidden-power-of-custom-states-for-web-components-dcae5b048e20 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → The Proxy API Is So Powerful That Every Web Developer Should
+    → Get User Postal Code, Latitude, Longitude etc from AWS
+    → No More Confusion About TypeScript’s Type and Interface
+    → API Calls Using React-Query Hooks
+    → Create a Next.js web app with Nx
+    → Styled Components: To Use or Not to Use?
+    → Open Source Investment Research for Everyone
+  Request failed https://medium.com/p/280db0a51aa2: 403 Client Error: Forbidden for url: https://alpha2phi.medium.com/open-source-investment-research-for-everyone-280db0a51aa2
+    → E651Bd831721
+  Request failed https://medium.com/p/e651bd831721: 410 Client Error: Gone for url: https://medium.com/p/e651bd831721
+    → Understand JavaScript’s Event Loop
+    → RxJS in the Wild: How to Create Pop-up Alerts
+    → JWT Ultimate: How-To Guide With Best Practices In JavaScript
+    → JavaScript Under The Hood: Advanced Concepts Developers Shou
+    → 7 Killer JavaScript Snippets
+    → Switching from ws to socket.io
+    → Rethinking Dependency Injection in TypeScript
+    → NestJS, TypeORM and PostgreSQL — full example development an
+    → How to Use Observables with Vanilla JavaScript
+    → Creating a Blockchain with Javascript
+    → How to Force a PWA to Refresh its Content
+    → With ES Modules and HTTP/2 You May Not Need Webpack Anymore
+    → Building a Rich-Text Editor for Modern Publishers
+    → How and when (not) to use webpack for lazy loading?
+    → The <details> Of a Dropdown
+    → 27A0A484635
+  Request failed https://medium.com/p/27a0a484635: 410 Client Error: Gone for url: https://medium.com/p/27a0a484635
+    → Finally a better react.js folder structure
+    → JavaScript Sanitizer API: The Modern Way to Safe DOM Manipul
+    → Excel JavaScript API
+    → How I Made a Profit Mining Ethereum on AWS
+    → Deploy your static web app to a blockchain and make it a Web
+    → 🚀 Deploying any app to GitHub Pages
+    → Enable Brotli Compression in Webpack with Fallback to Gzip
+    → Where Should You Store JSON Web Tokens (JWT)?
+    → Make NodeJs handle 5x request with 99.9% uptime adding 10 li
+    → 6 SQL Queries Every Data Engineer Should Be Aware of
+    → You don’t need JWT anymore
+    → CSS Is Finally Getting If/Else Statements!
+    → I Made $3 Million in Crypto. These are the 26 Rules I Learne
+    → Self-Parking Car in <500 Lines of Code
+    → Writing  TypeScript custom AST Transformer (Part 1)
+    → How to Create a Timeline with Pure CSS
+    → How to Setup a JavaScript Monorepo Like a Professional
+    → 13 JavaScript One-Liners That’ll Make You Look Like a Pro
+    → Why I use Rollup, and not Webpack
+    → 9E7E4A452E6E
+  Request failed https://medium.com/p/9e7e4a452e6e: 410 Client Error: Gone for url: https://medium.com/p/9e7e4a452e6e
+    → Product-Oriented JavaScript Interview Questions
+    → Simplified Inheritance in JS (ES5 way)
+    → Progressive Web Applications: What They Are, Why They’re Hot
+    → Create a Typed Version of SimpleChanges in Angular
+    → Angular State Management Without RxJS — An Experiment
+    → Why and How to Lazy Load Components in Angular
+    → 10 Things Every Angular Developer Should Know About Zone.js
+    → Adventures in the Virtual DOM — Part 2: The Diff/Render Loop
+    → Using Python and Robinhood to Build An Iron Condor Options T
+    → How to import  JSON data into Google Spreadsheets in less th
+    → There’s No Need To Hate Web Components
+  Request failed https://medium.com/p/ebf2ec8a998c: HTTPSConnectionPool(host='itnext.io', port=443): Max retries exceeded with url: /theres-no-need-to-hate-web-components-ebf2ec8a998c (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → Lessons learned using JSX without React
+  Request failed https://medium.com/p/bbddb6c28561: HTTPSConnectionPool(host='itnext.io', port=443): Max retries exceeded with url: /lessons-learned-using-jsx-without-react-bbddb6c28561 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → Micro-Frontend using Web Components
+    → Data Structures You Should Know as a JavaScript Developer
+    → How we wrote the Fastest JavaScript UI Framework, Again!
+    → A definitive guide to learning Python for Algorithmic Tradin
+    → Get started for FREE with automatic algorithmic trading (if 
+    → Algorithmic Trading with RSI using Python
+    → Algorithmic Trading with MACD and Python
+    → Building a Simple Carousel Component with Angular
+    → Two-Pointer Technique: Solving Array Problems at Light Speed
+    → Mastering RxJS: operators and functions that can bite you wh
+    → Handle multiple API requests in Angular using mergeMap and f
+    → Priority Queue in TypeScript
+  Request failed https://medium.com/p/6ef23116901: HTTPSConnectionPool(host='itnext.io', port=443): Max retries exceeded with url: /priority-queue-in-typescript-6ef23116901 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → Debugging Memory Leaks in Angular
+    → Catching memory leaks with Chrome DevTools
+    → Top UI/UX Design Works for Inspiration — #104
+    → How to Upload Files to Firebase Cloud Storage With React and
+    → Angular component testing with examples
+    → Simulating Events in Angular Unit Tests
+    → Recursion in Angular Components
+    → Get notified! Improvements to KaiOS push notifications
+    → Web Components Landscape in 2019
+    → The essential role of shortcut keys in internet browsing
+    → TypeScript VS Flow: Type Checking Front End JavaScript
+    → Designing KaiOS Weather Icons
+    → A Yogi’s Word on Kriya
+    → The story of the great siddha, Mahavatar Babaji
+    → WHO IS MAHAVTAR BABAJI
+    → Designing for different screen sizes & devices — responsive 
+    → RxJS | Create Observables from event sources directly
+    → Top UI/UX Design Works for Inspiration — #96
+    → Demystifying Hooks
+    → A quick tip on testing Observables 👀
+  Request failed https://medium.com/p/e2fbdebef4c: HTTPSConnectionPool(host='itnext.io', port=443): Max retries exceeded with url: /a-quick-tip-on-testing-observables-e2fbdebef4c (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → Testing Observables in Angular
+    → What You Didn’t Know About KaiOS Browser
+    → 3 Ways to Render Large Lists in Angular
+    → Mastering the Angular performance — by dropping the magic of
+    → Smart feature phones: 4 learnings from designing for smaller
+    → A Guide to inject variable into your code using webpack
+    → Faa778C85396
+  Request failed https://medium.com/p/faa778c85396: 410 Client Error: Gone for url: https://medium.com/p/faa778c85396
+    → Form validation with JavaScript
+    → Build your own event emitter using only native DOM APIs
+    → Porting Games to the Web with WebAssembly
+    → 8 Tips for Dark Theme Design
+    → How to use IndexDB to build Progressive Web Apps
+    → Build a PWA Using Only Vanilla JavaScript
+    → Destructuring Nested Objects
+    → ES6 Destructuring: The Complete Guide
+  Request failed https://medium.com/p/7f842d08b98f: HTTPSConnectionPool(host='codeburst.io', port=443): Max retries exceeded with url: /es6-destructuring-the-complete-guide-7f842d08b98f (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → How to build a simple sprite animation in JavaScript
+    → The 100% correct way to split your chunks with Webpack
+    → A guide to `this` in JavaScript
+    → How to build a Chrome Extension to save web content to Cosmi
+    → Parallel programming in JavaScript using Web Workers
+    → Service Workers! Your first step towards Progressive Web App
+    → How To Test a Web Component
+    → Write your Virtual DOM 2: Props & Events
+    → How to write your own Virtual DOM
+    → Stop Using i++ in Your Loops
+    → Dependency Injection using Decorators
+    → Enhancing JavaScript Objects with Descriptors and Symbols
+  Request failed https://medium.com/p/2cdc95e9b422: HTTPSConnectionPool(host='itnext.io', port=443): Max retries exceeded with url: /enhancing-javascript-objects-with-descriptors-and-symbols-2cdc95e9b422 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → Error Handling in JavaScript: a Quick Guide
+    → The Power of the Module Pattern in JavaScript
+    → Creating WebAssembly-powered library for modern web
+    → The Promise of WebComponents & WebAssembly
+  Request failed https://medium.com/p/ad26af56fcf1: HTTPSConnectionPool(host='itnext.io', port=443): Max retries exceeded with url: /the-promise-of-webcomponents-webassembly-ad26af56fcf1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → Develop W3C Web Components with WebAssembly
+    → The Power of the Observer Pattern in JavaScript
+    → 4 Ways to Safely Access Nested Objects in Vanilla Javascript
+    → Google API authentication with OAuth 2 —on the example of gm
+    → Microsoft Excel: Basic PowerQuery — Stock Price Data From Go
+    → TradingView JS API Integration Tutorial: Introduction
+    → Rollup vs Webpack (JavaScript bundling in 2018)
+    → SASS, LESS, CSS without JavaScript in Polymer 3 with Webpack
+    → On Styling Web Components
+  Request failed https://medium.com/p/b74b8c70c492: HTTPSConnectionPool(host='blog.webf.zone', port=443): Max retries exceeded with url: /on-styling-web-components-b74b8c70c492 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → Comparing bundlers: Webpack, Rollup & Parcel
+    → Modern Approach of JavaScript Bundling With Webpack
+    → Step by step: Building and publishing an NPM Typescript pack
+  Request failed https://medium.com/p/44fe7164964c: HTTPSConnectionPool(host='itnext.io', port=443): Max retries exceeded with url: /step-by-step-building-and-publishing-an-npm-typescript-package-44fe7164964c (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → Start a local, live-reload web server with one command
+    → How To Finally Understand Generics in TypeScript
+    → lit-html vs hyperHTML vs lighterhtml
+  Request failed https://medium.com/p/c084abfe1285: 403 Client Error: Forbidden for url: https://webreflection.medium.com/lit-html-vs-hyperhtml-vs-lighterhtml-c084abfe1285
+    → Searching in Your IndexedDB Database
+  Request failed https://medium.com/p/d7cbf202a17: HTTPSConnectionPool(host='itnext.io', port=443): Max retries exceeded with url: /searching-in-your-indexeddb-database-d7cbf202a17 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → 1164C0Adfcec
+  Request failed https://medium.com/p/1164c0adfcec: 410 Client Error: Gone for url: https://medium.com/p/1164c0adfcec
+    → The 7 Most-Used JavaScript Topics You Should Know
+  Request failed https://medium.com/p/bd242aca41a0: HTTPSConnectionPool(host='codeburst.io', port=443): Max retries exceeded with url: /the-7-most-used-javascript-topics-you-should-know-bd242aca41a0 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → JavaScript Modules: A Beginner’s Guide
+    → How to create a single page application using Razor pages wi
+    → A Dart REPL PoC
+  Request failed https://medium.com/p/f327e3769b6f: 403 Client Error: Forbidden for url: https://blog.dart.dev/dart-repl-poc-f327e3769b6f
+    → Implementing single file Web Components
+    → EZWC for Native Web Components
+  Request failed https://medium.com/p/e574a6f39de: HTTPSConnectionPool(host='itnext.io', port=443): Max retries exceeded with url: /ezwc-for-native-web-components-e574a6f39de (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → Not a nonsense example of a web application with Flutter and
+  Request failed https://medium.com/p/cf3b0bc5399f: 403 Client Error: Forbidden for url: https://minikin.medium.com/not-a-nonsense-example-of-a-web-application-with-flutter-and-dart-cf3b0bc5399f
+    → Vanilla JavaScript Components
+    → How to make a Promise out of a Callback function in JavaScri
+    → A minimal guide to JavaScript (ECMAScript) Decorators and Pr
+    → Currying, Partial Application, and Infinite Application
+    → Ins and Outs of  Flutter Web
+    → Creating Micro-frontends using Web Components (with support 
+  Request failed https://medium.com/p/2d6db18f557a: 403 Client Error: Forbidden for url: https://javascript.plainenglish.io/create-micro-frontends-using-web-components-with-support-for-angular-and-react-2d6db18f557a
+    → Working with DOM in Angular: unexpected consequences and opt
+    → Event Binding Mechanism in Angular
+    → Here is why you will not find components inside Angular
+    → E428B0Cb52E4
+  Request failed https://medium.com/p/e428b0cb52e4: 410 Client Error: Gone for url: https://medium.com/p/e428b0cb52e4
+    → Avoid ugly If/else blocks & make your code modular with Stra
+  Request failed https://medium.com/p/1c3364b2f920: HTTPSConnectionPool(host='itnext.io', port=443): Max retries exceeded with url: /avoid-ugly-if-else-blocks-make-your-code-modular-with-strategy-1c3364b2f920 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → How to use the JavaScript console: going beyond console.log(
+    → JavaScript Fundamentals: Mastering Objects
+  Request failed https://medium.com/p/7936db8156e0: HTTPSConnectionPool(host='itnext.io', port=443): Max retries exceeded with url: /javascript-fundamentals-mastering-objects-7936db8156e0 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → 9Ec1C089Ea6F
+  Request failed https://medium.com/p/9ec1c089ea6f: 410 Client Error: Gone for url: https://medium.com/p/9ec1c089ea6f
+    → Design patterns in modern JavaScript development
+    → 9 Web Components UI Libraries You Should Know in 2021
+    → Web Components will replace your frontend framework
+    → Create a Material Design ripple effect without JS
+  Request failed https://medium.com/p/9d3cbee25b3e: HTTPSConnectionPool(host='codeburst.io', port=443): Max retries exceeded with url: /create-a-material-design-ripple-effect-without-js-9d3cbee25b3e (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → Unclosuring closures and introducing Dependency Injection in
+    → How to write simple modern JavaScript apps with Webpack and 
+    → Tagged Template Literal for HTML Templates
+    → Abf9B1C59246
+  Request failed https://medium.com/p/abf9b1c59246: 410 Client Error: Gone for url: https://medium.com/p/abf9b1c59246
+    → Avoiding Babel’s Production Bloat
+  Request failed https://medium.com/p/d53eea2e1cbf: 403 Client Error: Forbidden for url: https://webreflection.medium.com/avoiding-babels-production-bloat-d53eea2e1cbf
+    → JavaScript: Vanilla Single Page Applications (SPA)
+    → Do we still need JavaScript frameworks?
+    → How to Make an Awesome Inventory Management Application in P
+    → HTML/CSS Tricks — Scroll-able Table Body <tbody>
+    → Angular Authentication Using JWT
+    → Building A Simple Single Sign On(SSO) Server And Solution Fr
+  Request failed https://medium.com/p/ea6ee5fdf340: HTTPSConnectionPool(host='codeburst.io', port=443): Max retries exceeded with url: /building-a-simple-single-sign-on-sso-server-and-solution-from-scratch-in-node-js-ea6ee5fdf340 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → Performing multiple HTTP requests in Angular with forkJoin
+    → Introducing NG-VDOM: A new way to write Angular application
+    → Make Your Angular Form’s Error Messages Magically Appear
+    → Sharing the UI router between AngularJS and Angular 6
+  Request failed https://medium.com/p/84f6370ec557: HTTPSConnectionPool(host='itnext.io', port=443): Max retries exceeded with url: /sharing-the-ui-router-between-angularjs-and-angular-6-84f6370ec557 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → How and When To Use Over-scroll Effects in UX Design
+    → Master the art of looping in JavaScript with these incredibl
+    → Didact Fiber: Incremental reconciliation
+    → Enforcing a single web socket connection per user with Node.
+    → How to secure your WebSocket connections
+    → Vanilla JS fragments & DOM patching
+  Request failed https://medium.com/p/b4f8d7ec8fbd: HTTPSConnectionPool(host='itnext.io', port=443): Max retries exceeded with url: /vanilla-js-fragments-dom-patching-b4f8d7ec8fbd (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → Combining React with Socket.io for real-time goodness
+    → Build a realtime voting app in less than 10 min
+    → Double Entry Accounting in a Relational Database
+    → Build yourself a simple CRM from scratch in PHP and MySQL
+    → Animate Dynamic Components in Angular
+    → Everything you need to know about change detection in Angula
+    → If you think `ngDoCheck` means your component is being check
+    → Understanding Asynchronous JavaScript
+    → Creating Searchable Templates in Angular
+    → Reactive Web Design: The secret to building web apps that fe
+    → Curry and Function Composition
+    → Vanilla Redux
+    → JavaScript Essentials: Objects
+  Request failed https://medium.com/p/56373a1a6bfb: HTTPSConnectionPool(host='codeburst.io', port=443): Max retries exceeded with url: /javascript-essentials-objects-56373a1a6bfb (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → Total Guide To Angular 6+ Dependency Injection — providedIn 
+  Request failed https://medium.com/p/85b7a347b59f: 403 Client Error: Forbidden for url: https://tomastrajan.medium.com/total-guide-to-angular-6-dependency-injection-providedin-vs-providers-85b7a347b59f
+    → How can we plan our trades depending on the pre-open market?
+  Request failed https://medium.com/p/8646c402b9c: 410 Client Error: Gone for url: https://medium.com/p/8646c402b9c
+    → How I converted my React app to VanillaJS (and whether or no
+  Request failed https://medium.com/p/4b14b1b2faff: 403 Client Error: Forbidden for url: https://david-gilbertson.medium.com/how-i-converted-my-react-app-to-vanillajs-and-whether-or-not-it-was-a-terrible-idea-4b14b1b2faff
+    → 946B19Df577E
+  Request failed https://medium.com/p/946b19df577e: 410 Client Error: Gone for url: https://medium.com/p/946b19df577e
+    → Learn Firebase CRUD App with Vanilla JavaScript NOW — Part 2
+    → Service workers: the little heroes behind Progressive Web Ap
+    → How to chain functions in JavaScript
+    → JavaScript Symbols, Iterators, Generators, Async/Await, and 
+  Request failed https://medium.com/p/4003d7bbed32: 403 Client Error: Forbidden for url: https://rajaraodv.medium.com/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32
+    → The Inner Workings Of Virtual DOM
+  Request failed https://medium.com/p/666ee7ad47cf: 403 Client Error: Forbidden for url: https://rajaraodv.medium.com/the-inner-workings-of-virtual-dom-666ee7ad47cf
+    → Check out these useful ECMAScript 2015 (ES6) tips and tricks
+    → 6Fda03B7Fa2C
+  Request failed https://medium.com/p/6fda03b7fa2c: 410 Client Error: Gone for url: https://medium.com/p/6fda03b7fa2c
+    → React-Redux Decorators
+    → Understanding Higher-Order Functions in JavaScript
+    → Strategies for Service Worker Caching for Progressive Web Ap
+    → PWA: Create a “New Update Available” Notification using Serv
+    → PWA from scratch guide (yet another one)
+  Request failed https://medium.com/p/bdfa438b50aa: HTTPSConnectionPool(host='itnext.io', port=443): Max retries exceeded with url: /pwa-from-scratch-guide-yet-another-one-bdfa438b50aa (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → 15 Best PWA Tutorials for Beginners [2026] — Learn PWA Onlin
+    → Progressive Web Apps with Service Workers
+    → Inheritance in JavaScript
+    → Improve React Performance
+    → These React Fundamentals You Skip may be Killing You
+    → A Simple React Router v4 Tutorial
+    → Understanding a large scale angular app with @ngrx
+    → Manage Action Flow in @ngrx with @ngrx/effects
+    → Angular Pro Tip: How to dynamically create components in <bo
+    → How to Build Your Own Reactivity System
+    → 3 Tips for Angular Runtime Performance from the Real World
+  Request failed https://medium.com/p/d467fbc8f66e: 403 Client Error: Forbidden for url: https://blog.angular.dev/3-tips-for-angular-runtime-performance-from-the-real-world-d467fbc8f66e
+    → Why every beginner front-end developer should know publish-s
+  Request failed https://medium.com/p/72a12cd68d44: HTTPSConnectionPool(host='itnext.io', port=443): Max retries exceeded with url: /why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-72a12cd68d44 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+    → Using RxJS to handle HTTP requests
+    → Practical RxJS In The Wild 🦁— Requests with concatMap() vs m
+    → Understanding, creating and subscribing to observables in An
+    → React - Utility Higher Order Components as Decorators (TC39 
+    → Understanding rxjs Subjects
+    → Understanding rxjs BehaviorSubject, ReplaySubject and AsyncS
+    → When to use Angular’s forRoot() method
+    → kiranmantha
+    → Link to list
+    → Medium.Com
+  No article body found for https://medium.com
+  Saved 381 articles for 'Reading_list'
+
+Processing list → Rust (Rust-94c252bd6b9d.html)
+  Found 4 articles
+    → I Replaced 400ms Of JavaScript With 12ms Of Rust In Angular
+    → kiranmantha
+    → Link to list
+    → Medium.Com
+  No article body found for https://medium.com
+  Saved 3 articles for 'Rust'
+
+Processing list → Start_up_ideas (Start-up-ideas-eb9e35f6bba2.html)
+  Found 5 articles
+    → 85E2Be943Dba
+  Request failed https://medium.com/p/85e2be943dba: 410 Client Error: Gone for url: https://medium.com/p/85e2be943dba
+    → 7 “Boring” Micro-SaaS Ideas Making $2k/Month (The Developer’
+  Request failed https://medium.com/p/8beec91d4cd0: 403 Client Error: Forbidden for url: https://blog.startupstash.com/7-boring-micro-saas-ideas-making-2k-month-the-developers-blueprint-8beec91d4cd0
+    → kiranmantha
+    → Link to list
+    → Medium.Com
+  No article body found for https://medium.com
+  Saved 2 articles for 'Start_up_ideas'
+
+Processing list → Trading (Trading-28689546722e.html)
+  Found 15 articles
+    → Building an Automated Crypto Trading Bot with Larry Williams
+    → I Turned a Chinese Quant Finance Paper into a Forex Trading 
+    → Decoding Market Patterns: A Nobel Prize-Inspired Trading Ind
+    → How I Made My First ₹10K Trading Stocks Using AI (And You Ca
+    → Building a Multi-Timeframe Trading Predictor Inspired by Nob
+    → Deploying Algorithmic Trading Strategy Part-3 (Telegram Bot 
+    → How to set up Algo trading as a side hustle
+    → Algorithmic Trading: algorithms to beat the market
+    → Algorithmic Trading: backtesting an intraday scalping strate
+    → The Forgotten Way of Using the RSI
+    → The “9:20 AM Short Straddle” Intraday Trading Strategy
+    → Optimized “920 Straddle Strategy” To Get More Than 80% Retur
+    → kiranmantha
+    → Link to list
+    → Medium.Com
+  No article body found for https://medium.com
+  Saved 14 articles for 'Trading'
+
+Processing list → Web_assembly_ (Web-assembly--d9dccbca10ba.html)
+  Found 4 articles
+    → I Replaced 400ms Of JavaScript With 12ms Of Rust In Angular
+    → kiranmantha
+    → Link to list
+    → Medium.Com
+  No article body found for https://medium.com
+  Saved 3 articles for 'Web_assembly_'
+
+Finished. Total MD files: 550
