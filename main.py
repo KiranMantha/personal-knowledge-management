@@ -12,19 +12,6 @@ OUTPUT_BASE_DIR = 'medium_md'
 
 # Paste your cookies exactly as key: value pairs
 COOKIES = {
-    'g_state': '{"i_l":0,"i_ll":1772798673724,"i_b":"1TplGgdBCK9dpraskWaCiOZmfcMfpjOxYgxmDdjWLdE","i_e":{"enable_itp_optimization":0}}',
-    'nonce': '4W1yRa6U',
-    'sz': '1512',
-    'pr': '2',
-    'tz': '-330',
-    'uid': '5815b5fb8e5f',
-    'sid': '1:9cRzHmF4n4qcje1+uZgwLwJmAOKAWfPm5/pnlTM0/ag3SRX5tyV5r/vJQAPSePCw',
-    '_ga': 'GA1.1.1679735205.1772799370',
-    'xsrf': 'be4438b9575d',
-    '_cfuvid': '2PIOauNBaNdvHFlbeVwtMoh3rnoxL7a2xlAdo90JMMc-1772950224329-0.0.1.1-604800000',
-    'cf_clearance': 'to8Uc2_trneoNvNbeTFw0anvCul9qtYGhHKp4qv7BtA-1772951476-1.2.1.1-D2q_sPCOD6U8QGHYcPbvfHLE4HG5inkR2r_8a9hvzWFAYugPO.ibkdcztwkHZYhwJYEJWm9D8EWqQeCkfwIeS4b0rny4gimDdD.UTBmVPS38dhH4P8KERicNwvmeVNfwTqrtJHCVR.VcCea_pmwXwAsuzumOHFugyx6h.iUpLxXaBD9c3xsfFeZHcz1am7zJJg8ERr.6nJoTaJiNggnETAP.y9fBb04EUfN.uOgDnF4',
-    '_ga_7JY7T788PK': 'GS2.1.s1772950227$o2$g1$t1772954268$j60$l0$h0',
-    '_dd_s': 'expire=1772955169026&rum=0',
     # You can add more if you have them (e.g. 'optimizelyEndUserId', 'ajs_user_id', etc.)
 }
 
