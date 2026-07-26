@@ -3995,15 +3995,70 @@
     }
   },
   "Trading": {
+    "https://medium.com/@kiranmantha": {
+      "file": "kiranmantha.md",
+      "status": "saved",
+      "title": "kiranmantha"
+    },
+    "https://medium.com/@kiranmantha/list/28689546722e": {
+      "file": "Link_to_list.md",
+      "status": "saved",
+      "title": "Link to list"
+    },
     "https://medium.com/p/1f48b4d54578": {
       "file": "I_Built_a_Python_Tool_That_Automatically_Discovers_Trading_Strategies_For_You.md",
       "status": "saved",
       "title": "I Built a Python Tool That Automatically Discovers Trading Strategies For You"
     },
+    "https://medium.com/p/200c61ad84fc": {
+      "file": "Algorithmic_Trading_algorithms_to_beat_the_market.md",
+      "status": "saved",
+      "title": "Algorithmic Trading: algorithms to beat the market"
+    },
+    "https://medium.com/p/50bd4ad7c6e2": {
+      "file": "Building_a_Multi-Timeframe_Trading_Predictor_Inspired_by_Nobel_Prize_Physics_2024.md",
+      "status": "saved",
+      "title": "Building a Multi-Timeframe Trading Predictor Inspired by Nobel Prize Physics 2024"
+    },
+    "https://medium.com/p/64a3fe28f218": {
+      "file": "The_Forgotten_Way_of_Using_the_RSI.md",
+      "status": "saved",
+      "title": "The Forgotten Way of Using the RSI"
+    },
+    "https://medium.com/p/91d72d13ed39": {
+      "file": "How_I_Made_My_First_\u20b910K_Trading_Stocks_Using_AI_(And_You_Can_Too).md",
+      "status": "saved",
+      "title": "How I Made My First \u20b910K Trading Stocks Using AI (And You Can Too)"
+    },
+    "https://medium.com/p/94d28218a56d": {
+      "file": "I_Turned_a_Chinese_Quant_Finance_Paper_into_a_Forex_Trading_Bot_\u2014_Here\u2019s_Everything_I_Learned.md",
+      "status": "saved",
+      "title": "I Turned a Chinese Quant Finance Paper into a Forex Trading Bot \u2014 Here\u2019s Everything I Learned"
+    },
     "https://medium.com/p/9a815fb64afd": {
       "file": "5\u201315_minute_updown_\u2014_Top_3_bots_that_can_print_you_money_+_strategies.md",
       "status": "saved",
       "title": "5\u201315 minute up/down \u2014 Top 3 bots that can print you money + strategies"
+    },
+    "https://medium.com/p/a4fdc2ce4af2": {
+      "file": "Building_an_Automated_Crypto_Trading_Bot_with_Larry_Williams\u2019_Swing_Structure_A_Complete_Technical\u2026.md",
+      "status": "saved",
+      "title": "Building an Automated Crypto Trading Bot with Larry Williams\u2019 Swing Structure: A Complete Technical\u2026"
+    },
+    "https://medium.com/p/b22cd101a258": {
+      "file": "Deploying_Algorithmic_Trading_Strategy_Part-3_(Telegram_Bot_Updates).md",
+      "status": "saved",
+      "title": "Deploying Algorithmic Trading Strategy Part-3 (Telegram Bot Updates)"
+    },
+    "https://medium.com/p/b32372c79727": {
+      "file": "How_to_set_up_Algo_trading_as_a_side_hustle.md",
+      "status": "saved",
+      "title": "How to set up Algo trading as a side hustle"
+    },
+    "https://medium.com/p/ba2f1082c57f": {
+      "file": "The_\u201c920_AM_Short_Straddle\u201d_Intraday_Trading_Strategy.md",
+      "status": "saved",
+      "title": "The \u201c9:20 AM Short Straddle\u201d Intraday Trading Strategy"
     },
     "https://medium.com/p/c7f1ce8e0fa7": {
       "file": "I_Built_a_Desktop_App_That_Automatically_Discovers_Trading_Strategies_\u2014_Just_Click_and_Run.md",
@@ -4019,6 +4074,38 @@
       "file": "GridMartBB_A_Mean-Reversion_Grid_System_That_Turns_Bollinger_Band_Extremes_Into_Profit_Machines.md",
       "status": "saved",
       "title": "GridMartBB: A Mean-Reversion Grid System That Turns Bollinger Band Extremes Into Profit Machines"
+    },
+    "https://medium.com/p/e46a1ed62583": {
+      "file": "Decoding_Market_Patterns_A_Nobel_Prize-Inspired_Trading_Indicator_for_MetaTrader_5_(edited).md",
+      "status": "saved",
+      "title": "Decoding Market Patterns: A Nobel Prize-Inspired Trading Indicator for MetaTrader 5 (edited)"
+    },
+    "https://medium.com/p/e977453dca80": {
+      "file": "Optimized_\u201c920_Straddle_Strategy\u201d_To_Get_More_Than_80%_Return_Annually.md",
+      "status": "saved",
+      "title": "Optimized \u201c920 Straddle Strategy\u201d To Get More Than 80% Return Annually"
+    },
+    "https://medium.com/p/fcd15642555": {
+      "file": "Algorithmic_Trading_backtesting_an_intraday_scalping_strategy_with_a_simple,_custom_script.md",
+      "status": "saved",
+      "title": "Algorithmic Trading: backtesting an intraday scalping strategy with a simple, custom script"
+    }
+  },
+  "Web_assembly_": {
+    "https://medium.com/@kiranmantha": {
+      "file": "kiranmantha.md",
+      "status": "saved",
+      "title": "kiranmantha"
+    },
+    "https://medium.com/@kiranmantha/list/d9dccbca10ba": {
+      "file": "Link_to_list.md",
+      "status": "saved",
+      "title": "Link to list"
+    },
+    "https://medium.com/p/0fee51546a5e": {
+      "file": "I_Replaced_400ms_Of_JavaScript_With_12ms_Of_Rust_In_Angular.md",
+      "status": "saved",
+      "title": "I Replaced 400ms Of JavaScript With 12ms Of Rust In Angular"
     }
   },
   "css": {

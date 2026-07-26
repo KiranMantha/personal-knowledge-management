@@ -217,7 +217,6 @@ def main():
 
     os.makedirs(OUTPUT_BASE_DIR, exist_ok=True)
     total_saved = 0
-    index_existed = os.path.isfile(INDEX_PATH)
     index = load_index()
 
     html_files = [f for f in os.listdir(LISTS_DIR) if f.lower().endswith('.html')]
@@ -253,14 +252,15 @@ def main():
                 skipped += 1
                 continue
 
-            # index.json didn't exist before this run: check disk directly, once,
-            # before making any network call, so we don't re-fetch what's already there.
-            if not index_existed:
-                existing_fname = find_md_for_url(out_dir, url)
-                if existing_fname:
-                    list_index[url] = {'status': STATUS_SAVED, 'title': art['title'], 'file': existing_fname}
-                    skipped += 1
-                    continue
+            # URL not yet in the index (or index has no file for it): check disk
+            # directly, before making any network call, so a file already saved
+            # there — from a previous run, crash, or manual copy — is never re-fetched
+            # or duplicated.
+            existing_fname = find_md_for_url(out_dir, url)
+            if existing_fname:
+                list_index[url] = {'status': STATUS_SAVED, 'title': art['title'], 'file': existing_fname}
+                skipped += 1
+                continue
 
             print(f"    → {art['title'][:60]}")
             status, md = fetch_article_to_markdown(session, url, art['title'])
