@@ -1,0 +1,4277 @@
+{
+  "AEM": {
+    "https://medium.com/@kiranmantha": {
+      "file": "kiranmantha.md",
+      "status": "saved",
+      "title": "kiranmantha"
+    },
+    "https://medium.com/@kiranmantha/list/b68c577425af": {
+      "file": "Link_to_list.md",
+      "status": "saved",
+      "title": "Link to list"
+    },
+    "https://medium.com/p/09ef03f51580": {
+      "file": "AEM_Fixing_the_\u201cNo_Renderer_for_Extension_HTML\u201d_Error_in_AEM_After_Code_Deployment.md",
+      "status": "saved",
+      "title": "AEM: Fixing the \u201cNo Renderer for Extension HTML\u201d Error in AEM After Code Deployment"
+    },
+    "https://medium.com/p/11304ad49e29": {
+      "file": "AEM_HeadlessHeadfulHybrid.md",
+      "status": "saved",
+      "title": "AEM Headless/Headful/Hybrid"
+    },
+    "https://medium.com/p/29ba1f6b5051": {
+      "file": "AEM_Sling_Model_with_multiple_export_formats.md",
+      "status": "saved",
+      "title": "AEM: Sling Model with multiple export formats"
+    },
+    "https://medium.com/p/433b616dfba1": {
+      "file": "Key_folder_structures_in_AEM.md",
+      "status": "saved",
+      "title": "Key folder structures in AEM"
+    },
+    "https://medium.com/p/45ae7e4e0d39": {
+      "file": "AEMasCS_Egress_IP_address_setup_for_outbound_API_call.md",
+      "status": "saved",
+      "title": "AEMasCS\u00a0: Egress IP address setup for outbound API call"
+    },
+    "https://medium.com/p/4877b3a8391a": {
+      "file": "AEM_Sitemap_Creation.md",
+      "status": "saved",
+      "title": "AEM Sitemap Creation"
+    },
+    "https://medium.com/p/68e07623ffa7": {
+      "file": "Why_NASA_Developers_Write_Code_Completely_Differently_(And_Why_You_Should_Too).md",
+      "status": "saved",
+      "title": "Why NASA Developers Write Code Completely Differently (And Why You Should Too)"
+    },
+    "https://medium.com/p/6b31abf05614": {
+      "file": "Run_Azure_Locally_for_Free_with_Floci_Blob_Storage,_Queue_Storage,_Table_Storage_&_AKS.md",
+      "status": "saved",
+      "title": "Run Azure Locally for Free with Floci: Blob Storage, Queue Storage, Table Storage & AKS"
+    },
+    "https://medium.com/p/7c3ab97ff841": {
+      "file": "AEM_Configure_NGINX_as_a_Load_Balancer_for_two_AEM_Dispatchers_on_RHEL9.md",
+      "status": "saved",
+      "title": "AEM: Configure NGINX as a Load Balancer for two AEM Dispatchers on RHEL9"
+    },
+    "https://medium.com/p/7f2b64de0345": {
+      "file": "GraphQL_simple_guide_for_AEM_(_Adobe_Experience_Manager_).md",
+      "status": "saved",
+      "title": "GraphQL simple guide for AEM ( Adobe Experience Manager )"
+    },
+    "https://medium.com/p/8b9fdcbe8cdd": {
+      "file": "AEM_with_traditional(headfull)_sites_and_AEM_with_SPA.md",
+      "status": "saved",
+      "title": "AEM with traditional(headfull) sites and AEM with SPA"
+    },
+    "https://medium.com/p/8ed7e3ecfa92": {
+      "file": "AEM_OSGi_service_with_multiple_implementations_and_calling_from_sling_models_,services.md",
+      "status": "saved",
+      "title": "AEM: OSGi service with multiple implementations and calling from sling models ,services"
+    },
+    "https://medium.com/p/a84549761260": {
+      "file": "AEM_ACS_Commons_error_page_handling.md",
+      "status": "saved",
+      "title": "AEM ACS Commons error page handling"
+    },
+    "https://medium.com/p/a9493b6e1b28": {
+      "file": "AEM_6.5_Model_Annotations.md",
+      "status": "saved",
+      "title": "AEM 6.5 Model Annotations"
+    },
+    "https://medium.com/p/c2d36ab666a8": {
+      "file": "AEM_Dispatcher_\u2014_Turn_Fear_into_Confidence.md",
+      "status": "saved",
+      "title": "AEM Dispatcher\u200a\u2014\u200aTurn Fear into Confidence"
+    },
+    "https://medium.com/p/ccafdb171841": {
+      "file": "Sling_Model_Complete_Notes.md",
+      "status": "saved",
+      "title": "Sling Model Complete Notes"
+    },
+    "https://medium.com/p/e13d1639b245": {
+      "file": "AEM_React_Making_API_Calls_from_an_AEM_React_Component.md",
+      "status": "saved",
+      "title": "AEM React: Making API Calls from an AEM React Component"
+    },
+    "https://medium.com/p/eb8d3d2e7597": {
+      "file": "Best_Practices_for_Accessibility_in_AEM_A_Developer_and_Authoring_Approach.md",
+      "status": "saved",
+      "title": "Best Practices for Accessibility in AEM: A Developer and Authoring Approach"
+    },
+    "https://medium.com/p/f8d7e0e098f4": {
+      "file": "AEM_Differences_between_JCR_EventListener,_OSGi_EventHandler,_and_Sling_ResourceChangeListener.md",
+      "status": "saved",
+      "title": "AEM: Differences between JCR EventListener, OSGi EventHandler, and Sling ResourceChangeListener"
+    }
+  },
+  "AI_Agents": {
+    "https://medium.com/@kiranmantha": {
+      "file": "kiranmantha.md",
+      "status": "saved",
+      "title": "kiranmantha"
+    },
+    "https://medium.com/@kiranmantha/list/bb0f05b7f1d3": {
+      "file": "Link_to_list.md",
+      "status": "saved",
+      "title": "Link to list"
+    },
+    "https://medium.com/p/0914d84601f3": {
+      "file": "Optimizing_LangChain_AI_Agents_with_Contextual_Engineering.md",
+      "status": "saved",
+      "title": "Optimizing LangChain AI Agents with Contextual Engineering"
+    },
+    "https://medium.com/p/145d25e502cf": {
+      "file": "I_mastered_the_Claude_Code_workflow.md",
+      "status": "saved",
+      "title": "I mastered the Claude Code workflow"
+    },
+    "https://medium.com/p/2054d86e0cb9": {
+      "file": "LM_Studio_+_Claude_Code_in_VS_Code_Made_Easy.md",
+      "status": "saved",
+      "title": "LM Studio + Claude Code in VS Code Made Easy"
+    },
+    "https://medium.com/p/2c48b8722f66": {
+      "file": "Building_Production-Grade_Autonomous_Agents_in_less_than_10_Lines_of_Code.md",
+      "status": "saved",
+      "title": "Building Production-Grade Autonomous Agents in less than 10 Lines of Code"
+    },
+    "https://medium.com/p/2d6c107cc902": {
+      "file": "How_Anthropic\u2019s_Courses_Transformed_My_Claude_Code_Workflow_\u2014_And_Cut_My_Token_Costs_by_10x.md",
+      "status": "saved",
+      "title": "How Anthropic\u2019s Courses Transformed My Claude Code Workflow \u2014 And Cut My Token Costs by 10x"
+    },
+    "https://medium.com/p/30e25becdaa2": {
+      "file": "Ollama_Pydantic_Project_Integrating_MCP_Server_with_a_Local_LLM_Chatbot.md",
+      "status": "saved",
+      "title": "Ollama Pydantic Project: Integrating MCP Server with a Local LLM Chatbot"
+    },
+    "https://medium.com/p/374521f1e1ab": {
+      "file": "Level_Up_Your_Claude_Code_with_This_CLAUDE.md.md",
+      "status": "saved",
+      "title": "Level Up Your Claude Code with This CLAUDE.md"
+    },
+    "https://medium.com/p/4080ef23efac": {
+      "file": "I_Stopped_Vibe_Coding_and_Started_\u201cPrompt_Contracts\u201d_\u2014_Claude_Code_Went_From_Gambling_to_Shipping.md",
+      "status": "saved",
+      "title": "I Stopped Vibe Coding and Started \u201cPrompt Contracts\u201d \u2014 Claude Code Went From Gambling to Shipping"
+    },
+    "https://medium.com/p/4776d4ac8956": {
+      "file": "10_Tip_to_Stop_Burning_Your_Tokens_in_Claude_Code.md",
+      "status": "saved",
+      "title": "10 Tip to Stop Burning Your Tokens in Claude Code"
+    },
+    "https://medium.com/p/4a1ebe5d9f29": {
+      "file": "Using_spec-driven_development_with_Claude_Code.md",
+      "status": "saved",
+      "title": "Using spec-driven development with Claude Code"
+    },
+    "https://medium.com/p/4cf054836308": {
+      "file": "Model_Context_Protocol_(MCP)_10_Must-Try_MCP_Servers_for_Developers.md",
+      "status": "saved",
+      "title": "Model Context Protocol (MCP): 10 Must-Try MCP Servers for Developers"
+    },
+    "https://medium.com/p/509a822dd4fd": {
+      "file": "5_Essential_MCP_Servers_That_Give_Claude_&_Cursor_Real_Superpowers_(2025).md",
+      "status": "saved",
+      "title": "5 Essential MCP Servers That Give Claude & Cursor Real Superpowers (2025)"
+    },
+    "https://medium.com/p/61a0c0d6d846": {
+      "file": "MCP_Introduction_for_Dummies_Part_01.md",
+      "status": "saved",
+      "title": "MCP Introduction for Dummies Part 01"
+    },
+    "https://medium.com/p/687e1fd79f61": {
+      "file": "Building_an_Advanced_Agentic_RAG_Pipeline_that_Mimics_a_Human_Thought_Process.md",
+      "status": "saved",
+      "title": "Building an Advanced Agentic RAG Pipeline that Mimics a Human Thought Process"
+    },
+    "https://medium.com/p/6e767dcb0068": {
+      "file": "Claude_Code_Skills_The_Complete_Guide_(That_Most_Developers_Still_Don\u2019t_Understand).md",
+      "status": "saved",
+      "title": "Claude Code Skills: The Complete Guide (That Most Developers Still Don\u2019t Understand)"
+    },
+    "https://medium.com/p/7d66cfdfa301": {
+      "file": "Andrej_Karpathy_Just_Built_an_Entire_GPT_in_243_Lines_of_Python.md",
+      "status": "saved",
+      "title": "Andrej Karpathy Just Built an Entire GPT in 243 Lines of Python"
+    },
+    "https://medium.com/p/96057be1468e": {
+      "file": "Becoming_a_top_1%_Claude_Code_user_the_complete_playbook_no_one_else_is_sharing.md",
+      "status": "saved",
+      "title": "Becoming a top 1% Claude Code user: the complete playbook no one else is sharing"
+    },
+    "https://medium.com/p/974a48b4ef49": {
+      "file": "I_Built_an_AI_Team_That_Codes_Itself,_And_You_Can_Too.md",
+      "status": "saved",
+      "title": "I Built an AI Team That Codes Itself, And You Can Too"
+    },
+    "https://medium.com/p/979b40132b02": {
+      "file": "I_Didn\u2019t_Pay_a_Single_Dollar_to_Use_Claude_Code_\u2014_Here\u2019s_Exactly_How_(Updated_May_2026).md",
+      "status": "saved",
+      "title": "I Didn\u2019t Pay a Single Dollar to Use Claude Code \u2014 Here\u2019s Exactly How (Updated May 2026)"
+    },
+    "https://medium.com/p/a0fd611e9702": {
+      "file": "I_Finally_Understood_LLMs_Using_JavaScript.md",
+      "status": "saved",
+      "title": "I Finally Understood LLMs Using JavaScript"
+    },
+    "https://medium.com/p/a23002de49b0": {
+      "file": "Build_a_LLM_App_with_RAG_to_Chat_with_GitHub_in_10_Lines_of_Python.md",
+      "status": "saved",
+      "title": "Build a LLM App with RAG to Chat with GitHub in 10 Lines of Python"
+    },
+    "https://medium.com/p/ab18a10bcb4a": {
+      "file": "I_Wasted_Weeks_Using_Claude_Code_the_Wrong_Way_\u2014_These_8_Commands_Fixed_Everything.md",
+      "status": "saved",
+      "title": "I Wasted Weeks Using Claude Code the Wrong Way \u2014 These 8 Commands Fixed Everything"
+    },
+    "https://medium.com/p/ad68745d46de": {
+      "file": "Anthropic_Just_Released_Claude_Code_Course_(And_I_Earned_My_Certificate).md",
+      "status": "saved",
+      "title": "Anthropic Just Released Claude Code Course (And I Earned My Certificate)"
+    },
+    "https://medium.com/p/b41c67628478": {
+      "file": "I_Spent_6_Months_Tuning_Claude_Code._Here\u2019s_the_Exact_Setup_That_Finally_Worked..md",
+      "status": "saved",
+      "title": "I Spent 6 Months Tuning Claude Code. Here\u2019s the Exact Setup That Finally Worked."
+    },
+    "https://medium.com/p/be5de452b5e9": {
+      "file": "I_Made_Zod_64x_Faster_by_Compiling_Schemas_at_Build_Time.md",
+      "status": "saved",
+      "title": "I Made Zod 64x Faster by Compiling Schemas at Build Time"
+    },
+    "https://medium.com/p/e231b6c71a4a": {
+      "file": "LangChain_Agents_for_Noobs_A_Complete_Practical_Guide.md",
+      "status": "saved",
+      "title": "LangChain Agents for Noobs: A Complete Practical Guide"
+    },
+    "https://medium.com/p/eddf63f5ddf6": {
+      "file": "10_Game-Changing_CLAUDE.md_Entries_That_Turned_My_Claude_Code_Sessions_into_a_Coding_Superpower.md",
+      "status": "saved",
+      "title": "10 Game-Changing CLAUDE.md Entries That Turned My Claude Code Sessions into a Coding Superpower"
+    }
+  },
+  "AWS": {
+    "https://medium.com/@kiranmantha": {
+      "file": "kiranmantha.md",
+      "status": "saved",
+      "title": "kiranmantha"
+    },
+    "https://medium.com/@kiranmantha/list/918cbe7f79be": {
+      "file": "Link_to_list.md",
+      "status": "saved",
+      "title": "Link to list"
+    },
+    "https://medium.com/p/0c777918c48a": {
+      "file": "Building_a_Complete_AWS_Environment_Locally_with_Floci.md",
+      "status": "saved",
+      "title": "Building a Complete AWS Environment Locally with Floci"
+    },
+    "https://medium.com/p/376367956315": {
+      "file": "How_I_Passed_AI_Practitioner_in_5_days.md",
+      "status": "saved",
+      "title": "How I  Passed AI Practitioner in 5 days"
+    },
+    "https://medium.com/p/68e07623ffa7": {
+      "file": "Why_NASA_Developers_Write_Code_Completely_Differently_(And_Why_You_Should_Too).md",
+      "status": "saved",
+      "title": "Why NASA Developers Write Code Completely Differently (And Why You Should Too)"
+    },
+    "https://medium.com/p/c828dbbe552f": {
+      "file": "10_AWS_Tools_That_Made_My_Side_Project_Feel_Enterprise_Grade.md",
+      "status": "saved",
+      "title": "10 AWS Tools That Made My Side Project Feel Enterprise Grade"
+    },
+    "https://medium.com/p/ddb09743eb16": {
+      "file": "Get_User_Postal_Code,_Latitude,_Longitude_etc_from_AWS.md",
+      "status": "saved",
+      "title": "Get User Postal Code, Latitude, Longitude etc from AWS"
+    }
+  },
+  "Angular": {
+    "https://medium.com/@kiranmantha": {
+      "file": "kiranmantha.md",
+      "status": "saved",
+      "title": "kiranmantha"
+    },
+    "https://medium.com/@kiranmantha/list/7ab7269f6e8d": {
+      "file": "Link_to_list.md",
+      "status": "saved",
+      "title": "Link to list"
+    },
+    "https://medium.com/p/2f93983d3354": {
+      "file": "97%_of_Angular_Developers_Do_Not_Know_How_to_Cancel_HTTP_Requests_Properly_(Fix_It_in_5_Minutes).md",
+      "status": "saved",
+      "title": "97% of Angular Developers Do Not Know How to Cancel HTTP Requests Properly (Fix It in 5 Minutes)"
+    },
+    "https://medium.com/p/464b85496746": {
+      "file": "Why_80%_of_Angular_Apps_Fail_Google\u2019s_New_INP_Metric_(And_the_Zoneless_Fix).md",
+      "status": "saved",
+      "title": "Why 80% of Angular Apps Fail Google\u2019s New INP Metric (And the Zoneless Fix)"
+    },
+    "https://medium.com/p/48ad908cf457": {
+      "file": "State_Management_Without_Boilerplate_The_\u201cSignal_Store\u201d_Approach.md",
+      "status": "saved",
+      "title": "State Management Without Boilerplate: The \u201cSignal Store\u201d Approach"
+    },
+    "https://medium.com/p/b94568ddd206": {
+      "file": "Bulletproof_Security_Route_Guards_and_JWT_Handlers_in_Angular_21.md",
+      "status": "saved",
+      "title": "Bulletproof Security: Route Guards and JWT Handlers in Angular 21"
+    },
+    "https://medium.com/p/bddea98ce835": {
+      "file": "Master_Signals_in_10_Minutes_The_Death_of_Boilerplate.md",
+      "status": "saved",
+      "title": "Master Signals in 10 Minutes: The Death of Boilerplate"
+    },
+    "https://medium.com/p/dac9dd4196d9": {
+      "file": "RxJS_vs._Signals_The_Exact_Rulebook_on_When_to_Use_Which.md",
+      "status": "saved",
+      "title": "RxJS vs. Signals: The Exact Rulebook on When to Use Which"
+    },
+    "https://medium.com/p/dbea71c32200": {
+      "file": "provideAppInitializer()_vs_provideEnvironmentInitializer()_in_Angular.md",
+      "status": "saved",
+      "title": "provideAppInitializer() vs provideEnvironmentInitializer() in Angular"
+    },
+    "https://medium.com/p/f1ea12cc1bd2": {
+      "file": "TypeScript_Decorators_Are_Finally_Stable_Real-World_Use_Cases_Beyond_Classes.md",
+      "status": "saved",
+      "title": "TypeScript Decorators Are Finally Stable: Real-World Use Cases Beyond Classes"
+    }
+  },
+  "Architecture": {
+    "https://medium.com/@kiranmantha": {
+      "file": "kiranmantha.md",
+      "status": "saved",
+      "title": "kiranmantha"
+    },
+    "https://medium.com/@kiranmantha/list/1a00acb26a4d": {
+      "file": "Link_to_list.md",
+      "status": "saved",
+      "title": "Link to list"
+    },
+    "https://medium.com/p/000c74cdf53a": {
+      "file": "DuckDB_Isn\u2019t_Just_Fast._It_Changes_How_You_Think_About_Data..md",
+      "status": "saved",
+      "title": "DuckDB Isn\u2019t Just Fast. It Changes How You Think About Data."
+    },
+    "https://medium.com/p/03349bd42956": {
+      "file": "5_JavaScript_Libraries_You\u2019ve_Never_Used_(But_Will_Wonder_How_You_Lived_Without).md",
+      "status": "saved",
+      "title": "5 JavaScript Libraries You\u2019ve Never Used (But Will Wonder How You Lived Without)"
+    },
+    "https://medium.com/p/04147075ad6d": {
+      "file": "Software_Engineer_(named_Vasilios_Syrakis)_at_Atlassian_was_laid_off_on_March_12_after_8_years..md",
+      "status": "saved",
+      "title": "Software Engineer (named Vasilios Syrakis) at Atlassian was laid off on March 12 after 8 years."
+    },
+    "https://medium.com/p/069f699da1dd": {
+      "file": "I_Cracked_My_Own_JWT_Secret_in_11_Minutes_\u2014_Then_I_Migrated_to_PASETO..md",
+      "status": "saved",
+      "title": "I Cracked My Own JWT Secret in 11 Minutes \u2014 Then I Migrated to PASETO."
+    },
+    "https://medium.com/p/0b3834fded07": {
+      "file": "The_Day_a_Google_L7_Engineer_Tore_My_System_Design_to_Shreds.md",
+      "status": "saved",
+      "title": "The Day a Google L7 Engineer Tore My System Design to Shreds"
+    },
+    "https://medium.com/p/0c777918c48a": {
+      "file": "Building_a_Complete_AWS_Environment_Locally_with_Floci.md",
+      "status": "saved",
+      "title": "Building a Complete AWS Environment Locally with Floci"
+    },
+    "https://medium.com/p/162b7467f08e": {
+      "file": "Art_of_Autoscaling_in_Kubernetes.md",
+      "status": "saved",
+      "title": "Art of Autoscaling in Kubernetes"
+    },
+    "https://medium.com/p/1b3228fb6c50": {
+      "file": "I_Designed_Airbnb\u2019s_Booking_System_Live._The_Interviewer_Stopped_Me_at_Minute_12..md",
+      "status": "saved",
+      "title": "I Designed Airbnb\u2019s Booking System Live. The Interviewer Stopped Me at Minute 12."
+    },
+    "https://medium.com/p/1fe3c9089aff": {
+      "file": "The_Browser_API_Most_Developers_Have_Never_Used.md",
+      "status": "saved",
+      "title": "The Browser API Most Developers Have Never Used"
+    },
+    "https://medium.com/p/33819c35de43": {
+      "file": "9_Commands_I_Run_in_the_First_3_Minutes_of_Every_Production_Incident.md",
+      "status": "saved",
+      "title": "9 Commands I Run in the First 3 Minutes of Every Production Incident"
+    },
+    "https://medium.com/p/38d8874be673": {
+      "file": "I_Copy_These_10_Code_Snippets_Into_Every_Single_Project.md",
+      "status": "saved",
+      "title": "I Copy These 10 Code Snippets Into Every Single Project"
+    },
+    "https://medium.com/p/52251ae61c2f": {
+      "file": "The_Spacing_System_That_Makes_Every_UI_Look_More_Intentional.md",
+      "status": "saved",
+      "title": "The Spacing System That Makes Every UI Look More Intentional"
+    },
+    "https://medium.com/p/5a59b723127d": {
+      "file": "System_Design_Interview_How_Would_You_Send_1_Million_Notifications_Without_Overwhelming_Your\u2026.md",
+      "status": "saved",
+      "title": "System Design Interview: How Would You Send 1 Million Notifications Without Overwhelming Your\u2026"
+    },
+    "https://medium.com/p/64e412f4062b": {
+      "file": "Nginx_vs_Caddy_vs_Traefik_in_2026_\u2014_I_Ran_All_Three_Under_Real_Production_Load.md",
+      "status": "saved",
+      "title": "Nginx vs Caddy vs Traefik in 2026 \u2014 I Ran All Three Under Real Production Load"
+    },
+    "https://medium.com/p/6b31abf05614": {
+      "file": "Run_Azure_Locally_for_Free_with_Floci_Blob_Storage,_Queue_Storage,_Table_Storage_&_AKS.md",
+      "status": "saved",
+      "title": "Run Azure Locally for Free with Floci: Blob Storage, Queue Storage, Table Storage & AKS"
+    },
+    "https://medium.com/p/79526c9cfc0e": {
+      "file": "5_Cloud_Architecture_Patterns_You_Should_Know.md",
+      "status": "saved",
+      "title": "5 Cloud Architecture Patterns You Should Know"
+    },
+    "https://medium.com/p/81caf734644e": {
+      "file": "Kafka_vs_RabbitMQ_vs_Redis_Streams_vs_NATS_2026_I_Burned_$847_on_Kafka_Before_Finding_the_$67_Fix\u2026.md",
+      "status": "saved",
+      "title": "Kafka vs RabbitMQ vs Redis Streams vs NATS 2026: I Burned $847 on Kafka Before Finding the $67 Fix\u2026"
+    },
+    "https://medium.com/p/889bdc33aee7": {
+      "file": "My_FastAPI_Webhook_Didn\u2019t_Verify_Signatures_\u2014_Someone_Sent_12,000_Fake_Payments_and_Drained_My\u2026.md",
+      "status": "saved",
+      "title": "My FastAPI Webhook Didn\u2019t Verify Signatures \u2014 Someone Sent 12,000 Fake Payments and Drained My\u2026"
+    },
+    "https://medium.com/p/a43a7b3935d6": {
+      "file": "Forget_JSON_\u2014_These_4_Data_Formats_Made_My_APIs_5x_Faster.md",
+      "status": "saved",
+      "title": "Forget JSON \u2014 These 4 Data Formats Made My APIs 5x Faster"
+    },
+    "https://medium.com/p/b66818704f6b": {
+      "file": "I_Hired_a_Penetration_Tester_to_Attack_My_FastAPI_App._He_Owned_Everything_in_45_Minutes.md",
+      "status": "saved",
+      "title": "I Hired a Penetration Tester to Attack My FastAPI App. He Owned Everything in 45 Minutes"
+    },
+    "https://medium.com/p/c88afb1c960c": {
+      "file": "I_Studied_50_JavaScript_Codebases_\u2014_Here\u2019s_What_Great_Developers_Do_Differently.md",
+      "status": "saved",
+      "title": "I Studied 50 JavaScript Codebases \u2014 Here\u2019s What Great Developers Do Differently"
+    },
+    "https://medium.com/p/c95f757e52a6": {
+      "file": "7_Coding_Patterns_I_Stole_From_Senior_Engineers.md",
+      "status": "saved",
+      "title": "7 Coding Patterns I Stole From Senior Engineers"
+    },
+    "https://medium.com/p/d1c3d4fee5e3": {
+      "file": "Circuit_breakers_in_Microservices.md",
+      "status": "saved",
+      "title": "Circuit breakers in Microservices"
+    },
+    "https://medium.com/p/d45aceb0a591": {
+      "file": "Docker_Is_Dead_Weight_\u2014_I_Rebuilt_Our_Pipeline_Without_It_and_Cut_Costs_60%.md",
+      "status": "saved",
+      "title": "Docker Is Dead Weight \u2014 I Rebuilt Our Pipeline Without It and Cut Costs 60%"
+    },
+    "https://medium.com/p/e142be786618": {
+      "file": "Envoy_Vs_Nginx_and_How_to_install_Envoy_and_Nginx..md",
+      "status": "saved",
+      "title": "Envoy Vs Nginx and How to install Envoy and Nginx."
+    },
+    "https://medium.com/p/e8b22d6a57ad": {
+      "file": "3_Advanced_software_principles_you_must_know.md",
+      "status": "saved",
+      "title": "3 Advanced software principles you must know"
+    },
+    "https://medium.com/p/f82909d35fb4": {
+      "file": "HTTP_Just_Got_a_New_Method_That_Fixes_a_Problem_I\u2019ve_Hit_for_Years.md",
+      "status": "saved",
+      "title": "HTTP Just Got a New Method That Fixes a Problem I\u2019ve Hit for Years"
+    }
+  },
+  "Archive": {
+    "https://medium.com/@kiranmantha": {
+      "file": "kiranmantha.md",
+      "status": "saved",
+      "title": "kiranmantha"
+    },
+    "https://medium.com/@kiranmantha/list/m2archive:5815b5fb8e5f": {
+      "file": "Link_to_list.md",
+      "status": "saved",
+      "title": "Link to list"
+    },
+    "https://medium.com/p/1da23cf90b76": {
+      "file": "Quick_Tip_\u2014_Creating_an_XMLHttpRequest_Interceptor.md",
+      "status": "saved",
+      "title": "Quick Tip \u2014 Creating an XMLHttpRequest Interceptor"
+    },
+    "https://medium.com/p/25f6ac840ada": {
+      "file": "Moving_beyond_console.log()_\u2014_8_Console_Methods_You_Should_Use_When_Debugging_JavaScript_and_Node.md",
+      "status": "saved",
+      "title": "Moving beyond console.log()\u200a\u2014\u200a8 Console Methods You Should Use When Debugging JavaScript and Node"
+    },
+    "https://medium.com/p/27e3c866acb5": {
+      "file": "Vanilla_DOM_VS_hyperHTML.md",
+      "status": "saved",
+      "title": "Vanilla DOM VS hyperHTML"
+    },
+    "https://medium.com/p/31396d28177f": {
+      "file": "Do-it-yourself_Client-side_State_Management_\u2014_Part_1.md",
+      "status": "saved",
+      "title": "Do-it-yourself: Client-side State Management \u2014 Part 1"
+    },
+    "https://medium.com/p/46e78d54af0d": {
+      "file": "Addressing_the_iOS_Address_Bar_in_100vh_Layouts.md",
+      "status": "saved",
+      "title": "Addressing the iOS Address Bar in 100vh Layouts"
+    },
+    "https://medium.com/p/58cf47edcb8": {
+      "file": "Powerful_JS_Reduce_Function.md",
+      "status": "saved",
+      "title": "Powerful JS Reduce Function"
+    },
+    "https://medium.com/p/626e7f01681a": {
+      "file": "Material_design_styled_inputs_with_CSS..md",
+      "status": "saved",
+      "title": "Material design styled inputs with CSS."
+    },
+    "https://medium.com/p/6ee2e72e8e0b": {
+      "file": "Effector_powerful_and_fast_5kb_state_manager.md",
+      "status": "saved",
+      "title": "Effector: powerful and fast 5kb state manager"
+    },
+    "https://medium.com/p/7c8d400f7f2e": {
+      "file": "Generating_Config_driven_Dynamic_Forms_using_Web_Components.md",
+      "status": "saved",
+      "title": "Generating Config driven Dynamic Forms using Web Components"
+    },
+    "https://medium.com/p/7cb938e83f2d": {
+      "file": "Different_ways_to_achieve_encapsulation_in_JavaScript(ES6).md",
+      "status": "saved",
+      "title": "Different ways to achieve encapsulation in JavaScript(ES6)"
+    },
+    "https://medium.com/p/81b327d7c32d": {
+      "file": "Push-based_Architectures_with_RxJS.md",
+      "status": "saved",
+      "title": "Push-based Architectures with RxJS"
+    },
+    "https://medium.com/p/b37b6aaca1e4": {
+      "file": "Get_started_with_WebAssembly_\u2014_using_only_14_lines_of_JavaScript.md",
+      "status": "saved",
+      "title": "Get started with WebAssembly \u2014 using only 14 lines of JavaScript"
+    },
+    "https://medium.com/p/bd343776a97e": {
+      "file": "Build_a_Responsive,_Modern_Dashboard_Layout_With_CSS_Grid_and_Flexbox.md",
+      "status": "saved",
+      "title": "Build a Responsive, Modern Dashboard Layout With CSS Grid and Flexbox"
+    },
+    "https://medium.com/p/c5738600d9cd": {
+      "file": "Call_By_ValueCall_By_Reference_In_JavaScript.md",
+      "status": "saved",
+      "title": "Call By Value/Call By Reference In JavaScript"
+    },
+    "https://medium.com/p/d88f550ffce3": {
+      "file": "JavaScript_Prototypes,_a_Pocket_Reference.md",
+      "status": "saved",
+      "title": "JavaScript Prototypes, a Pocket Reference"
+    },
+    "https://medium.com/p/dd24649261e": {
+      "file": "Adopt_a_Design_System_inside_your_Web_Components_with_Constructable_Stylesheets.md",
+      "status": "saved",
+      "title": "Adopt a Design System inside your Web Components with Constructable Stylesheets"
+    },
+    "https://medium.com/p/e1a06f856974": {
+      "file": "What_is_WebAssembly.md",
+      "status": "saved",
+      "title": "What is WebAssembly?"
+    },
+    "https://medium.com/p/eb9e5444d71e": {
+      "file": "Easy_i18n_in_10_lines_of_JavaScript_(PoC).md",
+      "status": "saved",
+      "title": "Easy i18n in 10 lines of JavaScript (PoC)"
+    },
+    "https://medium.com/p/fadcd8dbd0e": {
+      "file": "Learn_the_basics_of_the_JavaScript_module_system_and_build_your_own_library.md",
+      "status": "saved",
+      "title": "Learn the basics of the JavaScript module system and build your own library"
+    }
+  },
+  "Backend_Databases_etc": {
+    "https://medium.com/@kiranmantha": {
+      "file": "kiranmantha.md",
+      "status": "saved",
+      "title": "kiranmantha"
+    },
+    "https://medium.com/@kiranmantha/list/d64d8550fe9d": {
+      "file": "Link_to_list.md",
+      "status": "saved",
+      "title": "Link to list"
+    },
+    "https://medium.com/p/03349bd42956": {
+      "file": "5_JavaScript_Libraries_You\u2019ve_Never_Used_(But_Will_Wonder_How_You_Lived_Without).md",
+      "status": "saved",
+      "title": "5 JavaScript Libraries You\u2019ve Never Used (But Will Wonder How You Lived Without)"
+    },
+    "https://medium.com/p/083af8028ebf": {
+      "file": "How_I_Built_High-Performance_JavaScript_Backends_That_Handle_Millions_of_Requests..md",
+      "status": "saved",
+      "title": "How I Built High-Performance JavaScript Backends That Handle Millions of Requests."
+    },
+    "https://medium.com/p/12bd2dbb5269": {
+      "file": "Dynamic_Configuration_in_Node.js_Stop_Redeploying_Your_App_for_Small_Changes.md",
+      "status": "saved",
+      "title": "Dynamic Configuration in Node.js: Stop Redeploying Your App for Small Changes"
+    },
+    "https://medium.com/p/145c73db7d9c": {
+      "file": "How_We_Reduced_Our_Node.js_Cold_Starts_by_90%.md",
+      "status": "saved",
+      "title": "How We Reduced Our Node.js Cold Starts by 90%"
+    },
+    "https://medium.com/p/4b5cfb8845bf": {
+      "file": "How_to_Choose_a_Database_for_your_Project_in_2026.md",
+      "status": "saved",
+      "title": "How to Choose a Database for your Project in 2026?"
+    },
+    "https://medium.com/p/529ee28f9055": {
+      "file": "Token,_Session,_Cookie,_JWT,_OAuth2_\u2014_I_can\u2019t_tell_the_difference!.md",
+      "status": "saved",
+      "title": "Token, Session, Cookie, JWT, OAuth2\u200a\u2014\u200aI can\u2019t tell the difference!"
+    },
+    "https://medium.com/p/56d241850225": {
+      "file": "Why_I_Tell_Clients_NOT_to_Use_PostgreSQL_(And_When_MySQL,_MongoDB,_and_\u201cModern\u201d_Databases_Are\u2026.md",
+      "status": "saved",
+      "title": "Why I Tell Clients NOT to Use PostgreSQL (And When MySQL, MongoDB, and \u201cModern\u201d Databases Are\u2026"
+    },
+    "https://medium.com/p/66d424fbb1f0": {
+      "file": "Interviewer_Asked_\u201cWhat_Happens_If_Your_Database_Connection_Pool_Is_Full\u201d.md",
+      "status": "saved",
+      "title": "Interviewer Asked: \u201cWhat Happens If Your Database Connection Pool Is Full?\u201d"
+    },
+    "https://medium.com/p/70079bc72ae4": {
+      "file": "\ud83d\ude80_Inserting_10_Million_Records_into_a_Database_Stop_Using_for_Loops!.md",
+      "status": "saved",
+      "title": "\ud83d\ude80 Inserting 10 Million Records into a Database? Stop Using for Loops!"
+    },
+    "https://medium.com/p/aea8b31f9d73": {
+      "file": "I_Worked_on_a_Banking_Backend._This_Is_What_\u201cProduction-Ready\u201d_Really_Means..md",
+      "status": "saved",
+      "title": "I Worked on a Banking Backend. This Is What \u201cProduction-Ready\u201d Really Means."
+    },
+    "https://medium.com/p/b66818704f6b": {
+      "file": "I_Hired_a_Penetration_Tester_to_Attack_My_FastAPI_App._He_Owned_Everything_in_45_Minutes.md",
+      "status": "saved",
+      "title": "I Hired a Penetration Tester to Attack My FastAPI App. He Owned Everything in 45 Minutes"
+    },
+    "https://medium.com/p/be5de452b5e9": {
+      "file": "I_Made_Zod_64x_Faster_by_Compiling_Schemas_at_Build_Time.md",
+      "status": "saved",
+      "title": "I Made Zod 64x Faster by Compiling Schemas at Build Time"
+    },
+    "https://medium.com/p/cad77c8ffdc6": {
+      "file": "I_Replaced_BullBullMQ_With_60_Lines_of_PostgreSQL_(And_You_Should_Too).md",
+      "status": "saved",
+      "title": "I Replaced Bull/BullMQ With 60 Lines of PostgreSQL (And You Should Too)"
+    },
+    "https://medium.com/p/e84f22fca9fa": {
+      "file": "Stop_Memorizing_Design_Patterns_Use_This_Decision_Tree_Instead.md",
+      "status": "saved",
+      "title": "Stop Memorizing Design Patterns: Use This Decision Tree Instead"
+    },
+    "https://medium.com/p/ea9b2b7214e5": {
+      "file": "Hono_\u2014_Ending_the_TypeScript_War_Between_Frontend_and_Backend.md",
+      "status": "saved",
+      "title": "Hono\u200a\u2014\u200aEnding the TypeScript War Between Frontend and Backend"
+    },
+    "https://medium.com/p/ff858efdced5": {
+      "file": "Taming_Supabase_&_Next.js_Auth_Why_Your_Users_Keep_Getting_Logged_Out_(And_How_to_Fix_It).md",
+      "status": "saved",
+      "title": "Taming Supabase & Next.js Auth: Why Your Users Keep Getting Logged Out (And How to Fix It)"
+    }
+  },
+  "Banking_": {
+    "https://medium.com/@kiranmantha": {
+      "file": "kiranmantha.md",
+      "status": "saved",
+      "title": "kiranmantha"
+    },
+    "https://medium.com/@kiranmantha/list/b986ecbf25a7": {
+      "file": "Link_to_list.md",
+      "status": "saved",
+      "title": "Link to list"
+    },
+    "https://medium.com/p/2b7838a5d7f8": {
+      "file": "Double_Entry_Accounting_in_a_Relational_Database.md",
+      "status": "saved",
+      "title": "Double Entry Accounting in a Relational Database"
+    },
+    "https://medium.com/p/e84f22fca9fa": {
+      "file": "Stop_Memorizing_Design_Patterns_Use_This_Decision_Tree_Instead.md",
+      "status": "saved",
+      "title": "Stop Memorizing Design Patterns: Use This Decision Tree Instead"
+    },
+    "https://medium.com/p/f69edcea825d": {
+      "file": "How_to_Build_a_Double-Entry_Ledger.md",
+      "status": "saved",
+      "title": "How to Build a Double-Entry Ledger"
+    }
+  },
+  "Crypto": {
+    "https://medium.com/@kiranmantha": {
+      "file": "kiranmantha.md",
+      "status": "saved",
+      "title": "kiranmantha"
+    },
+    "https://medium.com/@kiranmantha/list/46f2d039f687": {
+      "file": "Link_to_list.md",
+      "status": "saved",
+      "title": "Link to list"
+    },
+    "https://medium.com/p/06afa8c9a02b": {
+      "file": "PolyMarket_\u2014_Deep_Dive.md",
+      "status": "saved",
+      "title": "PolyMarket\u200a\u2014\u200aDeep Dive"
+    },
+    "https://medium.com/p/3184e9481f0a": {
+      "file": "Inside_the_Mind_of_a_Polymarket_BOT.md",
+      "status": "saved",
+      "title": "Inside the Mind of a Polymarket BOT"
+    },
+    "https://medium.com/p/51fe9e53b4f6": {
+      "file": "How_to_Make_Money_on_Polymarket.md",
+      "status": "saved",
+      "title": "How to Make Money on Polymarket"
+    },
+    "https://medium.com/p/7ecf10ebe705": {
+      "file": "Top_Traders_on_Polymarket.md",
+      "status": "saved",
+      "title": "Top Traders on Polymarket"
+    },
+    "https://medium.com/p/9a815fb64afd": {
+      "file": "5\u201315_minute_updown_\u2014_Top_3_bots_that_can_print_you_money_+_strategies.md",
+      "status": "saved",
+      "title": "5\u201315 minute up/down \u2014 Top 3 bots that can print you money + strategies"
+    },
+    "https://medium.com/p/d068c84ea93b": {
+      "file": "How_Programmers_Are_\u201cPrinting_Money\u201d_on_Polymarket.md",
+      "status": "saved",
+      "title": "How Programmers Are \u201cPrinting Money\u201d on Polymarket"
+    },
+    "https://medium.com/p/f6368eed98f5": {
+      "file": "5_ways_to_make_$100K_on_Polymarket.md",
+      "status": "saved",
+      "title": "5 ways to make $100K on Polymarket"
+    }
+  },
+  "Nextjs": {
+    "https://medium.com/@kiranmantha": {
+      "file": "kiranmantha.md",
+      "status": "saved",
+      "title": "kiranmantha"
+    },
+    "https://medium.com/@kiranmantha/list/0fc6123ae73b": {
+      "file": "Link_to_list.md",
+      "status": "saved",
+      "title": "Link to list"
+    },
+    "https://medium.com/p/03349bd42956": {
+      "file": "5_JavaScript_Libraries_You\u2019ve_Never_Used_(But_Will_Wonder_How_You_Lived_Without).md",
+      "status": "saved",
+      "title": "5 JavaScript Libraries You\u2019ve Never Used (But Will Wonder How You Lived Without)"
+    },
+    "https://medium.com/p/07423f3d9b33": {
+      "file": "Stop_Using_Index_as_a_Key._Here\u2019s_How_React_Keys_Really_Work.md",
+      "status": "saved",
+      "title": "Stop Using Index as a Key. Here\u2019s How React Keys Really Work"
+    },
+    "https://medium.com/p/085b56149ceb": {
+      "file": "Part_1_\u2014_Setting_Up_App_Insights_in_Next.js_15.md",
+      "status": "saved",
+      "title": "Part 1 \u2014 Setting Up App Insights in Next.js 15"
+    },
+    "https://medium.com/p/0d98ddc51c3b": {
+      "file": "I_Built_a_React_App_Without_useState_(And_It\u2019s_Faster).md",
+      "status": "saved",
+      "title": "I Built a React App Without useState (And It\u2019s Faster)"
+    },
+    "https://medium.com/p/25549bb1656a": {
+      "file": "15_React_Concepts_Every_Frontend_Engineer_Must_Know_in_2026.md",
+      "status": "saved",
+      "title": "15 React Concepts Every Frontend Engineer Must Know in 2026"
+    },
+    "https://medium.com/p/26a8b51ca1ac": {
+      "file": "Why_You_Should_Use_nuqs_Smarter_URL_State_Management_for_React_&_Next.js.md",
+      "status": "saved",
+      "title": "Why You Should Use nuqs: Smarter URL State Management for React & Next.js"
+    },
+    "https://medium.com/p/34576682c68e": {
+      "file": "State_Management_in_2026_What_Comes_After_Redux.md",
+      "status": "saved",
+      "title": "State Management in 2026: What Comes After Redux"
+    },
+    "https://medium.com/p/3a030a3ea8e4": {
+      "status": "removed",
+      "title": "3A030A3Ea8E4"
+    },
+    "https://medium.com/p/4461159b1fba": {
+      "file": "The_Biggest_Mistake_I_See_in_React_Native_Projects_(and_How_to_Avoid_It).md",
+      "status": "saved",
+      "title": "The Biggest Mistake I See in React Native Projects (and How to Avoid It)"
+    },
+    "https://medium.com/p/4afd1d17d40b": {
+      "file": "Creating_a_\u201cRead_More\u201d_component_in_React.md",
+      "status": "saved",
+      "title": "Creating a \u201cRead More\u201d component in React"
+    },
+    "https://medium.com/p/4d8c1b0cfe7d": {
+      "file": "I_Stopped_Fighting_useEffect_Dependency_Arrays_(Here\u2019s_What_I_Use_Instead).md",
+      "status": "saved",
+      "title": "I Stopped Fighting useEffect Dependency Arrays (Here\u2019s What I Use Instead)"
+    },
+    "https://medium.com/p/529ee28f9055": {
+      "file": "Token,_Session,_Cookie,_JWT,_OAuth2_\u2014_I_can\u2019t_tell_the_difference!.md",
+      "status": "saved",
+      "title": "Token, Session, Cookie, JWT, OAuth2\u200a\u2014\u200aI can\u2019t tell the difference!"
+    },
+    "https://medium.com/p/54460d9f3683": {
+      "file": "How_to_Eliminate_Prop_Drilling_Completely_The_2025_State_Architecture_Guide_for_React_Developers.md",
+      "status": "saved",
+      "title": "How to Eliminate Prop Drilling Completely: The 2025 State Architecture Guide for React Developers"
+    },
+    "https://medium.com/p/5936903b5ac0": {
+      "file": "I_Replaced_React_Context_With_30_Lines_of_Vanilla_JS_(And_Avoided_Re-Render_Hell).md",
+      "status": "saved",
+      "title": "I Replaced React Context With 30 Lines of Vanilla JS (And Avoided Re-Render Hell)"
+    },
+    "https://medium.com/p/66656cc0dd8f": {
+      "file": "I_Was_Asked_About_Virtual_DOM_in_a_frontend_interview_\u201cIt\u2019s_Faster\u201d_Wasn\u2019t_the_Answer.md",
+      "status": "saved",
+      "title": "I Was Asked About Virtual DOM in a frontend interview: \u201cIt\u2019s Faster\u201d Wasn\u2019t the Answer"
+    },
+    "https://medium.com/p/68e07623ffa7": {
+      "file": "Why_NASA_Developers_Write_Code_Completely_Differently_(And_Why_You_Should_Too).md",
+      "status": "saved",
+      "title": "Why NASA Developers Write Code Completely Differently (And Why You Should Too)"
+    },
+    "https://medium.com/p/690c7b19a387": {
+      "file": "If_You_Can_Answer_These_10_React_Questions_You_are_Above_Average.md",
+      "status": "saved",
+      "title": "If You Can Answer These 10 React Questions: You are Above Average"
+    },
+    "https://medium.com/p/6a8b671fca1a": {
+      "status": "removed",
+      "title": "6A8B671Fca1A"
+    },
+    "https://medium.com/p/6b87965ff32b": {
+      "file": "12_React_19_Data-Fetching_Patterns_That_Feel_Instant.md",
+      "status": "saved",
+      "title": "12 React 19 Data-Fetching Patterns That Feel Instant"
+    },
+    "https://medium.com/p/70e0e343cd03": {
+      "status": "removed",
+      "title": "70E0E343Cd03"
+    },
+    "https://medium.com/p/746d7e08f2a5": {
+      "file": "Implementing_Layout_Structure_in_NextJs_the_right_way.md",
+      "status": "saved",
+      "title": "Implementing Layout Structure   in NextJs the right way"
+    },
+    "https://medium.com/p/8410176ca560": {
+      "file": "I_Copy_These_10_Code_Snippets_Into_Every_Project.md",
+      "status": "saved",
+      "title": "I Copy These 10 Code Snippets Into Every Project"
+    },
+    "https://medium.com/p/8b7b5b649285": {
+      "file": "The_Frontend_Patterns_That_Actually_Scale.md",
+      "status": "saved",
+      "title": "The Frontend Patterns That Actually Scale"
+    },
+    "https://medium.com/p/8e23374eff20": {
+      "file": "5_React_Component_Patterns_That_Make_Your_Code_Reusable.md",
+      "status": "saved",
+      "title": "8E23374Eff20"
+    },
+    "https://medium.com/p/9abe88c0ca87": {
+      "file": "Creating_Server_Components_with_Tanstack_Query_+_Axios.md",
+      "status": "saved",
+      "title": "Creating Server Components with Tanstack Query + Axios"
+    },
+    "https://medium.com/p/9d1b90aa995e": {
+      "file": "SSR_-_SSG_-_ISR_-_CSR_in_Next.js_\u2014_The_Ultimate_Guide.md",
+      "status": "saved",
+      "title": "SSR - SSG - ISR - CSR in Next.js\u200a\u2014\u200aThe Ultimate Guide"
+    },
+    "https://medium.com/p/be5de452b5e9": {
+      "file": "I_Made_Zod_64x_Faster_by_Compiling_Schemas_at_Build_Time.md",
+      "status": "saved",
+      "title": "I Made Zod 64x Faster by Compiling Schemas at Build Time"
+    },
+    "https://medium.com/p/c95f757e52a6": {
+      "file": "7_Coding_Patterns_I_Stole_From_Senior_Engineers.md",
+      "status": "saved",
+      "title": "7 Coding Patterns I Stole From Senior Engineers"
+    },
+    "https://medium.com/p/d083acd36e2f": {
+      "file": "7_RxJS_Patterns_Every_React_Developer_Misses\u2014Until_It\u2019s_Too_Late.md",
+      "status": "saved",
+      "title": "7 RxJS Patterns Every React Developer Misses\u2014Until It\u2019s Too Late"
+    },
+    "https://medium.com/p/d1c65ea09a48": {
+      "file": "7_React_Patterns_Senior_Devs_Use_That_Juniors_Have_Never_Heard_Of.md",
+      "status": "saved",
+      "title": "7 React Patterns Senior Devs Use That Juniors Have Never Heard Of"
+    },
+    "https://medium.com/p/d8e5b88487bb": {
+      "file": "\ud83e\udde9_What_is_Multi-Zone_in_Next.js.md",
+      "status": "saved",
+      "title": "\ud83e\udde9 What is Multi-Zone in Next.js?"
+    },
+    "https://medium.com/p/dac9dd4196d9": {
+      "file": "RxJS_vs._Signals_The_Exact_Rulebook_on_When_to_Use_Which.md",
+      "status": "saved",
+      "title": "RxJS vs. Signals: The Exact Rulebook on When to Use Which"
+    },
+    "https://medium.com/p/dc464a82c46d": {
+      "file": "How_Frontend_Developers_Can_Handle_Millions_of_API_Requests_Without_Crashing_Everything.md",
+      "status": "saved",
+      "title": "How Frontend Developers Can Handle Millions of API Requests Without Crashing Everything"
+    },
+    "https://medium.com/p/dfc4fafee80c": {
+      "file": "Create_Micro-Frontend_Architecture_Using_React.md",
+      "status": "saved",
+      "title": "Create Micro-Frontend Architecture Using React"
+    },
+    "https://medium.com/p/e1b84ae12bda": {
+      "file": "The_Death_of_useEffect_How_React_19_Changes_Everything.md",
+      "status": "saved",
+      "title": "The Death of useEffect: How React 19 Changes Everything"
+    },
+    "https://medium.com/p/e72486286f63": {
+      "file": "Turbopack_A_Better_Way_to_Inline_SVG_in_Next.js_16.md",
+      "status": "saved",
+      "title": "Turbopack: A Better Way to Inline SVG in Next.js 16"
+    },
+    "https://medium.com/p/e84f22fca9fa": {
+      "file": "Stop_Memorizing_Design_Patterns_Use_This_Decision_Tree_Instead.md",
+      "status": "saved",
+      "title": "Stop Memorizing Design Patterns: Use This Decision Tree Instead"
+    },
+    "https://medium.com/p/ea9b2b7214e5": {
+      "file": "Hono_\u2014_Ending_the_TypeScript_War_Between_Frontend_and_Backend.md",
+      "status": "saved",
+      "title": "Hono\u200a\u2014\u200aEnding the TypeScript War Between Frontend and Backend"
+    },
+    "https://medium.com/p/f90934947b0c": {
+      "file": "Protecting_Routes_in_Next.js_The_Right_Way_to_Avoid_UI_Flicker.md",
+      "status": "saved",
+      "title": "Protecting Routes in Next.js: The Right Way to Avoid UI Flicker"
+    },
+    "https://medium.com/p/ff858efdced5": {
+      "file": "Taming_Supabase_&_Next.js_Auth_Why_Your_Users_Keep_Getting_Logged_Out_(And_How_to_Fix_It).md",
+      "status": "saved",
+      "title": "Taming Supabase & Next.js Auth: Why Your Users Keep Getting Logged Out (And How to Fix It)"
+    }
+  },
+  "Python": {
+    "https://medium.com/@kiranmantha": {
+      "file": "kiranmantha.md",
+      "status": "saved",
+      "title": "kiranmantha"
+    },
+    "https://medium.com/@kiranmantha/list/9bf8d399bee2": {
+      "file": "Link_to_list.md",
+      "status": "saved",
+      "title": "Link to list"
+    },
+    "https://medium.com/p/069f699da1dd": {
+      "file": "I_Cracked_My_Own_JWT_Secret_in_11_Minutes_\u2014_Then_I_Migrated_to_PASETO..md",
+      "status": "saved",
+      "title": "I Cracked My Own JWT Secret in 11 Minutes \u2014 Then I Migrated to PASETO."
+    },
+    "https://medium.com/p/1ba80278e186": {
+      "file": "3_Python_Projects_That_Made_Python_Finally_Feel_Practical.md",
+      "status": "saved",
+      "title": "3 Python Projects That Made Python Finally Feel Practical"
+    },
+    "https://medium.com/p/1f48b4d54578": {
+      "file": "I_Built_a_Python_Tool_That_Automatically_Discovers_Trading_Strategies_For_You.md",
+      "status": "saved",
+      "title": "I Built a Python Tool That Automatically Discovers Trading Strategies For You"
+    },
+    "https://medium.com/p/2b87c345a923": {
+      "file": "I_Thought_I_Knew_Python_\u2014_Then_These_7_Python_Features_Humbled_Me.md",
+      "status": "saved",
+      "title": "I Thought I Knew Python \u2014 Then These 7 Python Features Humbled Me"
+    },
+    "https://medium.com/p/4cb19ffd920a": {
+      "file": "5_Tiny_Python_Scripts_That_Got_More_Attention_Than_My_Resume.md",
+      "status": "saved",
+      "title": "5 Tiny Python Scripts That Got More Attention Than My Resume"
+    },
+    "https://medium.com/p/5bbaa2c3716f": {
+      "file": "15_Python_Nano-Scripts_That_Automate_Actual_Business_Problems_(3-Lines_or_Less).md",
+      "status": "saved",
+      "title": "15 Python Nano-Scripts That Automate Actual Business Problems (3-Lines or Less)"
+    },
+    "https://medium.com/p/5c01e96ad479": {
+      "file": "Markov_Chains_nuclear_algorithm_used_by_Quants_to_crush_87%_of_Polymarket_traders.md",
+      "status": "saved",
+      "title": "Markov Chains: nuclear algorithm used by Quants to crush 87% of Polymarket traders"
+    },
+    "https://medium.com/p/7d8041f9142c": {
+      "file": "How_One_Small_Python_Script_Ended_Up_Earning_Me_More_Than_a_\u201cBig\u201d_Project.md",
+      "status": "saved",
+      "title": "How One Small Python Script Ended Up Earning Me More Than a \u201cBig\u201d Project"
+    },
+    "https://medium.com/p/8ee670212c33": {
+      "file": "10_Python_Concepts_That_Took_Me_Years_to_Understand_\u2014_Until_I_Saw_These_Examples.md",
+      "status": "saved",
+      "title": "10 Python Concepts That Took Me Years to Understand\u200a\u2014\u200aUntil I Saw These Examples"
+    },
+    "https://medium.com/p/96b0a9c22200": {
+      "file": "asyncio_Was_Killing_My_FastAPI_App._Here_Is_What_I_Switched_To..md",
+      "status": "saved",
+      "title": "asyncio Was Killing My FastAPI App. Here Is What I Switched To."
+    },
+    "https://medium.com/p/9a815fb64afd": {
+      "file": "5\u201315_minute_updown_\u2014_Top_3_bots_that_can_print_you_money_+_strategies.md",
+      "status": "saved",
+      "title": "5\u201315 minute up/down \u2014 Top 3 bots that can print you money + strategies"
+    },
+    "https://medium.com/p/a972932a4826": {
+      "file": "The_Python_Script_I_Built_That_Finds_Clients_While_I_Sleep.md",
+      "status": "saved",
+      "title": "The Python Script I Built That Finds Clients While I Sleep"
+    },
+    "https://medium.com/p/b9f4f83e9c95": {
+      "file": "How_I_Built_6_Micro-Tools_in_Python_That_Earn_Me_Passive_Income_Daily.md",
+      "status": "saved",
+      "title": "How I Built 6 Micro-Tools in Python That Earn Me Passive Income Daily"
+    },
+    "https://medium.com/p/bbc5b81a0bdd": {
+      "file": "The_Python_Tool_I_Built_in_a_Weekend_That_Now_Pays_My_Rent.md",
+      "status": "saved",
+      "title": "The Python Tool I Built in a Weekend That Now Pays My Rent"
+    },
+    "https://medium.com/p/c828dbbe552f": {
+      "file": "10_AWS_Tools_That_Made_My_Side_Project_Feel_Enterprise_Grade.md",
+      "status": "saved",
+      "title": "10 AWS Tools That Made My Side Project Feel Enterprise Grade"
+    },
+    "https://medium.com/p/ca1dfeb92edb": {
+      "file": "I_Handed_ChatGPT_$100_to_Trade_Stocks_\u2014_Here\u2019s_What_Happened_in_2_Months..md",
+      "status": "saved",
+      "title": "I Handed ChatGPT $100 to Trade Stocks\u200a\u2014\u200aHere\u2019s What Happened in 2 Months."
+    },
+    "https://medium.com/p/dc464a82c46d": {
+      "file": "How_Frontend_Developers_Can_Handle_Millions_of_API_Requests_Without_Crashing_Everything.md",
+      "status": "saved",
+      "title": "How Frontend Developers Can Handle Millions of API Requests Without Crashing Everything"
+    },
+    "https://medium.com/p/dd2407639cd0": {
+      "file": "GridMartBB_A_Mean-Reversion_Grid_System_That_Turns_Bollinger_Band_Extremes_Into_Profit_Machines.md",
+      "status": "saved",
+      "title": "GridMartBB: A Mean-Reversion Grid System That Turns Bollinger Band Extremes Into Profit Machines"
+    },
+    "https://medium.com/p/e46a1ed62583": {
+      "file": "Decoding_Market_Patterns_A_Nobel_Prize-Inspired_Trading_Indicator_for_MetaTrader_5_(edited).md",
+      "status": "saved",
+      "title": "Decoding Market Patterns: A Nobel Prize-Inspired Trading Indicator for MetaTrader 5 (edited)"
+    },
+    "https://medium.com/p/e9b20c399f54": {
+      "file": "Python_Concepts_That_Quietly_Improve_Every_Program_You_Write.md",
+      "status": "saved",
+      "title": "Python Concepts That Quietly Improve Every Program You Write"
+    },
+    "https://medium.com/p/ea42b4bf2c54": {
+      "file": "FastAPI_in_Production_7_Mistakes_That_Will_Destroy_Your_App.md",
+      "status": "saved",
+      "title": "FastAPI in Production: 7 Mistakes That Will Destroy Your App"
+    },
+    "https://medium.com/p/f8cc25afcf60": {
+      "file": "I_Compared_4_Python_Message_Queues._One_Won_Clearly..md",
+      "status": "saved",
+      "title": "I Compared 4 Python Message Queues. One Won Clearly."
+    }
+  },
+  "React_Native": {
+    "https://medium.com/@kiranmantha": {
+      "file": "kiranmantha.md",
+      "status": "saved",
+      "title": "kiranmantha"
+    },
+    "https://medium.com/@kiranmantha/list/98cc51c66650": {
+      "file": "Link_to_list.md",
+      "status": "saved",
+      "title": "Link to list"
+    },
+    "https://medium.com/p/0d98ddc51c3b": {
+      "file": "I_Built_a_React_App_Without_useState_(And_It\u2019s_Faster).md",
+      "status": "saved",
+      "title": "I Built a React App Without useState (And It\u2019s Faster)"
+    },
+    "https://medium.com/p/15c46af94872": {
+      "file": "React_Native_Overlapping_Components.md",
+      "status": "saved",
+      "title": "React Native Overlapping Components"
+    },
+    "https://medium.com/p/15f59236a39c": {
+      "file": "FlashList_vs._FlatList_Understanding_the_Key_Differences_for_React_Native_Performance.md",
+      "status": "saved",
+      "title": "FlashList vs. FlatList: Understanding the Key Differences for React Native Performance"
+    },
+    "https://medium.com/p/2b08f3579a0e": {
+      "status": "removed",
+      "title": "2B08F3579A0E"
+    },
+    "https://medium.com/p/4b6e4ad1cd7f": {
+      "file": "Building_LightOS_with_React_Native.md",
+      "status": "saved",
+      "title": "Building LightOS with React Native"
+    },
+    "https://medium.com/p/50a504b1b854": {
+      "status": "removed",
+      "title": "The Hook I Use in Every React Project (You\u2019ll Want It Too)"
+    },
+    "https://medium.com/p/55c48e1725a3": {
+      "file": "Tailwind_in_React_Native_Here\u2019s_the_Truth!.md",
+      "status": "saved",
+      "title": "Tailwind in React Native? Here\u2019s the Truth!"
+    },
+    "https://medium.com/p/690c7b19a387": {
+      "file": "If_You_Can_Answer_These_10_React_Questions_You_are_Above_Average.md",
+      "status": "saved",
+      "title": "If You Can Answer These 10 React Questions: You are Above Average"
+    },
+    "https://medium.com/p/8b7b5b649285": {
+      "file": "The_Frontend_Patterns_That_Actually_Scale.md",
+      "status": "saved",
+      "title": "The Frontend Patterns That Actually Scale"
+    },
+    "https://medium.com/p/a00970088437": {
+      "file": "6_React_Native_UI_Components_I_Copy-Paste_Into_Every_App.md",
+      "status": "saved",
+      "title": "6 React Native UI Components I Copy-Paste Into Every App"
+    },
+    "https://medium.com/p/dc464a82c46d": {
+      "file": "How_Frontend_Developers_Can_Handle_Millions_of_API_Requests_Without_Crashing_Everything.md",
+      "status": "saved",
+      "title": "How Frontend Developers Can Handle Millions of API Requests Without Crashing Everything"
+    },
+    "https://medium.com/p/e84f22fca9fa": {
+      "file": "Stop_Memorizing_Design_Patterns_Use_This_Decision_Tree_Instead.md",
+      "status": "saved",
+      "title": "Stop Memorizing Design Patterns: Use This Decision Tree Instead"
+    },
+    "https://medium.com/p/f0e849073334": {
+      "file": "We_Thought_React_Native_Was_the_Answer_\u2014_Until_Our_App_Hit_190%_CPU.md",
+      "status": "saved",
+      "title": "We Thought React Native Was the Answer\u200a\u2014\u200aUntil Our App Hit 190% CPU"
+    }
+  },
+  "Read_later_Trading": {
+    "https://medium.com/@kiranmantha": {
+      "file": "kiranmantha.md",
+      "status": "saved",
+      "title": "kiranmantha"
+    },
+    "https://medium.com/@kiranmantha/list/8375ffacd6bb": {
+      "file": "Link_to_list.md",
+      "status": "saved",
+      "title": "Link to list"
+    },
+    "https://medium.com/p/64a3fe28f218": {
+      "file": "The_Forgotten_Way_of_Using_the_RSI.md",
+      "status": "saved",
+      "title": "The Forgotten Way of Using the RSI"
+    },
+    "https://medium.com/p/652b67dd52c5": {
+      "file": "Presenting_and_Back-testing_the_3\u20132\u20132_Candlestick_Pattern.md",
+      "status": "saved",
+      "title": "Presenting and Back-testing the 3\u20132\u20132 Candlestick Pattern"
+    },
+    "https://medium.com/p/b22cd101a258": {
+      "file": "Deploying_Algorithmic_Trading_Strategy_Part-3_(Telegram_Bot_Updates).md",
+      "status": "saved",
+      "title": "Deploying Algorithmic Trading Strategy Part-3 (Telegram Bot Updates)"
+    },
+    "https://medium.com/p/c59c99b961d6": {
+      "file": "Using_the_@incomesharks_trading_strategy._A_simple_but_very_effective_strategy.md",
+      "status": "saved",
+      "title": "Using the @incomesharks trading strategy. A simple but very effective strategy"
+    }
+  },
+  "Reading_list": {
+    "https://medium.com/@kiranmantha": {
+      "file": "kiranmantha.md",
+      "status": "saved",
+      "title": "kiranmantha"
+    },
+    "https://medium.com/@kiranmantha/list/predefined:5815b5fb8e5f:READING_LIST": {
+      "file": "Link_to_list.md",
+      "status": "saved",
+      "title": "Link to list"
+    },
+    "https://medium.com/p/000c74cdf53a": {
+      "file": "DuckDB_Isn\u2019t_Just_Fast._It_Changes_How_You_Think_About_Data..md",
+      "status": "saved",
+      "title": "DuckDB Isn\u2019t Just Fast. It Changes How You Think About Data."
+    },
+    "https://medium.com/p/01d24d8fc767": {
+      "file": "Web_Workers_vs._WASM_When_to_Use_Which_for_Performance.md",
+      "status": "saved",
+      "title": "Web Workers vs. WASM: When to Use Which for Performance"
+    },
+    "https://medium.com/p/03349bd42956": {
+      "file": "5_JavaScript_Libraries_You\u2019ve_Never_Used_(But_Will_Wonder_How_You_Lived_Without).md",
+      "status": "saved",
+      "title": "5 JavaScript Libraries You\u2019ve Never Used (But Will Wonder How You Lived Without)"
+    },
+    "https://medium.com/p/04147075ad6d": {
+      "file": "Software_Engineer_(named_Vasilios_Syrakis)_at_Atlassian_was_laid_off_on_March_12_after_8_years..md",
+      "status": "saved",
+      "title": "Software Engineer (named Vasilios Syrakis) at Atlassian was laid off on March 12 after 8 years."
+    },
+    "https://medium.com/p/054b290270e7": {
+      "file": "Why_100vh_Is_Still_Broken_on_Mobile_and_How_to_Fix_100vh.md",
+      "status": "saved",
+      "title": "Why 100vh Is Still Broken on Mobile and How to Fix 100vh"
+    },
+    "https://medium.com/p/06409fe4f66b": {
+      "status": "removed",
+      "title": "06409Fe4F66B"
+    },
+    "https://medium.com/p/069f699da1dd": {
+      "file": "I_Cracked_My_Own_JWT_Secret_in_11_Minutes_\u2014_Then_I_Migrated_to_PASETO..md",
+      "status": "saved",
+      "title": "I Cracked My Own JWT Secret in 11 Minutes \u2014 Then I Migrated to PASETO."
+    },
+    "https://medium.com/p/06c199003d94": {
+      "file": "High-Level_System_Architecture_of_Booking.com.md",
+      "status": "saved",
+      "title": "High-Level System Architecture of Booking.com"
+    },
+    "https://medium.com/p/07423f3d9b33": {
+      "file": "Stop_Using_Index_as_a_Key._Here\u2019s_How_React_Keys_Really_Work.md",
+      "status": "saved",
+      "title": "Stop Using Index as a Key. Here\u2019s How React Keys Really Work"
+    },
+    "https://medium.com/p/083af8028ebf": {
+      "file": "How_I_Built_High-Performance_JavaScript_Backends_That_Handle_Millions_of_Requests..md",
+      "status": "saved",
+      "title": "How I Built High-Performance JavaScript Backends That Handle Millions of Requests."
+    },
+    "https://medium.com/p/085b56149ceb": {
+      "file": "Part_1_\u2014_Setting_Up_App_Insights_in_Next.js_15.md",
+      "status": "saved",
+      "title": "Part 1 \u2014 Setting Up App Insights in Next.js 15"
+    },
+    "https://medium.com/p/0914d84601f3": {
+      "file": "Optimizing_LangChain_AI_Agents_with_Contextual_Engineering.md",
+      "status": "saved",
+      "title": "Optimizing LangChain AI Agents with Contextual Engineering"
+    },
+    "https://medium.com/p/0b3834fded07": {
+      "file": "The_Day_a_Google_L7_Engineer_Tore_My_System_Design_to_Shreds.md",
+      "status": "saved",
+      "title": "The Day a Google L7 Engineer Tore My System Design to Shreds"
+    },
+    "https://medium.com/p/0b8e2c07568a": {
+      "file": "\u23f0_It\u2019s_Time_to_Talk_About_Import_Map,_Micro_Frontend,_and_Nx_Monorepo.md",
+      "status": "saved",
+      "title": "\u23f0 It\u2019s Time to Talk About Import Map, Micro Frontend, and Nx Monorepo"
+    },
+    "https://medium.com/p/0c777918c48a": {
+      "file": "Building_a_Complete_AWS_Environment_Locally_with_Floci.md",
+      "status": "saved",
+      "title": "Building a Complete AWS Environment Locally with Floci"
+    },
+    "https://medium.com/p/0ce3c2ecaddd": {
+      "file": "Creating_Envless_Angular-application.md",
+      "status": "saved",
+      "title": "Creating Envless Angular-application"
+    },
+    "https://medium.com/p/0ce8d2f62293": {
+      "file": "How_to_Learn_DevOps_&_Cloud_from_Scratch_in_2026_(A_Practical,_Job-Ready_Roadmap).md",
+      "status": "saved",
+      "title": "How to Learn DevOps & Cloud from Scratch in 2026 (A Practical, Job-Ready Roadmap)"
+    },
+    "https://medium.com/p/0d98ddc51c3b": {
+      "file": "I_Built_a_React_App_Without_useState_(And_It\u2019s_Faster).md",
+      "status": "saved",
+      "title": "I Built a React App Without useState (And It\u2019s Faster)"
+    },
+    "https://medium.com/p/0e57073b4be1": {
+      "file": "My_Favourite_Software_Architecture_Patterns.md",
+      "status": "saved",
+      "title": "My Favourite Software Architecture Patterns"
+    },
+    "https://medium.com/p/0fba32b937fc": {
+      "file": "I_Wasted_8_Months_on_Every_Remote_Job_Site._This_Is_the_Only_One_Worth_Your_Time.md",
+      "status": "saved",
+      "title": "I Wasted 8 Months on Every Remote Job Site. This Is the Only One Worth Your Time"
+    },
+    "https://medium.com/p/0fee51546a5e": {
+      "file": "I_Replaced_400ms_Of_JavaScript_With_12ms_Of_Rust_In_Angular.md",
+      "status": "saved",
+      "title": "I Replaced 400ms Of JavaScript With 12ms Of Rust In Angular"
+    },
+    "https://medium.com/p/10681438bdd4": {
+      "file": "Animate_Dynamic_Components_in_Angular.md",
+      "status": "saved",
+      "title": "Animate Dynamic Components in Angular"
+    },
+    "https://medium.com/p/1164c0adfcec": {
+      "status": "removed",
+      "title": "1164C0Adfcec"
+    },
+    "https://medium.com/p/11b273f84f17": {
+      "status": "removed",
+      "title": "11B273F84F17"
+    },
+    "https://medium.com/p/11e5b2efe293": {
+      "file": "Practical_RxJS_In_The_Wild_\ud83e\udd81\u2014_Requests_with_concatMap()_vs_mergeMap()_vs_forkJoin()_\ud83e\udd4a.md",
+      "status": "saved",
+      "title": "Practical RxJS In The Wild \ud83e\udd81\u2014 Requests with concatMap() vs mergeMap() vs forkJoin() \ud83e\udd4a"
+    },
+    "https://medium.com/p/12bd2dbb5269": {
+      "file": "Dynamic_Configuration_in_Node.js_Stop_Redeploying_Your_App_for_Small_Changes.md",
+      "status": "saved",
+      "title": "Dynamic Configuration in Node.js: Stop Redeploying Your App for Small Changes"
+    },
+    "https://medium.com/p/13b1e7f6f993": {
+      "file": "Web_Components_Landscape_in_2019.md",
+      "status": "saved",
+      "title": "Web Components Landscape in 2019"
+    },
+    "https://medium.com/p/145c73db7d9c": {
+      "file": "How_We_Reduced_Our_Node.js_Cold_Starts_by_90%.md",
+      "status": "saved",
+      "title": "How We Reduced Our Node.js Cold Starts by 90%"
+    },
+    "https://medium.com/p/145d25e502cf": {
+      "file": "I_mastered_the_Claude_Code_workflow.md",
+      "status": "saved",
+      "title": "I mastered the Claude Code workflow"
+    },
+    "https://medium.com/p/14e0da87b20e": {
+      "file": "Angular_Generating,_Accessing_and_Using_CSP_Nonces_with_Nginx.md",
+      "status": "saved",
+      "title": "Angular: Generating, Accessing and Using CSP Nonces with Nginx"
+    },
+    "https://medium.com/p/15c46af94872": {
+      "file": "React_Native_Overlapping_Components.md",
+      "status": "saved",
+      "title": "React Native Overlapping Components"
+    },
+    "https://medium.com/p/162b7467f08e": {
+      "file": "Art_of_Autoscaling_in_Kubernetes.md",
+      "status": "saved",
+      "title": "Art of Autoscaling in Kubernetes"
+    },
+    "https://medium.com/p/16e9dbdda691": {
+      "file": "Creating_a_Blockchain_with_Javascript.md",
+      "status": "saved",
+      "title": "Creating a Blockchain with Javascript"
+    },
+    "https://medium.com/p/16fc9b912526": {
+      "file": "How_to_Prevent_10,000_Concurrent_Database_Hits_in_2_Seconds.md",
+      "status": "saved",
+      "title": "How to Prevent 10,000 Concurrent Database Hits in 2 Seconds"
+    },
+    "https://medium.com/p/1743a584176d": {
+      "file": "Distributed_Transaction_Patterns_in_Event-Driven_Microservices.md",
+      "status": "saved",
+      "title": "Distributed Transaction Patterns in Event-Driven Microservices"
+    },
+    "https://medium.com/p/177c8e9acfc7": {
+      "file": "Contract_Testing_for_Event_Driven_Architectures_\u2014_Can_We,_Do_We_and_How_Do_We.md",
+      "status": "saved",
+      "title": "Contract Testing for Event Driven Architectures\u200a\u2014\u200aCan We, Do We and How Do We?"
+    },
+    "https://medium.com/p/18be9168d717": {
+      "file": "PWA_Create_a_\u201cNew_Update_Available\u201d_Notification_using_Service_Workers.md",
+      "status": "saved",
+      "title": "PWA: Create a \u201cNew Update Available\u201d Notification using Service Workers"
+    },
+    "https://medium.com/p/1b29b43ea475": {
+      "file": "JavaScript_Vanilla_Single_Page_Applications_(SPA).md",
+      "status": "saved",
+      "title": "JavaScript: Vanilla Single Page Applications (SPA)"
+    },
+    "https://medium.com/p/1b3228fb6c50": {
+      "file": "I_Designed_Airbnb\u2019s_Booking_System_Live._The_Interviewer_Stopped_Me_at_Minute_12..md",
+      "status": "saved",
+      "title": "I Designed Airbnb\u2019s Booking System Live. The Interviewer Stopped Me at Minute 12."
+    },
+    "https://medium.com/p/1ba80278e186": {
+      "file": "3_Python_Projects_That_Made_Python_Finally_Feel_Practical.md",
+      "status": "saved",
+      "title": "3 Python Projects That Made Python Finally Feel Practical"
+    },
+    "https://medium.com/p/1c3364b2f920": {
+      "file": "Avoid_ugly_Ifelse_blocks_&_make_your_code_modular_with_Strategy.md",
+      "status": "saved",
+      "title": "Avoid ugly If/else blocks & make your code modular with Strategy"
+    },
+    "https://medium.com/p/1c9ea8642dd0": {
+      "file": "Understanding_Execution_Context_and_Execution_Stack_in_Javascript.md",
+      "status": "saved",
+      "title": "Understanding Execution Context and Execution Stack in Javascript"
+    },
+    "https://medium.com/p/1cd636269b12": {
+      "file": "Recursion_in_Angular_Components.md",
+      "status": "saved",
+      "title": "Recursion in Angular Components"
+    },
+    "https://medium.com/p/1e32350b7fa5": {
+      "file": "Make_Your_Angular_Form\u2019s_Error_Messages_Magically_Appear.md",
+      "status": "saved",
+      "title": "Make Your Angular Form\u2019s Error Messages Magically Appear"
+    },
+    "https://medium.com/p/1e8e946bf890": {
+      "file": "\ud83d\ude80_Deploying_any_app_to_GitHub_Pages.md",
+      "status": "saved",
+      "title": "\ud83d\ude80 Deploying any app to GitHub Pages"
+    },
+    "https://medium.com/p/1f48b4d54578": {
+      "file": "I_Built_a_Python_Tool_That_Automatically_Discovers_Trading_Strategies_For_You.md",
+      "status": "saved",
+      "title": "I Built a Python Tool That Automatically Discovers Trading Strategies For You"
+    },
+    "https://medium.com/p/1f906520d548": {
+      "file": "Stop_Using_i++_in_Your_Loops.md",
+      "status": "saved",
+      "title": "Stop Using i++ in Your Loops"
+    },
+    "https://medium.com/p/1fda3fa06c2f": {
+      "file": "Manage_Action_Flow_in_@ngrx_with_@ngrxeffects.md",
+      "status": "saved",
+      "title": "Manage Action Flow in @ngrx with @ngrx/effects"
+    },
+    "https://medium.com/p/1fe3c9089aff": {
+      "file": "The_Browser_API_Most_Developers_Have_Never_Used.md",
+      "status": "saved",
+      "title": "The Browser API Most Developers Have Never Used"
+    },
+    "https://medium.com/p/2054d86e0cb9": {
+      "file": "LM_Studio_+_Claude_Code_in_VS_Code_Made_Easy.md",
+      "status": "saved",
+      "title": "LM Studio + Claude Code in VS Code Made Easy"
+    },
+    "https://medium.com/p/20ba70ce4e21": {
+      "file": "Creating_Searchable_Templates_in_Angular.md",
+      "status": "saved",
+      "title": "Creating Searchable Templates in Angular"
+    },
+    "https://medium.com/p/21d2b82ffa6f": {
+      "file": "Inheritance_in_JavaScript.md",
+      "status": "saved",
+      "title": "Inheritance in JavaScript"
+    },
+    "https://medium.com/p/226fcae3d7f5": {
+      "file": "The_Vanilla_JS_Framework_5_Advanced_Patterns_That_Replace_Your_Entire_Dependency_Tree.md",
+      "status": "saved",
+      "title": "The Vanilla JS Framework: 5 Advanced Patterns That Replace Your Entire Dependency Tree"
+    },
+    "https://medium.com/p/22adeaa0cd17": {
+      "file": "Implementing_single_file_Web_Components.md",
+      "status": "saved",
+      "title": "Implementing single file Web Components"
+    },
+    "https://medium.com/p/2305258a87d7": {
+      "status": "removed",
+      "title": "2305258A87D7"
+    },
+    "https://medium.com/p/243de024d396": {
+      "file": "Angular_State_Management_Without_RxJS_\u2014_An_Experiment.md",
+      "status": "saved",
+      "title": "Angular State Management Without RxJS\u200a\u2014\u200aAn Experiment"
+    },
+    "https://medium.com/p/252803be738c": {
+      "status": "removed",
+      "title": "I Tested 7 Rust Web Frameworks at 50K RPS \u2014 Only Actix-Web Held a Flat Latency Curve"
+    },
+    "https://medium.com/p/26a8b51ca1ac": {
+      "file": "Why_You_Should_Use_nuqs_Smarter_URL_State_Management_for_React_&_Next.js.md",
+      "status": "saved",
+      "title": "Why You Should Use nuqs: Smarter URL State Management for React & Next.js"
+    },
+    "https://medium.com/p/27a0a484635": {
+      "status": "removed",
+      "title": "27A0A484635"
+    },
+    "https://medium.com/p/280db0a51aa2": {
+      "file": "Open_Source_Investment_Research_for_Everyone.md",
+      "status": "saved",
+      "title": "Open Source Investment Research for Everyone"
+    },
+    "https://medium.com/p/28182584450a": {
+      "file": "Simple_React_Server_Components_Implementation_Without_Next.js.md",
+      "status": "saved",
+      "title": "Simple React Server Components Implementation Without Next.js"
+    },
+    "https://medium.com/p/284ed95a9107": {
+      "file": "Fetch_API_Trick_Auto_Retry_Request_When_It_Fails.md",
+      "status": "saved",
+      "title": "Fetch API Trick: Auto Retry Request When It Fails"
+    },
+    "https://medium.com/p/28676cb093d0": {
+      "file": "Build_Scalable_Event-Driven_Applications_With_Nest.js.md",
+      "status": "saved",
+      "title": "Build Scalable Event-Driven Applications With Nest.js"
+    },
+    "https://medium.com/p/297f820eb2db": {
+      "file": "Stop_Writing_Utility_Functions_in_Python_(Here\u2019s_the_Better_Pattern).md",
+      "status": "saved",
+      "title": "Stop Writing Utility Functions in Python (Here\u2019s the Better Pattern)"
+    },
+    "https://medium.com/p/29a27b6f51cb": {
+      "file": "13_JavaScript_One-Liners_That\u2019ll_Make_You_Look_Like_a_Pro.md",
+      "status": "saved",
+      "title": "13 JavaScript One-Liners That\u2019ll Make You Look Like a Pro"
+    },
+    "https://medium.com/p/2b08f3579a0e": {
+      "status": "removed",
+      "title": "2B08F3579A0E"
+    },
+    "https://medium.com/p/2b605b444b04": {
+      "file": "Mastering_the_Angular_performance_\u2014_by_dropping_the_magic_of_Change_Detector.md",
+      "status": "saved",
+      "title": "Mastering the Angular performance \u2014 by dropping the magic of Change Detector"
+    },
+    "https://medium.com/p/2b7838a5d7f8": {
+      "file": "Double_Entry_Accounting_in_a_Relational_Database.md",
+      "status": "saved",
+      "title": "Double Entry Accounting in a Relational Database"
+    },
+    "https://medium.com/p/2b7c96170e17": {
+      "file": "RxJS_Create_Observables_from_event_sources_directly.md",
+      "status": "saved",
+      "title": "RxJS | Create Observables from event sources directly"
+    },
+    "https://medium.com/p/2b87c345a923": {
+      "file": "I_Thought_I_Knew_Python_\u2014_Then_These_7_Python_Features_Humbled_Me.md",
+      "status": "saved",
+      "title": "I Thought I Knew Python \u2014 Then These 7 Python Features Humbled Me"
+    },
+    "https://medium.com/p/2c208d774983": {
+      "file": "Curry_and_Function_Composition.md",
+      "status": "saved",
+      "title": "Curry and Function Composition"
+    },
+    "https://medium.com/p/2c48b8722f66": {
+      "file": "Building_Production-Grade_Autonomous_Agents_in_less_than_10_Lines_of_Code.md",
+      "status": "saved",
+      "title": "Building Production-Grade Autonomous Agents in less than 10 Lines of Code"
+    },
+    "https://medium.com/p/2cdc95e9b422": {
+      "file": "Enhancing_JavaScript_Objects_with_Descriptors_and_Symbols.md",
+      "status": "saved",
+      "title": "Enhancing JavaScript Objects with Descriptors and Symbols"
+    },
+    "https://medium.com/p/2d0a2cc5986e": {
+      "file": "6_SQL_Queries_Every_Data_Engineer_Should_Be_Aware_of.md",
+      "status": "saved",
+      "title": "6 SQL Queries Every Data Engineer Should Be Aware of"
+    },
+    "https://medium.com/p/2d6c107cc902": {
+      "file": "How_Anthropic\u2019s_Courses_Transformed_My_Claude_Code_Workflow_\u2014_And_Cut_My_Token_Costs_by_10x.md",
+      "status": "saved",
+      "title": "How Anthropic\u2019s Courses Transformed My Claude Code Workflow \u2014 And Cut My Token Costs by 10x"
+    },
+    "https://medium.com/p/2d6db18f557a": {
+      "file": "Creating_Micro-frontends_using_Web_Components_(with_support_for_Angular_and_React).md",
+      "status": "saved",
+      "title": "Creating Micro-frontends using Web Components (with support for Angular and React)"
+    },
+    "https://medium.com/p/2e53dc717e8c": {
+      "file": "Concurrency_Conundrum_in_Booking_Systems.md",
+      "status": "saved",
+      "title": "Concurrency Conundrum in Booking Systems"
+    },
+    "https://medium.com/p/2e795651e07c": {
+      "file": "How_To_Hydrate_A_Server-Side_Rendered_Web_Component.md",
+      "status": "saved",
+      "title": "How To Hydrate A Server-Side Rendered Web Component"
+    },
+    "https://medium.com/p/2f93983d3354": {
+      "file": "97%_of_Angular_Developers_Do_Not_Know_How_to_Cancel_HTTP_Requests_Properly_(Fix_It_in_5_Minutes).md",
+      "status": "saved",
+      "title": "97% of Angular Developers Do Not Know How to Cancel HTTP Requests Properly (Fix It in 5 Minutes)"
+    },
+    "https://medium.com/p/2ffe3aab579": {
+      "file": "How_I_Made_a_Profit_Mining_Ethereum_on_AWS.md",
+      "status": "saved",
+      "title": "How I Made a Profit Mining Ethereum on AWS"
+    },
+    "https://medium.com/p/30e25becdaa2": {
+      "file": "Ollama_Pydantic_Project_Integrating_MCP_Server_with_a_Local_LLM_Chatbot.md",
+      "status": "saved",
+      "title": "Ollama Pydantic Project: Integrating MCP Server with a Local LLM Chatbot"
+    },
+    "https://medium.com/p/3139ab2986b4": {
+      "file": "Next.js_Server_Actions_The_Future_of_Fullstack.md",
+      "status": "saved",
+      "title": "Next.js Server Actions: The Future of Fullstack"
+    },
+    "https://medium.com/p/3184e9481f0a": {
+      "file": "Inside_the_Mind_of_a_Polymarket_BOT.md",
+      "status": "saved",
+      "title": "Inside the Mind of a Polymarket BOT"
+    },
+    "https://medium.com/p/319dd72e8e2c": {
+      "file": "Execution_context,_Scope_chain_and_JavaScript_internals.md",
+      "status": "saved",
+      "title": "Execution context, Scope chain and JavaScript internals"
+    },
+    "https://medium.com/p/328fda24244f": {
+      "file": "I_Replaced_Axios_With_25_Lines_of_Vanilla_JS_(And_You_Should_Too).md",
+      "status": "saved",
+      "title": "I Replaced Axios With 25 Lines of Vanilla JS (And You Should Too)"
+    },
+    "https://medium.com/p/336ec364b5da": {
+      "file": "Build_a_realtime_voting_app_in_less_than_10_min.md",
+      "status": "saved",
+      "title": "Build a realtime voting app in less than 10 min"
+    },
+    "https://medium.com/p/33819c35de43": {
+      "file": "9_Commands_I_Run_in_the_First_3_Minutes_of_Every_Production_Incident.md",
+      "status": "saved",
+      "title": "9 Commands I Run in the First 3 Minutes of Every Production Incident"
+    },
+    "https://medium.com/p/339428a1815b": {
+      "file": "Understanding_rxjs_Subjects.md",
+      "status": "saved",
+      "title": "Understanding rxjs Subjects"
+    },
+    "https://medium.com/p/34576682c68e": {
+      "file": "State_Management_in_2026_What_Comes_After_Redux.md",
+      "status": "saved",
+      "title": "State Management in 2026: What Comes After Redux"
+    },
+    "https://medium.com/p/3597df110b12": {
+      "file": "If_You_Can\u2019t_Explain_These_System_Design_Fundamentals,_You\u2019re_Not_Ready_for_Senior_Interviews.md",
+      "status": "saved",
+      "title": "If You Can\u2019t Explain These System Design Fundamentals, You\u2019re Not Ready for Senior Interviews"
+    },
+    "https://medium.com/p/3602fc77c7c3": {
+      "file": "Building_a_Real-Time_AI_Agent_with_LangChain,_LangGraph,_and_Open_Source_LLMs_using_Ollama.md",
+      "status": "saved",
+      "title": "Building a Real-Time AI Agent with LangChain, LangGraph, and Open Source LLMs using Ollama"
+    },
+    "https://medium.com/p/36c021f850f7": {
+      "file": "Understand_JavaScript\u2019s_Event_Loop.md",
+      "status": "saved",
+      "title": "Understand JavaScript\u2019s Event Loop"
+    },
+    "https://medium.com/p/36c49fcc1dcd": {
+      "file": "A_Guide_to_inject_variable_into_your_code_using_webpack.md",
+      "status": "saved",
+      "title": "A Guide to inject variable into your code using webpack"
+    },
+    "https://medium.com/p/36ce63a3f3e5": {
+      "file": "If_you_think_`ngDoCheck`_means_your_component_is_being_checked_\u2014_read_this_article.md",
+      "status": "saved",
+      "title": "If you think `ngDoCheck` means your component is being checked \u2014 read this article"
+    },
+    "https://medium.com/p/374521f1e1ab": {
+      "file": "Level_Up_Your_Claude_Code_with_This_CLAUDE.md.md",
+      "status": "saved",
+      "title": "Level Up Your Claude Code with This CLAUDE.md"
+    },
+    "https://medium.com/p/376367956315": {
+      "file": "How_I_Passed_AI_Practitioner_in_5_days.md",
+      "status": "saved",
+      "title": "How I  Passed AI Practitioner in 5 days"
+    },
+    "https://medium.com/p/38d8874be673": {
+      "file": "I_Copy_These_10_Code_Snippets_Into_Every_Single_Project.md",
+      "status": "saved",
+      "title": "I Copy These 10 Code Snippets Into Every Single Project"
+    },
+    "https://medium.com/p/397a57cf9fc6": {
+      "file": "Enable_Brotli_Compression_in_Webpack_with_Fallback_to_Gzip.md",
+      "status": "saved",
+      "title": "Enable Brotli Compression in Webpack with Fallback to Gzip"
+    },
+    "https://medium.com/p/39f545ad33b8": {
+      "file": "How_to_deploy_application_on_Kubernetes_with_Helm.md",
+      "status": "saved",
+      "title": "How to deploy application on Kubernetes with Helm"
+    },
+    "https://medium.com/p/3a030a3ea8e4": {
+      "status": "removed",
+      "title": "3A030A3Ea8E4"
+    },
+    "https://medium.com/p/3a94092b7080": {
+      "file": "Building_a_Simple_Carousel_Component_with_Angular.md",
+      "status": "saved",
+      "title": "Building a Simple Carousel Component with Angular"
+    },
+    "https://medium.com/p/3b17a580831c": {
+      "file": "Web_Components_will_replace_your_frontend_framework.md",
+      "status": "saved",
+      "title": "Web Components will replace your frontend framework"
+    },
+    "https://medium.com/p/3b6673d21862": {
+      "file": "Unclosuring_closures_and_introducing_Dependency_Injection_in_JavaScript.md",
+      "status": "saved",
+      "title": "Unclosuring closures and introducing Dependency Injection in JavaScript"
+    },
+    "https://medium.com/p/3b7b3e5f4e7": {
+      "file": "Modern_Approach_of_JavaScript_Bundling_With_Webpack.md",
+      "status": "saved",
+      "title": "Modern Approach of JavaScript Bundling With Webpack"
+    },
+    "https://medium.com/p/3c51fb238064": {
+      "file": "Mapping_content_types_to_React_components_How_to_create_a_modern_React_application_Part_2..md",
+      "status": "saved",
+      "title": "Mapping content types to React components: How to create a modern React application? Part 2."
+    },
+    "https://medium.com/p/3c6c131f55d6": {
+      "file": "Progressive_Web_Applications_What_They_Are,_Why_They\u2019re_Hot_Right_Now,_and_How_to_Build_One.md",
+      "status": "saved",
+      "title": "Progressive Web Applications: What They Are, Why They\u2019re Hot Right Now, and How to Build One"
+    },
+    "https://medium.com/p/3c73f7cd10e8": {
+      "file": "The_Power_of_the_Module_Pattern_in_JavaScript.md",
+      "status": "saved",
+      "title": "The Power of the Module Pattern in JavaScript"
+    },
+    "https://medium.com/p/3ce481fe23fc": {
+      "file": "Get_started_for_FREE_with_automatic_algorithmic_trading_(if_you_know_python!).md",
+      "status": "saved",
+      "title": "Get started for FREE with automatic algorithmic trading (if you know python!)"
+    },
+    "https://medium.com/p/3d22445bfbc0": {
+      "file": "5_Vanilla_JS_Patterns_That_Replace_Entire_Libraries.md",
+      "status": "saved",
+      "title": "5 Vanilla JS Patterns That Replace Entire Libraries"
+    },
+    "https://medium.com/p/3d933675bf76": {
+      "status": "removed",
+      "title": "3D933675Bf76"
+    },
+    "https://medium.com/p/3fabcec72a1f": {
+      "file": "CSS_Is_Finally_Getting_IfElse_Statements!.md",
+      "status": "saved",
+      "title": "CSS Is Finally Getting If/Else Statements!"
+    },
+    "https://medium.com/p/400094a0ebb7": {
+      "file": "When_to_use_Angular\u2019s_forRoot()_method.md",
+      "status": "saved",
+      "title": "When to use Angular\u2019s forRoot() method"
+    },
+    "https://medium.com/p/4003d7bbed32": {
+      "file": "JavaScript_Symbols,_Iterators,_Generators,_AsyncAwait,_and_Async_Iterators_\u2014_All_Explained_Simply.md",
+      "status": "saved",
+      "title": "JavaScript Symbols, Iterators, Generators, Async/Await, and Async Iterators \u2014 All Explained Simply"
+    },
+    "https://medium.com/p/4080ef23efac": {
+      "file": "I_Stopped_Vibe_Coding_and_Started_\u201cPrompt_Contracts\u201d_\u2014_Claude_Code_Went_From_Gambling_to_Shipping.md",
+      "status": "saved",
+      "title": "I Stopped Vibe Coding and Started \u201cPrompt Contracts\u201d \u2014 Claude Code Went From Gambling to Shipping"
+    },
+    "https://medium.com/p/416ee6b571fd": {
+      "status": "removed",
+      "title": "416Ee6B571Fd"
+    },
+    "https://medium.com/p/41f1b0ad5371": {
+      "file": "Netflix_Live_Origin.md",
+      "status": "saved",
+      "title": "Netflix Live Origin"
+    },
+    "https://medium.com/p/42576735949b": {
+      "file": "Do_we_still_need_JavaScript_frameworks.md",
+      "status": "saved",
+      "title": "Do we still need JavaScript frameworks?"
+    },
+    "https://medium.com/p/426dbf0b04a3": {
+      "file": "Understanding,_creating_and_subscribing_to_observables_in_Angular.md",
+      "status": "saved",
+      "title": "Understanding, creating and subscribing to observables in Angular"
+    },
+    "https://medium.com/p/431cc22d0f16": {
+      "file": "Service_workers_the_little_heroes_behind_Progressive_Web_Apps.md",
+      "status": "saved",
+      "title": "Service workers: the little heroes behind Progressive Web Apps"
+    },
+    "https://medium.com/p/434156814dbd": {
+      "file": "Why_You_Should_Avoid_Using_Server_Actions_for_Data_Fetching_in_Next.js_15.md",
+      "status": "saved",
+      "title": "Why You Should Avoid Using Server Actions for Data Fetching in Next.js 15"
+    },
+    "https://medium.com/p/4461159b1fba": {
+      "file": "The_Biggest_Mistake_I_See_in_React_Native_Projects_(and_How_to_Avoid_It).md",
+      "status": "saved",
+      "title": "The Biggest Mistake I See in React Native Projects (and How to Avoid It)"
+    },
+    "https://medium.com/p/44fe7164964c": {
+      "file": "Step_by_step_Building_and_publishing_an_NPM_Typescript_package..md",
+      "status": "saved",
+      "title": "Step by step: Building and publishing an NPM Typescript package."
+    },
+    "https://medium.com/p/451f86593003": {
+      "file": "Create_a_Typed_Version_of_SimpleChanges_in_Angular.md",
+      "status": "saved",
+      "title": "Create a Typed Version of SimpleChanges in Angular"
+    },
+    "https://medium.com/p/4640aaf4646c": {
+      "file": "Using_RxJS_to_handle_HTTP_requests.md",
+      "status": "saved",
+      "title": "Using RxJS to handle HTTP requests"
+    },
+    "https://medium.com/p/464b85496746": {
+      "file": "Why_80%_of_Angular_Apps_Fail_Google\u2019s_New_INP_Metric_(And_the_Zoneless_Fix).md",
+      "status": "saved",
+      "title": "Why 80% of Angular Apps Fail Google\u2019s New INP Metric (And the Zoneless Fix)"
+    },
+    "https://medium.com/p/4776d4ac8956": {
+      "file": "10_Tip_to_Stop_Burning_Your_Tokens_in_Claude_Code.md",
+      "status": "saved",
+      "title": "10 Tip to Stop Burning Your Tokens in Claude Code"
+    },
+    "https://medium.com/p/479529545721": {
+      "file": "Implementing_MVVM_in_React_A_Real-World_Guide.md",
+      "status": "saved",
+      "title": "Implementing MVVM in React: A Real-World Guide"
+    },
+    "https://medium.com/p/4820cf5538f9": {
+      "file": "Tagged_Template_Literal_for_HTML_Templates.md",
+      "status": "saved",
+      "title": "Tagged Template Literal for HTML Templates"
+    },
+    "https://medium.com/p/4877b3a8391a": {
+      "file": "AEM_Sitemap_Creation.md",
+      "status": "saved",
+      "title": "AEM Sitemap Creation"
+    },
+    "https://medium.com/p/48ad908cf457": {
+      "file": "State_Management_Without_Boilerplate_The_\u201cSignal_Store\u201d_Approach.md",
+      "status": "saved",
+      "title": "State Management Without Boilerplate: The \u201cSignal Store\u201d Approach"
+    },
+    "https://medium.com/p/49d4d1fbf787": {
+      "file": "Excel_JavaScript_API.md",
+      "status": "saved",
+      "title": "Excel JavaScript API"
+    },
+    "https://medium.com/p/4a16e29649b0": {
+      "file": "Using_Python_and_Robinhood_to_Build_An_Iron_Condor_Options_Trading_Bot.md",
+      "status": "saved",
+      "title": "Using Python and Robinhood to Build An Iron Condor Options Trading Bot"
+    },
+    "https://medium.com/p/4a1ebe5d9f29": {
+      "file": "Using_spec-driven_development_with_Claude_Code.md",
+      "status": "saved",
+      "title": "Using spec-driven development with Claude Code"
+    },
+    "https://medium.com/p/4afd1d17d40b": {
+      "file": "Creating_a_\u201cRead_More\u201d_component_in_React.md",
+      "status": "saved",
+      "title": "Creating a \u201cRead More\u201d component in React"
+    },
+    "https://medium.com/p/4b14b1b2faff": {
+      "file": "How_I_converted_my_React_app_to_VanillaJS_(and_whether_or_not_it_was_a_terrible_idea).md",
+      "status": "saved",
+      "title": "How I converted my React app to VanillaJS (and whether or not it was a terrible idea)"
+    },
+    "https://medium.com/p/4b5cfb8845bf": {
+      "file": "How_to_Choose_a_Database_for_your_Project_in_2026.md",
+      "status": "saved",
+      "title": "How to Choose a Database for your Project in 2026?"
+    },
+    "https://medium.com/p/4b6e4ad1cd7f": {
+      "file": "Building_LightOS_with_React_Native.md",
+      "status": "saved",
+      "title": "Building LightOS with React Native"
+    },
+    "https://medium.com/p/4bc7b3eab569": {
+      "file": "Debugging_Memory_Leaks_in_Angular.md",
+      "status": "saved",
+      "title": "Debugging Memory Leaks in Angular"
+    },
+    "https://medium.com/p/4cb19ffd920a": {
+      "file": "5_Tiny_Python_Scripts_That_Got_More_Attention_Than_My_Resume.md",
+      "status": "saved",
+      "title": "5 Tiny Python Scripts That Got More Attention Than My Resume"
+    },
+    "https://medium.com/p/4cf054836308": {
+      "file": "Model_Context_Protocol_(MCP)_10_Must-Try_MCP_Servers_for_Developers.md",
+      "status": "saved",
+      "title": "Model Context Protocol (MCP): 10 Must-Try MCP Servers for Developers"
+    },
+    "https://medium.com/p/4d8c1b0cfe7d": {
+      "file": "I_Stopped_Fighting_useEffect_Dependency_Arrays_(Here\u2019s_What_I_Use_Instead).md",
+      "status": "saved",
+      "title": "I Stopped Fighting useEffect Dependency Arrays (Here\u2019s What I Use Instead)"
+    },
+    "https://medium.com/p/4e11ceb58b73": {
+      "file": "How_a_React_Request_Turned_Into_Full_Server_Shell_Root_Access_(React\u2011to\u2011Shell)_Understanding_using\u2026.md",
+      "status": "saved",
+      "title": "How a React Request Turned Into Full Server Shell Root Access (React\u2011to\u2011Shell) Understanding using\u2026"
+    },
+    "https://medium.com/p/4e5e6310e359": {
+      "file": "Rebuilding_Netflix_Video_Processing_Pipeline_with_Microservices.md",
+      "status": "saved",
+      "title": "Rebuilding Netflix Video Processing Pipeline with Microservices"
+    },
+    "https://medium.com/p/4e64d4a5f346": {
+      "file": "Advanced_Kubernetes_Tutorial_Every_DevOps_Engineer_Has_Been_Searching_For_\u2014_Part_2.md",
+      "status": "saved",
+      "title": "4E64D4A5F346"
+    },
+    "https://medium.com/p/4f4e0b908d5e": {
+      "file": "The_Power_of_the_Observer_Pattern_in_JavaScript.md",
+      "status": "saved",
+      "title": "The Power of the Observer Pattern in JavaScript"
+    },
+    "https://medium.com/p/4f76abcd4577": {
+      "file": "Where_Should_You_Store_JSON_Web_Tokens_(JWT).md",
+      "status": "saved",
+      "title": "Where Should You Store JSON Web Tokens (JWT)?"
+    },
+    "https://medium.com/p/4fcf4dd32846": {
+      "file": "Form_validation_with_JavaScript.md",
+      "status": "saved",
+      "title": "Form validation with JavaScript"
+    },
+    "https://medium.com/p/4fe78f68c1ce": {
+      "file": "Load_Balancing_100,000_WebSocket_Connections_HAProxy_vs._Nginx_vs._Custom.md",
+      "status": "saved",
+      "title": "Load Balancing 100,000 WebSocket Connections: HAProxy vs. Nginx vs. Custom"
+    },
+    "https://medium.com/p/509a822dd4fd": {
+      "file": "5_Essential_MCP_Servers_That_Give_Claude_&_Cursor_Real_Superpowers_(2025).md",
+      "status": "saved",
+      "title": "5 Essential MCP Servers That Give Claude & Cursor Real Superpowers (2025)"
+    },
+    "https://medium.com/p/50a504b1b854": {
+      "status": "removed",
+      "title": "The Hook I Use in Every React Project (You\u2019ll Want It Too)"
+    },
+    "https://medium.com/p/50bd4ad7c6e2": {
+      "file": "Building_a_Multi-Timeframe_Trading_Predictor_Inspired_by_Nobel_Prize_Physics_2024.md",
+      "status": "saved",
+      "title": "Building a Multi-Timeframe Trading Predictor Inspired by Nobel Prize Physics 2024"
+    },
+    "https://medium.com/p/50c7d8b6054b": {
+      "file": "10_Proven_Micro_SaaS_Ideas_That_Are_Making_Money.md",
+      "status": "saved",
+      "title": "10 Proven Micro SaaS Ideas That Are Making Money"
+    },
+    "https://medium.com/p/510221e6dea8": {
+      "file": "NestJS_vs_Go_Performance_comparison_for_JWT_verify_and_MySQL_query.md",
+      "status": "saved",
+      "title": "NestJS vs Go: Performance comparison for JWT verify and MySQL query"
+    },
+    "https://medium.com/p/5128af9d573b": {
+      "file": "How_to_use_the_JavaScript_console_going_beyond_console.log().md",
+      "status": "saved",
+      "title": "How to use the JavaScript console: going beyond console.log()"
+    },
+    "https://medium.com/p/52251ae61c2f": {
+      "file": "The_Spacing_System_That_Makes_Every_UI_Look_More_Intentional.md",
+      "status": "saved",
+      "title": "The Spacing System That Makes Every UI Look More Intentional"
+    },
+    "https://medium.com/p/526643380dbc": {
+      "status": "removed",
+      "title": "Building a Custom Image Optimization Pipeline in Next.js for Large Media Apps"
+    },
+    "https://medium.com/p/529ee28f9055": {
+      "file": "Token,_Session,_Cookie,_JWT,_OAuth2_\u2014_I_can\u2019t_tell_the_difference!.md",
+      "status": "saved",
+      "title": "Token, Session, Cookie, JWT, OAuth2\u200a\u2014\u200aI can\u2019t tell the difference!"
+    },
+    "https://medium.com/p/53659f4be5c1": {
+      "status": "removed",
+      "title": "53659F4Be5C1"
+    },
+    "https://medium.com/p/53937ea1636": {
+      "file": "What_You_Didn\u2019t_Know_About_KaiOS_Browser.md",
+      "status": "saved",
+      "title": "What You Didn\u2019t Know About KaiOS Browser"
+    },
+    "https://medium.com/p/54460d9f3683": {
+      "file": "How_to_Eliminate_Prop_Drilling_Completely_The_2025_State_Architecture_Guide_for_React_Developers.md",
+      "status": "saved",
+      "title": "How to Eliminate Prop Drilling Completely: The 2025 State Architecture Guide for React Developers"
+    },
+    "https://medium.com/p/5482618cd6c6": {
+      "file": "Simulating_Events_in_Angular_Unit_Tests.md",
+      "status": "saved",
+      "title": "Simulating Events in Angular Unit Tests"
+    },
+    "https://medium.com/p/54b954427e47": {
+      "file": "Error_Handling_in_JavaScript_a_Quick_Guide.md",
+      "status": "saved",
+      "title": "Error Handling in JavaScript: a Quick Guide"
+    },
+    "https://medium.com/p/55b70338215e": {
+      "file": "A_minimal_guide_to_JavaScript_(ECMAScript)_Decorators_and_Property_Descriptor_of_the_Object.md",
+      "status": "saved",
+      "title": "A minimal guide to JavaScript (ECMAScript) Decorators and Property Descriptor of the Object"
+    },
+    "https://medium.com/p/56373a1a6bfb": {
+      "file": "JavaScript_Essentials_Objects.md",
+      "status": "saved",
+      "title": "JavaScript Essentials: Objects"
+    },
+    "https://medium.com/p/56a77ee83d16": {
+      "file": "Two-Pointer_Technique_Solving_Array_Problems_at_Light_Speed.md",
+      "status": "saved",
+      "title": "Two-Pointer Technique: Solving Array Problems at Light Speed"
+    },
+    "https://medium.com/p/56d241850225": {
+      "file": "Why_I_Tell_Clients_NOT_to_Use_PostgreSQL_(And_When_MySQL,_MongoDB,_and_\u201cModern\u201d_Databases_Are\u2026.md",
+      "status": "saved",
+      "title": "Why I Tell Clients NOT to Use PostgreSQL (And When MySQL, MongoDB, and \u201cModern\u201d Databases Are\u2026"
+    },
+    "https://medium.com/p/5715830f0c7e": {
+      "file": "Top_30_Most_Complicated_Interview_Questions_on_React.md",
+      "status": "saved",
+      "title": "Top 30 Most Complicated Interview Questions on React"
+    },
+    "https://medium.com/p/573d89bbb890": {
+      "file": "10_Things_Every_Angular_Developer_Should_Know_About_Zone.js.md",
+      "status": "saved",
+      "title": "10 Things Every Angular Developer Should Know About Zone.js"
+    },
+    "https://medium.com/p/57b03acb6bb9": {
+      "file": "Catching_memory_leaks_with_Chrome_DevTools.md",
+      "status": "saved",
+      "title": "Catching memory leaks with Chrome DevTools"
+    },
+    "https://medium.com/p/57bdf06af328": {
+      "file": "15_Best_PWA_Tutorials_for_Beginners_[2026]_\u2014_Learn_PWA_Online.md",
+      "status": "saved",
+      "title": "15 Best PWA Tutorials for Beginners [2026] \u2014 Learn PWA Online"
+    },
+    "https://medium.com/p/58fef061b075": {
+      "file": "Build_yourself_a_simple_CRM_from_scratch_in_PHP_and_MySQL.md",
+      "status": "saved",
+      "title": "Build yourself a simple CRM from scratch in PHP and MySQL"
+    },
+    "https://medium.com/p/5936903b5ac0": {
+      "file": "I_Replaced_React_Context_With_30_Lines_of_Vanilla_JS_(And_Avoided_Re-Render_Hell).md",
+      "status": "saved",
+      "title": "I Replaced React Context With 30 Lines of Vanilla JS (And Avoided Re-Render Hell)"
+    },
+    "https://medium.com/p/59906a55f7f0": {
+      "status": "removed",
+      "title": "59906A55F7F0"
+    },
+    "https://medium.com/p/5a05d2076caf": {
+      "file": "Using_Tailwind_CSS_in_a_Turborepo_with_apps_and_packages.md",
+      "status": "saved",
+      "title": "Using Tailwind CSS in a Turborepo with apps and packages"
+    },
+    "https://medium.com/p/5a0fe7f69628": {
+      "status": "removed",
+      "title": "5A0Fe7F69628"
+    },
+    "https://medium.com/p/5a59b723127d": {
+      "file": "System_Design_Interview_How_Would_You_Send_1_Million_Notifications_Without_Overwhelming_Your\u2026.md",
+      "status": "saved",
+      "title": "System Design Interview: How Would You Send 1 Million Notifications Without Overwhelming Your\u2026"
+    },
+    "https://medium.com/p/5bbaa2c3716f": {
+      "file": "15_Python_Nano-Scripts_That_Automate_Actual_Business_Problems_(3-Lines_or_Less).md",
+      "status": "saved",
+      "title": "15 Python Nano-Scripts That Automate Actual Business Problems (3-Lines or Less)"
+    },
+    "https://medium.com/p/5c01e96ad479": {
+      "file": "Markov_Chains_nuclear_algorithm_used_by_Quants_to_crush_87%_of_Polymarket_traders.md",
+      "status": "saved",
+      "title": "Markov Chains: nuclear algorithm used by Quants to crush 87% of Polymarket traders"
+    },
+    "https://medium.com/p/5c523448b2b0": {
+      "file": "Top_UIUX_Design_Works_for_Inspiration_\u2014_#104.md",
+      "status": "saved",
+      "title": "Top UI/UX Design Works for Inspiration\u200a\u2014\u200a#104"
+    },
+    "https://medium.com/p/5e4809d9ef36": {
+      "file": "TradingView_JS_API_Integration_Tutorial_Introduction.md",
+      "status": "saved",
+      "title": "TradingView JS API Integration Tutorial: Introduction"
+    },
+    "https://medium.com/p/5e78513b5447": {
+      "file": "Why_I_Stopped_Using_CSS_Box-Shadow_\u2014_It_Slows_Your_Page_by_Up_to_70%.md",
+      "status": "saved",
+      "title": "Why I Stopped Using CSS Box-Shadow\u200a\u2014\u200aIt Slows Your Page by Up to 70%"
+    },
+    "https://medium.com/p/5f0f9344a7f6": {
+      "file": "4_String_Patterns_That_Solve_400+_Problems_(With_JavaScript_Examples).md",
+      "status": "saved",
+      "title": "4 String Patterns That Solve 400+ Problems (With JavaScript Examples)"
+    },
+    "https://medium.com/p/60355bff8a97": {
+      "file": "Session_Authentication_with_Lambda_and_DynamoDB.md",
+      "status": "saved",
+      "title": "Session Authentication with Lambda and DynamoDB"
+    },
+    "https://medium.com/p/60a3be805e59": {
+      "file": "Introducing_NG-VDOM_A_new_way_to_write_Angular_application.md",
+      "status": "saved",
+      "title": "Introducing NG-VDOM: A new way to write Angular application"
+    },
+    "https://medium.com/p/60b4ff19b008": {
+      "file": "Simplified_Inheritance_in_JS_(ES5_way).md",
+      "status": "saved",
+      "title": "Simplified Inheritance in JS (ES5 way)"
+    },
+    "https://medium.com/p/618d81154cb6": {
+      "file": "Things_only_senior_React_engineers_know.md",
+      "status": "saved",
+      "title": "Things only senior React engineers know"
+    },
+    "https://medium.com/p/61a0c0d6d846": {
+      "file": "MCP_Introduction_for_Dummies_Part_01.md",
+      "status": "saved",
+      "title": "MCP Introduction for Dummies Part 01"
+    },
+    "https://medium.com/p/61a10e741edb": {
+      "file": "Improve_React_Performance.md",
+      "status": "saved",
+      "title": "Improve React Performance"
+    },
+    "https://medium.com/p/61c62167f66f": {
+      "file": "Docker,_Jenkins,_Prometheus,_locally!_Here\u2019s_the_stack_that_finally_worked_for_me.md",
+      "status": "saved",
+      "title": "Docker, Jenkins, Prometheus, locally?! Here\u2019s the stack that finally worked for me"
+    },
+    "https://medium.com/p/6212add27122": {
+      "status": "removed",
+      "title": "Building a Nest.js API That Can Handle Millions of Requests Without Crashing"
+    },
+    "https://medium.com/p/62b5c188e965": {
+      "status": "removed",
+      "title": "62B5C188E965"
+    },
+    "https://medium.com/p/635f8c9280b1": {
+      "file": "An_alternative_way_of_writing_Single_Page_Applications_(SPA).md",
+      "status": "saved",
+      "title": "An alternative way of writing Single Page Applications (SPA)"
+    },
+    "https://medium.com/p/63c39418ae35": {
+      "file": "No_More_Confusion_About_TypeScript\u2019s_Type_and_Interface.md",
+      "status": "saved",
+      "title": "No More Confusion About TypeScript\u2019s Type and Interface"
+    },
+    "https://medium.com/p/64e412f4062b": {
+      "file": "Nginx_vs_Caddy_vs_Traefik_in_2026_\u2014_I_Ran_All_Three_Under_Real_Production_Load.md",
+      "status": "saved",
+      "title": "Nginx vs Caddy vs Traefik in 2026 \u2014 I Ran All Three Under Real Production Load"
+    },
+    "https://medium.com/p/650ca8508625": {
+      "status": "removed",
+      "title": "650Ca8508625"
+    },
+    "https://medium.com/p/65f9eb57f66a": {
+      "file": "Enforcing_a_single_web_socket_connection_per_user_with_Node.js,_Socket.IO,_and_Redis.md",
+      "status": "saved",
+      "title": "Enforcing a single web socket connection per user with Node.js, Socket.IO, and Redis"
+    },
+    "https://medium.com/p/6644d44793fd": {
+      "file": "How_to_chain_functions_in_JavaScript.md",
+      "status": "saved",
+      "title": "How to chain functions in JavaScript"
+    },
+    "https://medium.com/p/66656cc0dd8f": {
+      "file": "I_Was_Asked_About_Virtual_DOM_in_a_frontend_interview_\u201cIt\u2019s_Faster\u201d_Wasn\u2019t_the_Answer.md",
+      "status": "saved",
+      "title": "I Was Asked About Virtual DOM in a frontend interview: \u201cIt\u2019s Faster\u201d Wasn\u2019t the Answer"
+    },
+    "https://medium.com/p/666ee7ad47cf": {
+      "file": "The_Inner_Workings_Of_Virtual_DOM.md",
+      "status": "saved",
+      "title": "The Inner Workings Of Virtual DOM"
+    },
+    "https://medium.com/p/66d424fbb1f0": {
+      "file": "Interviewer_Asked_\u201cWhat_Happens_If_Your_Database_Connection_Pool_Is_Full\u201d.md",
+      "status": "saved",
+      "title": "Interviewer Asked: \u201cWhat Happens If Your Database Connection Pool Is Full?\u201d"
+    },
+    "https://medium.com/p/682ac09f6866": {
+      "file": "Working_with_DOM_in_Angular_unexpected_consequences_and_optimization_techniques.md",
+      "status": "saved",
+      "title": "Working with DOM in Angular: unexpected consequences and optimization techniques"
+    },
+    "https://medium.com/p/687e1fd79f61": {
+      "file": "Building_an_Advanced_Agentic_RAG_Pipeline_that_Mimics_a_Human_Thought_Process.md",
+      "status": "saved",
+      "title": "Building an Advanced Agentic RAG Pipeline that Mimics a Human Thought Process"
+    },
+    "https://medium.com/p/68e07623ffa7": {
+      "file": "Why_NASA_Developers_Write_Code_Completely_Differently_(And_Why_You_Should_Too).md",
+      "status": "saved",
+      "title": "Why NASA Developers Write Code Completely Differently (And Why You Should Too)"
+    },
+    "https://medium.com/p/690c7b19a387": {
+      "file": "If_You_Can_Answer_These_10_React_Questions_You_are_Above_Average.md",
+      "status": "saved",
+      "title": "If You Can Answer These 10 React Questions: You are Above Average"
+    },
+    "https://medium.com/p/69134162c8b2": {
+      "file": "RxJS_in_the_Wild_How_to_Create_Pop-up_Alerts.md",
+      "status": "saved",
+      "title": "RxJS in the Wild: How to Create Pop-up Alerts"
+    },
+    "https://medium.com/p/69ce290ac95e": {
+      "file": "How_the_NEW_CSS_Anchor_API_solved_one_of_the_HARDEST_web_development_problems.md",
+      "status": "saved",
+      "title": "How the NEW CSS Anchor API solved one of the HARDEST web development problems"
+    },
+    "https://medium.com/p/6a507dcc901c": {
+      "file": "WHO_IS_MAHAVTAR_BABAJI.md",
+      "status": "saved",
+      "title": "WHO IS MAHAVTAR BABAJI"
+    },
+    "https://medium.com/p/6a83bfcd1dbc": {
+      "file": "Implementing_Micro_Frontends_with_Next.js_A_Real-World_Experience.md",
+      "status": "saved",
+      "title": "Implementing Micro Frontends with Next.js: A Real-World Experience"
+    },
+    "https://medium.com/p/6a8b671fca1a": {
+      "status": "removed",
+      "title": "6A8B671Fca1A"
+    },
+    "https://medium.com/p/6b31abf05614": {
+      "file": "Run_Azure_Locally_for_Free_with_Floci_Blob_Storage,_Queue_Storage,_Table_Storage_&_AKS.md",
+      "status": "saved",
+      "title": "Run Azure Locally for Free with Floci: Blob Storage, Queue Storage, Table Storage & AKS"
+    },
+    "https://medium.com/p/6b67b5a2d28d": {
+      "file": "Internationalization_with_Next.js_15_and_react-intl.md",
+      "status": "saved",
+      "title": "Internationalization with Next.js 15 and react-intl"
+    },
+    "https://medium.com/p/6b87965ff32b": {
+      "file": "12_React_19_Data-Fetching_Patterns_That_Feel_Instant.md",
+      "status": "saved",
+      "title": "12 React 19 Data-Fetching Patterns That Feel Instant"
+    },
+    "https://medium.com/p/6cc490a03128": {
+      "file": "A_definitive_guide_to_learning_Python_for_Algorithmic_Trading.md",
+      "status": "saved",
+      "title": "A definitive guide to learning Python for Algorithmic Trading"
+    },
+    "https://medium.com/p/6db105590377": {
+      "file": "Check_out_these_useful_ECMAScript_2015_(ES6)_tips_and_tricks.md",
+      "status": "saved",
+      "title": "Check out these useful ECMAScript 2015 (ES6) tips and tricks"
+    },
+    "https://medium.com/p/6e767dcb0068": {
+      "file": "Claude_Code_Skills_The_Complete_Guide_(That_Most_Developers_Still_Don\u2019t_Understand).md",
+      "status": "saved",
+      "title": "Claude Code Skills: The Complete Guide (That Most Developers Still Don\u2019t Understand)"
+    },
+    "https://medium.com/p/6ef23116901": {
+      "status": "removed",
+      "title": "6Ef23116901"
+    },
+    "https://medium.com/p/6f0532202ee8": {
+      "file": "Kubernetes_is_Officially_Doomed_(And_Linus_Torvalds_Warned_Us).md",
+      "status": "saved",
+      "title": "Kubernetes is Officially Doomed (And Linus Torvalds Warned Us)"
+    },
+    "https://medium.com/p/6f3486a8c763": {
+      "file": "I_Tested_3_Font_Loading_Methods._Only_One_Won..md",
+      "status": "saved",
+      "title": "I Tested 3 Font Loading Methods. Only One Won."
+    },
+    "https://medium.com/p/6f47aa27e891": {
+      "file": "Rethinking_Dependency_Injection_in_TypeScript.md",
+      "status": "saved",
+      "title": "Rethinking Dependency Injection in TypeScript"
+    },
+    "https://medium.com/p/6fda03b7fa2c": {
+      "status": "removed",
+      "title": "6Fda03B7Fa2C"
+    },
+    "https://medium.com/p/70079bc72ae4": {
+      "file": "\ud83d\ude80_Inserting_10_Million_Records_into_a_Database_Stop_Using_for_Loops!.md",
+      "status": "saved",
+      "title": "\ud83d\ude80 Inserting 10 Million Records into a Database? Stop Using for Loops!"
+    },
+    "https://medium.com/p/7092c8a0ae7a": {
+      "file": "Implement_a_Dependency_Injection_Container_in_TypeScript_from_Scratch.md",
+      "status": "saved",
+      "title": "Implement a Dependency Injection Container in TypeScript from Scratch"
+    },
+    "https://medium.com/p/70c975d1d91b": {
+      "file": "The_Placement_of_Script_Tags_in_HTML_Choosing_Between_Top_and_Bottom.md",
+      "status": "saved",
+      "title": "The Placement of Script Tags in HTML: Choosing Between Top and Bottom"
+    },
+    "https://medium.com/p/70d598e1a3ec": {
+      "file": "Porting_Games_to_the_Web_with_WebAssembly.md",
+      "status": "saved",
+      "title": "Porting Games to the Web with WebAssembly"
+    },
+    "https://medium.com/p/70e0e343cd03": {
+      "status": "removed",
+      "title": "70E0E343Cd03"
+    },
+    "https://medium.com/p/710c48dac411": {
+      "status": "removed",
+      "title": "Integrating GraphQL and REST APIs in a Single NestJS Application"
+    },
+    "https://medium.com/p/72a12cd68d44": {
+      "file": "Why_every_beginner_front-end_developer_should_know_publish-subscribe_pattern.md",
+      "status": "saved",
+      "title": "Why every beginner front-end developer should know publish-subscribe pattern?"
+    },
+    "https://medium.com/p/72f99bc6e855": {
+      "file": "Start_a_local,_live-reload_web_server_with_one_command.md",
+      "status": "saved",
+      "title": "Start a local, live-reload web server with one command"
+    },
+    "https://medium.com/p/731d60d44b38": {
+      "file": "React_19_Goodbye_to_Old_Features,_Hello_to_the_Future.md",
+      "status": "saved",
+      "title": "React 19: Goodbye to Old Features, Hello to the Future"
+    },
+    "https://medium.com/p/7354438c0882": {
+      "file": "Microsoft_Excel_Basic_PowerQuery_\u2014_Stock_Price_Data_From_Google_Sheets.md",
+      "status": "saved",
+      "title": "Microsoft Excel: Basic PowerQuery\u200a\u2014\u200aStock Price Data From Google Sheets"
+    },
+    "https://medium.com/p/73d16bb3d7a9": {
+      "file": "Currying,_Partial_Application,_and_Infinite_Application.md",
+      "status": "saved",
+      "title": "Currying, Partial Application, and Infinite Application"
+    },
+    "https://medium.com/p/746d7e08f2a5": {
+      "file": "Implementing_Layout_Structure_in_NextJs_the_right_way.md",
+      "status": "saved",
+      "title": "Implementing Layout Structure   in NextJs the right way"
+    },
+    "https://medium.com/p/74cd408419ff": {
+      "file": "Understanding_Asynchronous_JavaScript.md",
+      "status": "saved",
+      "title": "Understanding Asynchronous JavaScript"
+    },
+    "https://medium.com/p/74f3ac166d61": {
+      "file": "Performing_multiple_HTTP_requests_in_Angular_with_forkJoin.md",
+      "status": "saved",
+      "title": "Performing multiple HTTP requests in Angular with forkJoin"
+    },
+    "https://medium.com/p/75461803bad": {
+      "file": "Understanding_Higher-Order_Functions_in_JavaScript.md",
+      "status": "saved",
+      "title": "Understanding Higher-Order Functions in JavaScript"
+    },
+    "https://medium.com/p/754794aa5c1f": {
+      "status": "removed",
+      "title": "754794Aa5C1F"
+    },
+    "https://medium.com/p/757cae3fef83": {
+      "status": "removed",
+      "title": "757Cae3Fef83"
+    },
+    "https://medium.com/p/7585d6916819": {
+      "file": "Writing_TypeScript_custom_AST_Transformer_(Part_1).md",
+      "status": "saved",
+      "title": "Writing  TypeScript custom AST Transformer (Part 1)"
+    },
+    "https://medium.com/p/75a183e3cb8e": {
+      "file": "No_More_Libraries_These_10_Existing_Browser_APIs_Already_Solve_Your_Problems.md",
+      "status": "saved",
+      "title": "No More Libraries: These 10 Existing Browser APIs Already Solve Your Problems"
+    },
+    "https://medium.com/p/7629fb87dd4a": {
+      "file": "These_React_Fundamentals_You_Skip_may_be_Killing_You.md",
+      "status": "saved",
+      "title": "These React Fundamentals You Skip may be Killing You"
+    },
+    "https://medium.com/p/76fee6ac8697": {
+      "file": "Exploring_Different_Types_of_Micro_Frontends.md",
+      "status": "saved",
+      "title": "Exploring Different Types of Micro Frontends"
+    },
+    "https://medium.com/p/7733c1225422": {
+      "file": "Ambiguous_architectural_patterns.md",
+      "status": "saved",
+      "title": "Ambiguous architectural patterns"
+    },
+    "https://medium.com/p/776006129316": {
+      "file": "9_Repos_Every_Developer_Should_Know.md",
+      "status": "saved",
+      "title": "9 Repos Every Developer Should Know"
+    },
+    "https://medium.com/p/77a2b4142a78": {
+      "file": "Scraping_Google_Maps_to_Measure_Electric_Vehicle_Infrastructure_Real-time_EV_Charger_Data_V1.0.md",
+      "status": "saved",
+      "title": "Scraping Google Maps to Measure Electric Vehicle Infrastructure: Real-time EV Charger Data V1.0"
+    },
+    "https://medium.com/p/77dd4c89968e": {
+      "file": "Dependency_Injection_using_Decorators.md",
+      "status": "saved",
+      "title": "Dependency Injection using Decorators"
+    },
+    "https://medium.com/p/77e759d18d60": {
+      "file": "I_Used_localStorage_Wrong_for_Years.md",
+      "status": "saved",
+      "title": "I Used localStorage Wrong for Years"
+    },
+    "https://medium.com/p/783f7d7a5fcc": {
+      "file": "JavaScript_Modules_A_Beginner\u2019s_Guide.md",
+      "status": "saved",
+      "title": "JavaScript Modules: A Beginner\u2019s Guide"
+    },
+    "https://medium.com/p/78ca02530e63": {
+      "file": "Kafka_vs._RabbitMQ_Choosing_the_Right_Messaging_Broker.md",
+      "status": "saved",
+      "title": "Kafka vs. RabbitMQ: Choosing the Right Messaging Broker"
+    },
+    "https://medium.com/p/7936db8156e0": {
+      "file": "JavaScript_Fundamentals_Mastering_Objects.md",
+      "status": "saved",
+      "title": "JavaScript Fundamentals: Mastering Objects"
+    },
+    "https://medium.com/p/79526c9cfc0e": {
+      "file": "5_Cloud_Architecture_Patterns_You_Should_Know.md",
+      "status": "saved",
+      "title": "5 Cloud Architecture Patterns You Should Know"
+    },
+    "https://medium.com/p/79ca35c0044b": {
+      "file": "Deploy_your_static_web_app_to_a_blockchain_and_make_it_a_Web3.0_app_in_5_minutes.md",
+      "status": "saved",
+      "title": "Deploy your static web app to a blockchain and make it a Web3.0 app in 5 minutes"
+    },
+    "https://medium.com/p/7a82721dc19a": {
+      "file": "Ins_and_Outs_of_Flutter_Web.md",
+      "status": "saved",
+      "title": "Ins and Outs of  Flutter Web"
+    },
+    "https://medium.com/p/7c52b2b7035e": {
+      "file": "Angular_component_testing_with_examples.md",
+      "status": "saved",
+      "title": "Angular component testing with examples"
+    },
+    "https://medium.com/p/7d66cfdfa301": {
+      "file": "Andrej_Karpathy_Just_Built_an_Entire_GPT_in_243_Lines_of_Python.md",
+      "status": "saved",
+      "title": "Andrej Karpathy Just Built an Entire GPT in 243 Lines of Python"
+    },
+    "https://medium.com/p/7d8041f9142c": {
+      "file": "How_One_Small_Python_Script_Ended_Up_Earning_Me_More_Than_a_\u201cBig\u201d_Project.md",
+      "status": "saved",
+      "title": "How One Small Python Script Ended Up Earning Me More Than a \u201cBig\u201d Project"
+    },
+    "https://medium.com/p/7e80c116f8bf": {
+      "file": "A_Yogi\u2019s_Word_on_Kriya.md",
+      "status": "saved",
+      "title": "A Yogi\u2019s Word on Kriya"
+    },
+    "https://medium.com/p/7ebfe59e4f06": {
+      "file": "Build_a_back-end_with_PostgreSQL,_FastAPI,_and_Docker.md",
+      "status": "saved",
+      "title": "Build a back-end with PostgreSQL, FastAPI, and Docker"
+    },
+    "https://medium.com/p/7ecf10ebe705": {
+      "file": "Top_Traders_on_Polymarket.md",
+      "status": "saved",
+      "title": "Top Traders on Polymarket"
+    },
+    "https://medium.com/p/7f23ff27adf": {
+      "file": "A_Simple_React_Router_v4_Tutorial.md",
+      "status": "saved",
+      "title": "A Simple React Router v4 Tutorial"
+    },
+    "https://medium.com/p/7f842d08b98f": {
+      "file": "ES6_Destructuring_The_Complete_Guide.md",
+      "status": "saved",
+      "title": "ES6 Destructuring: The Complete Guide"
+    },
+    "https://medium.com/p/8006c51d206f": {
+      "file": "Everything_you_need_to_know_about_change_detection_in_Angular.md",
+      "status": "saved",
+      "title": "Everything you need to know about change detection in Angular"
+    },
+    "https://medium.com/p/80f9fc5660cc": {
+      "file": "Understanding_a_large_scale_angular_app_with_@ngrx.md",
+      "status": "saved",
+      "title": "Understanding a large scale angular app with @ngrx"
+    },
+    "https://medium.com/p/81caf734644e": {
+      "file": "Kafka_vs_RabbitMQ_vs_Redis_Streams_vs_NATS_2026_I_Burned_$847_on_Kafka_Before_Finding_the_$67_Fix\u2026.md",
+      "status": "saved",
+      "title": "Kafka vs RabbitMQ vs Redis Streams vs NATS 2026: I Burned $847 on Kafka Before Finding the $67 Fix\u2026"
+    },
+    "https://medium.com/p/821a2210835": {
+      "file": "Finally_a_better_react.js_folder_structure.md",
+      "status": "saved",
+      "title": "Finally a better react.js folder structure"
+    },
+    "https://medium.com/p/828d5ea7dca6": {
+      "file": "JavaScript_Sanitizer_API_The_Modern_Way_to_Safe_DOM_Manipulation.md",
+      "status": "saved",
+      "title": "JavaScript Sanitizer API: The Modern Way to Safe DOM Manipulation"
+    },
+    "https://medium.com/p/82e46b5820c": {
+      "file": "Decoupling_UI_and_Logic_in_React_A_Clean_Code_Approach_with_Headless_Components.md",
+      "status": "saved",
+      "title": "Decoupling UI and Logic in React: A Clean Code Approach with Headless Components"
+    },
+    "https://medium.com/p/8410176ca560": {
+      "file": "I_Copy_These_10_Code_Snippets_Into_Every_Project.md",
+      "status": "saved",
+      "title": "I Copy These 10 Code Snippets Into Every Project"
+    },
+    "https://medium.com/p/846da334f8fc": {
+      "file": "Creating_WebAssembly-powered_library_for_modern_web.md",
+      "status": "saved",
+      "title": "Creating WebAssembly-powered library for modern web"
+    },
+    "https://medium.com/p/84f6370ec557": {
+      "file": "Sharing_the_UI_router_between_AngularJS_and_Angular_6.md",
+      "status": "saved",
+      "title": "Sharing the UI router between AngularJS and Angular 6"
+    },
+    "https://medium.com/p/85b7a347b59f": {
+      "file": "Total_Guide_To_Angular_6+_Dependency_Injection_\u2014_providedIn_vs_providers[_]_\ud83d\udc89.md",
+      "status": "saved",
+      "title": "Total Guide To Angular 6+ Dependency Injection\u200a\u2014\u200aprovidedIn vs providers:[ ] \ud83d\udc89"
+    },
+    "https://medium.com/p/862ffea5b99b": {
+      "file": "How_to_Create_a_Timeline_with_Pure_CSS.md",
+      "status": "saved",
+      "title": "How to Create a Timeline with Pure CSS"
+    },
+    "https://medium.com/p/8646c402b9c": {
+      "status": "removed",
+      "title": "How can we plan our trades depending on the pre-open market?"
+    },
+    "https://medium.com/p/8671d09348a8": {
+      "file": "4_Ways_to_Safely_Access_Nested_Objects_in_Vanilla_Javascript.md",
+      "status": "saved",
+      "title": "4 Ways to Safely Access Nested Objects in Vanilla Javascript"
+    },
+    "https://medium.com/p/86ee0a64a116": {
+      "file": "GraphQL_Subscriptions_in_NestJS_with_Apache_Kafka,_and_MongoDB.md",
+      "status": "saved",
+      "title": "GraphQL Subscriptions in NestJS with Apache Kafka, and MongoDB"
+    },
+    "https://medium.com/p/87e8049ad319": {
+      "file": "I_Built_a_JavaScript_Tool_in_One_Night_That_Solved_a_Problem_I\u2019d_Struggled_With_for_Months.md",
+      "status": "saved",
+      "title": "I Built a JavaScript Tool in One Night That Solved a Problem I\u2019d Struggled With for Months"
+    },
+    "https://medium.com/p/885a30bd73a7": {
+      "file": "The_Latest_CSS_Features_That_Are_Replacing_JavaScript_\u2014_With_Real_Code_Examples.md",
+      "status": "saved",
+      "title": "The Latest CSS Features That Are Replacing JavaScript \u2014 With Real Code Examples"
+    },
+    "https://medium.com/p/887e80abf9ef": {
+      "file": "Progressive_Web_Apps_with_Service_Workers.md",
+      "status": "saved",
+      "title": "Progressive Web Apps with Service Workers"
+    },
+    "https://medium.com/p/889bdc33aee7": {
+      "file": "My_FastAPI_Webhook_Didn\u2019t_Verify_Signatures_\u2014_Someone_Sent_12,000_Fake_Payments_and_Drained_My\u2026.md",
+      "status": "saved",
+      "title": "My FastAPI Webhook Didn\u2019t Verify Signatures \u2014 Someone Sent 12,000 Fake Payments and Drained My\u2026"
+    },
+    "https://medium.com/p/899625a2365c": {
+      "status": "removed",
+      "title": "899625A2365C"
+    },
+    "https://medium.com/p/8b38f3b9ef2f": {
+      "file": "React-Redux_Decorators.md",
+      "status": "saved",
+      "title": "React-Redux Decorators"
+    },
+    "https://medium.com/p/8b7b5b649285": {
+      "file": "The_Frontend_Patterns_That_Actually_Scale.md",
+      "status": "saved",
+      "title": "The Frontend Patterns That Actually Scale"
+    },
+    "https://medium.com/p/8beec91d4cd0": {
+      "file": "7_\u201cBoring\u201d_Micro-SaaS_Ideas_Making_$2kMonth_(The_Developer\u2019s_Blueprint).md",
+      "status": "saved",
+      "title": "7 \u201cBoring\u201d Micro-SaaS Ideas Making $2k/Month (The Developer\u2019s Blueprint)"
+    },
+    "https://medium.com/p/8cc061f1cfc0": {
+      "file": "Understanding_rxjs_BehaviorSubject,_ReplaySubject_and_AsyncSubject.md",
+      "status": "saved",
+      "title": "Understanding rxjs BehaviorSubject, ReplaySubject and AsyncSubject"
+    },
+    "https://medium.com/p/8ce2650e4753": {
+      "file": "The_Month_We_Stopped_Calling_It_\u201cWeb3_Payments\u201d.md",
+      "status": "saved",
+      "title": "8Ce2650E4753"
+    },
+    "https://medium.com/p/8d20c58b69f4": {
+      "file": "Vanilla_JavaScript_Components.md",
+      "status": "saved",
+      "title": "Vanilla JavaScript Components"
+    },
+    "https://medium.com/p/8dfc2f8f7ab6": {
+      "file": "8_Tips_for_Dark_Theme_Design.md",
+      "status": "saved",
+      "title": "8 Tips for Dark Theme Design"
+    },
+    "https://medium.com/p/8e23374eff20": {
+      "file": "5_React_Component_Patterns_That_Make_Your_Code_Reusable.md",
+      "status": "saved",
+      "title": "8E23374Eff20"
+    },
+    "https://medium.com/p/8ee670212c33": {
+      "file": "10_Python_Concepts_That_Took_Me_Years_to_Understand_\u2014_Until_I_Saw_These_Examples.md",
+      "status": "saved",
+      "title": "10 Python Concepts That Took Me Years to Understand\u200a\u2014\u200aUntil I Saw These Examples"
+    },
+    "https://medium.com/p/8f921f2d26db": {
+      "file": "Parallel_programming_in_JavaScript_using_Web_Workers.md",
+      "status": "saved",
+      "title": "Parallel programming in JavaScript using Web Workers"
+    },
+    "https://medium.com/p/90bc5996680a": {
+      "file": "How_to_Make_an_Awesome_Inventory_Management_Application_in_PHP_and_MySQL.md",
+      "status": "saved",
+      "title": "How to Make an Awesome Inventory Management Application in PHP and MySQL"
+    },
+    "https://medium.com/p/90be93d8c292": {
+      "file": "How_To_Finally_Understand_Generics_in_TypeScript.md",
+      "status": "saved",
+      "title": "How To Finally Understand Generics in TypeScript"
+    },
+    "https://medium.com/p/9147b2c899f8": {
+      "file": "Why_do_many_people_not_recommend_using_JWT.md",
+      "status": "saved",
+      "title": "Why do many people not recommend using JWT?"
+    },
+    "https://medium.com/p/917bf9d5ffba": {
+      "file": "Top_7_Alternatives_to_Next.js_in_2025.md",
+      "status": "saved",
+      "title": "Top 7 Alternatives to Next.js in 2025"
+    },
+    "https://medium.com/p/91cabeea2898": {
+      "file": "Building_a_Robust_Controlled_Rollout_System_for_Frontend_at_Scale.md",
+      "status": "saved",
+      "title": "Building a Robust Controlled Rollout System for Frontend at Scale"
+    },
+    "https://medium.com/p/91d72d13ed39": {
+      "file": "How_I_Made_My_First_\u20b910K_Trading_Stocks_Using_AI_(And_You_Can_Too).md",
+      "status": "saved",
+      "title": "How I Made My First \u20b910K Trading Stocks Using AI (And You Can Too)"
+    },
+    "https://medium.com/p/92ca2dc3884": {
+      "file": "Designing_KaiOS_Weather_Icons.md",
+      "status": "saved",
+      "title": "Designing KaiOS Weather Icons"
+    },
+    "https://medium.com/p/93376411b929": {
+      "status": "removed",
+      "title": "Building Multi-Brand Websites with a Single Next.js Codebase: A Scalable Approach"
+    },
+    "https://medium.com/p/946b19df577e": {
+      "status": "removed",
+      "title": "946B19Df577E"
+    },
+    "https://medium.com/p/94d28218a56d": {
+      "file": "I_Turned_a_Chinese_Quant_Finance_Paper_into_a_Forex_Trading_Bot_\u2014_Here\u2019s_Everything_I_Learned.md",
+      "status": "saved",
+      "title": "I Turned a Chinese Quant Finance Paper into a Forex Trading Bot \u2014 Here\u2019s Everything I Learned"
+    },
+    "https://medium.com/p/96057be1468e": {
+      "file": "Becoming_a_top_1%_Claude_Code_user_the_complete_playbook_no_one_else_is_sharing.md",
+      "status": "saved",
+      "title": "Becoming a top 1% Claude Code user: the complete playbook no one else is sharing"
+    },
+    "https://medium.com/p/96b0a9c22200": {
+      "file": "asyncio_Was_Killing_My_FastAPI_App._Here_Is_What_I_Switched_To..md",
+      "status": "saved",
+      "title": "asyncio Was Killing My FastAPI App. Here Is What I Switched To."
+    },
+    "https://medium.com/p/974aa6196976": {
+      "file": "You_don\u2019t_need_JWT_anymore.md",
+      "status": "saved",
+      "title": "You don\u2019t need JWT anymore"
+    },
+    "https://medium.com/p/979b40132b02": {
+      "file": "I_Didn\u2019t_Pay_a_Single_Dollar_to_Use_Claude_Code_\u2014_Here\u2019s_Exactly_How_(Updated_May_2026).md",
+      "status": "saved",
+      "title": "I Didn\u2019t Pay a Single Dollar to Use Claude Code \u2014 Here\u2019s Exactly How (Updated May 2026)"
+    },
+    "https://medium.com/p/98d41d497172": {
+      "file": "Next_Js_How_to_automate_performance_testing_using_Apache_JMeter_and_bash_scripting.md",
+      "status": "saved",
+      "title": "Next Js: How to automate performance testing using Apache JMeter and bash scripting"
+    },
+    "https://medium.com/p/99427770ed0c": {
+      "file": "Laws_of_UX_that_Airbnb_follows.md",
+      "status": "saved",
+      "title": "Laws of UX that Airbnb follows"
+    },
+    "https://medium.com/p/995153cc81c7": {
+      "file": "TypeScript_Library_tips_Rollup_your_types!.md",
+      "status": "saved",
+      "title": "TypeScript Library tips: Rollup your types!"
+    },
+    "https://medium.com/p/9a29d137a12d": {
+      "file": "Implementing_CSRF_Protection_in_Next.js_Applications.md",
+      "status": "saved",
+      "title": "Implementing CSRF Protection in Next.js Applications"
+    },
+    "https://medium.com/p/9a35eb3b319c": {
+      "file": "Data_Structures_You_Should_Know_as_a_JavaScript_Developer.md",
+      "status": "saved",
+      "title": "Data Structures You Should Know as a JavaScript Developer"
+    },
+    "https://medium.com/p/9a815fb64afd": {
+      "file": "5\u201315_minute_updown_\u2014_Top_3_bots_that_can_print_you_money_+_strategies.md",
+      "status": "saved",
+      "title": "5\u201315 minute up/down \u2014 Top 3 bots that can print you money + strategies"
+    },
+    "https://medium.com/p/9abe88c0ca87": {
+      "file": "Creating_Server_Components_with_Tanstack_Query_+_Axios.md",
+      "status": "saved",
+      "title": "Creating Server Components with Tanstack Query + Axios"
+    },
+    "https://medium.com/p/9bdc71a4032c": {
+      "file": "The_Proxy_API_Is_So_Powerful_That_Every_Web_Developer_Should_Master_It!.md",
+      "status": "saved",
+      "title": "The Proxy API Is So Powerful That Every Web Developer Should Master It!"
+    },
+    "https://medium.com/p/9ca8073feaa7": {
+      "status": "removed",
+      "title": "9Ca8073Feaa7"
+    },
+    "https://medium.com/p/9d010fd6be45": {
+      "file": "How_to_create_a_single_page_application_using_Razor_pages_with_Blazor.md",
+      "status": "saved",
+      "title": "How to create a single page application using Razor pages with Blazor"
+    },
+    "https://medium.com/p/9d1b90aa995e": {
+      "file": "SSR_-_SSG_-_ISR_-_CSR_in_Next.js_\u2014_The_Ultimate_Guide.md",
+      "status": "saved",
+      "title": "SSR - SSG - ISR - CSR in Next.js\u200a\u2014\u200aThe Ultimate Guide"
+    },
+    "https://medium.com/p/9d3cbee25b3e": {
+      "file": "Create_a_Material_Design_ripple_effect_without_JS.md",
+      "status": "saved",
+      "title": "Create a Material Design ripple effect without JS"
+    },
+    "https://medium.com/p/9d4476c3f103": {
+      "file": "9_Web_Components_UI_Libraries_You_Should_Know_in_2021.md",
+      "status": "saved",
+      "title": "9 Web Components UI Libraries You Should Know in 2021"
+    },
+    "https://medium.com/p/9dabdd01a3b8": {
+      "file": "Destructuring_Nested_Objects.md",
+      "status": "saved",
+      "title": "Destructuring Nested Objects"
+    },
+    "https://medium.com/p/9dfa6b669983": {
+      "file": "Next.js_App_Router_Routing_patterns_you_should_know.md",
+      "status": "saved",
+      "title": "Next.js App Router Routing patterns you should know"
+    },
+    "https://medium.com/p/9e7e4a452e6e": {
+      "status": "removed",
+      "title": "9E7E4A452E6E"
+    },
+    "https://medium.com/p/9e9f3a17688a": {
+      "file": "React_-_Utility_Higher_Order_Components_as_Decorators_(TC39_Stage_2_).md",
+      "status": "saved",
+      "title": "React - Utility Higher Order Components as Decorators (TC39 Stage 2 )"
+    },
+    "https://medium.com/p/9ec1c089ea6f": {
+      "status": "removed",
+      "title": "9Ec1C089Ea6F"
+    },
+    "https://medium.com/p/9f4dcb9b65": {
+      "file": "3_Ways_to_Render_Large_Lists_in_Angular.md",
+      "status": "saved",
+      "title": "3 Ways to Render Large Lists in Angular"
+    },
+    "https://medium.com/p/a00970088437": {
+      "file": "6_React_Native_UI_Components_I_Copy-Paste_Into_Every_App.md",
+      "status": "saved",
+      "title": "6 React Native UI Components I Copy-Paste Into Every App"
+    },
+    "https://medium.com/p/a0fd611e9702": {
+      "file": "I_Finally_Understood_LLMs_Using_JavaScript.md",
+      "status": "saved",
+      "title": "I Finally Understood LLMs Using JavaScript"
+    },
+    "https://medium.com/p/a103c897fd98": {
+      "file": "Google_API_authentication_with_OAuth_2_\u2014on_the_example_of_gmail.md",
+      "status": "saved",
+      "title": "Google API authentication with OAuth 2 \u2014on the example of gmail"
+    },
+    "https://medium.com/p/a110539c91d7": {
+      "file": "Create_your_next_VS_Code_extension_as_fast_as_possible.md",
+      "status": "saved",
+      "title": "Create your next VS Code extension as fast as possible"
+    },
+    "https://medium.com/p/a1e7942211ae": {
+      "status": "removed",
+      "title": "A1E7942211Ae"
+    },
+    "https://medium.com/p/a20fb5040d0c": {
+      "file": "Handle_multiple_API_requests_in_Angular_using_mergeMap_and_forkJoin_to_avoid_nested_subscriptions.md",
+      "status": "saved",
+      "title": "Handle multiple API requests in Angular using mergeMap and forkJoin to avoid nested subscriptions"
+    },
+    "https://medium.com/p/a23002de49b0": {
+      "file": "Build_a_LLM_App_with_RAG_to_Chat_with_GitHub_in_10_Lines_of_Python.md",
+      "status": "saved",
+      "title": "Build a LLM App with RAG to Chat with GitHub in 10 Lines of Python"
+    },
+    "https://medium.com/p/a2dbbfaf5329": {
+      "file": "Testing_Observables_in_Angular.md",
+      "status": "saved",
+      "title": "Testing Observables in Angular"
+    },
+    "https://medium.com/p/a30354eab214": {
+      "file": "How_to_write_simple_modern_JavaScript_apps_with_Webpack_and_progressive_web_techniques.md",
+      "status": "saved",
+      "title": "How to write simple modern JavaScript apps with Webpack and progressive web techniques"
+    },
+    "https://medium.com/p/a3fede1a014a": {
+      "file": "How_to_import_JSON_data_into_Google_Spreadsheets_in_less_than_5_minutes.md",
+      "status": "saved",
+      "title": "How to import  JSON data into Google Spreadsheets in less than 5 minutes"
+    },
+    "https://medium.com/p/a43a7b3935d6": {
+      "file": "Forget_JSON_\u2014_These_4_Data_Formats_Made_My_APIs_5x_Faster.md",
+      "status": "saved",
+      "title": "Forget JSON \u2014 These 4 Data Formats Made My APIs 5x Faster"
+    },
+    "https://medium.com/p/a472aae7a74d": {
+      "file": "Event-Driven_React_with_the_Observer_Pattern_A_Clean_Alternative_to_Prop_Drilling.md",
+      "status": "saved",
+      "title": "Event-Driven React with the Observer Pattern: A Clean Alternative to Prop Drilling"
+    },
+    "https://medium.com/p/a4fdc2ce4af2": {
+      "file": "Building_an_Automated_Crypto_Trading_Bot_with_Larry_Williams\u2019_Swing_Structure_A_Complete_Technical\u2026.md",
+      "status": "saved",
+      "title": "Building an Automated Crypto Trading Bot with Larry Williams\u2019 Swing Structure: A Complete Technical\u2026"
+    },
+    "https://medium.com/p/a5519f916ec0": {
+      "file": "I_Stopped_Using_Kubernetes._Our_DevOps_Team_Is_Happier_Than_Ever.md",
+      "status": "saved",
+      "title": "I Stopped Using Kubernetes. Our DevOps Team Is Happier Than Ever"
+    },
+    "https://medium.com/p/a599e85176c7": {
+      "file": "Native_Form_Validation_Of_Web_Components.md",
+      "status": "saved",
+      "title": "Native Form Validation Of Web Components"
+    },
+    "https://medium.com/p/a5da1aa1d6c5": {
+      "file": "Master_the_art_of_looping_in_JavaScript_with_these_incredible_tricks.md",
+      "status": "saved",
+      "title": "Master the art of looping in JavaScript with these incredible tricks"
+    },
+    "https://medium.com/p/a5fc39bd97b5": {
+      "file": "React_Signals_Another_Way_to_Handle_State_Management_\ud83d\ude80.md",
+      "status": "saved",
+      "title": "React Signals: Another Way to Handle State Management \ud83d\ude80"
+    },
+    "https://medium.com/p/a691c3fd22f7": {
+      "file": "Exploring_Different_Front-End_Rendering_Approaches_in_Adobe_Experience_Manager_(AEM).md",
+      "status": "saved",
+      "title": "Exploring Different Front-End Rendering Approaches in Adobe Experience Manager (AEM)"
+    },
+    "https://medium.com/p/a6bb4a7ffc21": {
+      "file": "Styled_Components_To_Use_or_Not_to_Use.md",
+      "status": "saved",
+      "title": "Styled Components: To Use or Not to Use?"
+    },
+    "https://medium.com/p/a6d814b9bf56": {
+      "file": "Service_Mesh_vs_API_Gateway.md",
+      "status": "saved",
+      "title": "Service Mesh vs API Gateway"
+    },
+    "https://medium.com/p/a70ee26b4cbf": {
+      "file": "Docker_pros_are_shrinking_images_by_99%_The_hidden_techniques_you_can\u2019t_afford_to_miss.md",
+      "status": "saved",
+      "title": "Docker pros are shrinking images by 99%: The hidden techniques you can\u2019t afford to miss"
+    },
+    "https://medium.com/p/a735bfb9e6a9": {
+      "file": "A_guide_to_`this`_in_JavaScript.md",
+      "status": "saved",
+      "title": "A guide to `this` in JavaScript"
+    },
+    "https://medium.com/p/a817dc27e545": {
+      "file": "The_details_Of_a_Dropdown.md",
+      "status": "saved",
+      "title": "The <details> Of a Dropdown"
+    },
+    "https://medium.com/p/a84549761260": {
+      "file": "AEM_ACS_Commons_error_page_handling.md",
+      "status": "saved",
+      "title": "AEM ACS Commons error page handling"
+    },
+    "https://medium.com/p/a89ddbb11228": {
+      "file": "JavaScript_Under_The_Hood_Advanced_Concepts_Developers_Should_Know.md",
+      "status": "saved",
+      "title": "JavaScript Under The Hood: Advanced Concepts Developers Should Know"
+    },
+    "https://medium.com/p/a957608f5c76": {
+      "file": "Write_your_Virtual_DOM_2_Props_&_Events.md",
+      "status": "saved",
+      "title": "Write your Virtual DOM 2: Props & Events"
+    },
+    "https://medium.com/p/a972932a4826": {
+      "file": "The_Python_Script_I_Built_That_Finds_Clients_While_I_Sleep.md",
+      "status": "saved",
+      "title": "The Python Script I Built That Finds Clients While I Sleep"
+    },
+    "https://medium.com/p/a9c968c7f4b4": {
+      "file": "Angular_Reactive_Forms_Add_Form_Control_And_Remove_Form_Control_Dynamically_(Learn_it_in_15_Steps).md",
+      "status": "saved",
+      "title": "Angular Reactive Forms Add Form Control And Remove Form Control Dynamically (Learn it in 15 Steps)"
+    },
+    "https://medium.com/p/ab18a10bcb4a": {
+      "file": "I_Wasted_Weeks_Using_Claude_Code_the_Wrong_Way_\u2014_These_8_Commands_Fixed_Everything.md",
+      "status": "saved",
+      "title": "I Wasted Weeks Using Claude Code the Wrong Way \u2014 These 8 Commands Fixed Everything"
+    },
+    "https://medium.com/p/abb2716b68e5": {
+      "file": "TypeScript_VS_Flow_Type_Checking_Front_End_JavaScript.md",
+      "status": "saved",
+      "title": "TypeScript VS Flow: Type Checking Front End JavaScript"
+    },
+    "https://medium.com/p/abbfff16b40e": {
+      "file": "API_Calls_Using_React-Query_Hooks.md",
+      "status": "saved",
+      "title": "API Calls Using React-Query Hooks"
+    },
+    "https://medium.com/p/abf9b1c59246": {
+      "status": "removed",
+      "title": "Abf9B1C59246"
+    },
+    "https://medium.com/p/aca40a7590ff": {
+      "file": "How_to_Use_Observables_with_Vanilla_JavaScript.md",
+      "status": "saved",
+      "title": "How to Use Observables with Vanilla JavaScript"
+    },
+    "https://medium.com/p/ad26af56fcf1": {
+      "file": "The_Promise_of_WebComponents_&_WebAssembly.md",
+      "status": "saved",
+      "title": "The Promise of WebComponents & WebAssembly"
+    },
+    "https://medium.com/p/ad68745d46de": {
+      "file": "Anthropic_Just_Released_Claude_Code_Course_(And_I_Earned_My_Certificate).md",
+      "status": "saved",
+      "title": "Anthropic Just Released Claude Code Course (And I Earned My Certificate)"
+    },
+    "https://medium.com/p/ae08ff001527": {
+      "file": "Smart_feature_phones_4_learnings_from_designing_for_smaller_screens.md",
+      "status": "saved",
+      "title": "Smart feature phones: 4 learnings from designing for smaller screens"
+    },
+    "https://medium.com/p/aea8b31f9d73": {
+      "file": "I_Worked_on_a_Banking_Backend._This_Is_What_\u201cProduction-Ready\u201d_Really_Means..md",
+      "status": "saved",
+      "title": "I Worked on a Banking Backend. This Is What \u201cProduction-Ready\u201d Really Means."
+    },
+    "https://medium.com/p/af2e5a7558cb": {
+      "file": "Work_with_Vite_and_NX.md",
+      "status": "saved",
+      "title": "Work with Vite and NX"
+    },
+    "https://medium.com/p/afec73b697cb": {
+      "file": "Patterns_for_Massive_Forms_in_React_Scalable,_Performant_and_Maintainable.md",
+      "status": "saved",
+      "title": "Patterns for Massive Forms in React: Scalable, Performant and Maintainable"
+    },
+    "https://medium.com/p/b04c058bf00f": {
+      "file": "Microservices_Authentication_and_Authorization_Using_API_Gateway.md",
+      "status": "saved",
+      "title": "Microservices Authentication and Authorization Using API Gateway"
+    },
+    "https://medium.com/p/b064aa2df09e": {
+      "file": "Build_your_own_event_emitter_using_only_native_DOM_APIs.md",
+      "status": "saved",
+      "title": "Build your own event emitter using only native DOM APIs"
+    },
+    "https://medium.com/p/b09d61fd4867": {
+      "file": "HTML_&_CSS_Just_Replaced_JavaScript_Sliders.md",
+      "status": "saved",
+      "title": "HTML & CSS Just Replaced JavaScript Sliders"
+    },
+    "https://medium.com/p/b141587a578f": {
+      "file": "Designing_for_different_screen_sizes_&_devices_\u2014_responsive_images_and_more.md",
+      "status": "saved",
+      "title": "Designing for different screen sizes & devices\u200a\u2014\u200aresponsive images and more"
+    },
+    "https://medium.com/p/b22cd101a258": {
+      "file": "Deploying_Algorithmic_Trading_Strategy_Part-3_(Telegram_Bot_Updates).md",
+      "status": "saved",
+      "title": "Deploying Algorithmic Trading Strategy Part-3 (Telegram Bot Updates)"
+    },
+    "https://medium.com/p/b2fe028dcaec": {
+      "file": "Didact_Fiber_Incremental_reconciliation.md",
+      "status": "saved",
+      "title": "Didact Fiber: Incremental reconciliation"
+    },
+    "https://medium.com/p/b35758a2268": {
+      "file": "Rollup_vs_Webpack_(JavaScript_bundling_in_2018).md",
+      "status": "saved",
+      "title": "Rollup vs Webpack (JavaScript bundling in 2018)"
+    },
+    "https://medium.com/p/b38f0e46d2ed": {
+      "file": "Event_Binding_Mechanism_in_Angular.md",
+      "status": "saved",
+      "title": "Event Binding Mechanism in Angular"
+    },
+    "https://medium.com/p/b3beb096d2b4": {
+      "file": "Goodbye_SASS_\ud83d\udc4b,_welcome_back_native_CSS.md",
+      "status": "saved",
+      "title": "Goodbye SASS \ud83d\udc4b, welcome back native CSS"
+    },
+    "https://medium.com/p/b41c67628478": {
+      "file": "I_Spent_6_Months_Tuning_Claude_Code._Here\u2019s_the_Exact_Setup_That_Finally_Worked..md",
+      "status": "saved",
+      "title": "I Spent 6 Months Tuning Claude Code. Here\u2019s the Exact Setup That Finally Worked."
+    },
+    "https://medium.com/p/b4aff3797c6d": {
+      "file": "Why_and_How_to_Lazy_Load_Components_in_Angular.md",
+      "status": "saved",
+      "title": "Why and How to Lazy Load Components in Angular"
+    },
+    "https://medium.com/p/b4f8d7ec8fbd": {
+      "file": "Vanilla_JS_fragments_&_DOM_patching.md",
+      "status": "saved",
+      "title": "Vanilla JS fragments & DOM patching"
+    },
+    "https://medium.com/p/b5cbfe9b7c50": {
+      "file": "Reactive_Web_Design_The_secret_to_building_web_apps_that_feel_amazing.md",
+      "status": "saved",
+      "title": "Reactive Web Design: The secret to building web apps that feel amazing"
+    },
+    "https://medium.com/p/b5d64d5e8bb0": {
+      "file": "How_To_Test_a_Web_Component.md",
+      "status": "saved",
+      "title": "How To Test a Web Component"
+    },
+    "https://medium.com/p/b61d28fb3c61": {
+      "file": "End_to_End_Deployment_Automation_to_AWS_Using_GitHub_Actions.md",
+      "status": "saved",
+      "title": "End to End Deployment Automation to AWS Using GitHub Actions"
+    },
+    "https://medium.com/p/b639be5104dc": {
+      "file": "Deploy_React_Application_using_Tekton_Pipelines.md",
+      "status": "saved",
+      "title": "Deploy React Application using Tekton Pipelines"
+    },
+    "https://medium.com/p/b66818704f6b": {
+      "file": "I_Hired_a_Penetration_Tester_to_Attack_My_FastAPI_App._He_Owned_Everything_in_45_Minutes.md",
+      "status": "saved",
+      "title": "I Hired a Penetration Tester to Attack My FastAPI App. He Owned Everything in 45 Minutes"
+    },
+    "https://medium.com/p/b70d4b072400": {
+      "file": "Client_side_error_logging_in_React_web_application.md",
+      "status": "saved",
+      "title": "Client side error logging in React web application"
+    },
+    "https://medium.com/p/b74b8c70c492": {
+      "file": "On_Styling_Web_Components.md",
+      "status": "saved",
+      "title": "On Styling Web Components"
+    },
+    "https://medium.com/p/b764644244aa": {
+      "file": "How_to_build_a_simple_sprite_animation_in_JavaScript.md",
+      "status": "saved",
+      "title": "How to build a simple sprite animation in JavaScript"
+    },
+    "https://medium.com/p/b94568ddd206": {
+      "file": "Bulletproof_Security_Route_Guards_and_JWT_Handlers_in_Angular_21.md",
+      "status": "saved",
+      "title": "Bulletproof Security: Route Guards and JWT Handlers in Angular 21"
+    },
+    "https://medium.com/p/b9f4f83e9c95": {
+      "file": "How_I_Built_6_Micro-Tools_in_Python_That_Earn_Me_Passive_Income_Daily.md",
+      "status": "saved",
+      "title": "How I Built 6 Micro-Tools in Python That Earn Me Passive Income Daily"
+    },
+    "https://medium.com/p/b9f63af8e155": {
+      "file": "From_Theory_to_Automation_WCAG_compliance_using_axe-core,_next.js,_and_GitHub_actions.md",
+      "status": "saved",
+      "title": "From Theory to Automation: WCAG compliance using axe-core, next.js, and GitHub actions"
+    },
+    "https://medium.com/p/ba200cc289e6": {
+      "file": "Angular_Pro_Tip_How_to_dynamically_create_components_in_body.md",
+      "status": "saved",
+      "title": "Angular Pro Tip: How to dynamically create components in <body>"
+    },
+    "https://medium.com/p/bb83123f92bf": {
+      "file": "Express.js_Secrets_That_Senior_Developers_Don\u2019t_Share.md",
+      "status": "saved",
+      "title": "Express.js Secrets That Senior Developers Don\u2019t Share"
+    },
+    "https://medium.com/p/bbc5b81a0bdd": {
+      "file": "The_Python_Tool_I_Built_in_a_Weekend_That_Now_Pays_My_Rent.md",
+      "status": "saved",
+      "title": "The Python Tool I Built in a Weekend That Now Pays My Rent"
+    },
+    "https://medium.com/p/bbddb6c28561": {
+      "file": "Lessons_learned_using_JSX_without_React.md",
+      "status": "saved",
+      "title": "Lessons learned using JSX without React"
+    },
+    "https://medium.com/p/bcf2ab54613": {
+      "file": "Create_a_Next.js_web_app_with_Nx.md",
+      "status": "saved",
+      "title": "Create a Next.js web app with Nx"
+    },
+    "https://medium.com/p/bd241e3a347a": {
+      "file": "How_I_Am_Using_a_Lifetime_100%_Free_Server.md",
+      "status": "saved",
+      "title": "How I Am Using a Lifetime 100% Free Server"
+    },
+    "https://medium.com/p/bd242aca41a0": {
+      "file": "The_7_Most-Used_JavaScript_Topics_You_Should_Know.md",
+      "status": "saved",
+      "title": "The 7 Most-Used JavaScript Topics You Should Know"
+    },
+    "https://medium.com/p/bdaf204d955c": {
+      "file": "Here_is_why_you_will_not_find_components_inside_Angular.md",
+      "status": "saved",
+      "title": "Here is why you will not find components inside Angular"
+    },
+    "https://medium.com/p/bddea98ce835": {
+      "file": "Master_Signals_in_10_Minutes_The_Death_of_Boilerplate.md",
+      "status": "saved",
+      "title": "Master Signals in 10 Minutes: The Death of Boilerplate"
+    },
+    "https://medium.com/p/bde8f1a40479": {
+      "file": "A_Bit_of_Reactivity_with_Vanilla_JS.md",
+      "status": "saved",
+      "title": "A Bit of Reactivity with Vanilla JS"
+    },
+    "https://medium.com/p/bdf1eee6f37a": {
+      "file": "Build_a_PWA_Using_Only_Vanilla_JavaScript.md",
+      "status": "saved",
+      "title": "Build a PWA Using Only Vanilla JavaScript"
+    },
+    "https://medium.com/p/bdf64f0b6072": {
+      "file": "Why_Silicon_Valley_CTOs_Are_Secretly_Moving_Away_from_React.md",
+      "status": "saved",
+      "title": "Why Silicon Valley CTOs Are Secretly Moving Away from React"
+    },
+    "https://medium.com/p/bdfa438b50aa": {
+      "file": "PWA_from_scratch_guide_(yet_another_one).md",
+      "status": "saved",
+      "title": "PWA from scratch guide (yet another one)"
+    },
+    "https://medium.com/p/be5de452b5e9": {
+      "file": "I_Made_Zod_64x_Faster_by_Compiling_Schemas_at_Build_Time.md",
+      "status": "saved",
+      "title": "I Made Zod 64x Faster by Compiling Schemas at Build Time"
+    },
+    "https://medium.com/p/bef9d37c42c1": {
+      "file": "How_and_when_(not)_to_use_webpack_for_lazy_loading.md",
+      "status": "saved",
+      "title": "How and when (not) to use webpack for lazy loading?"
+    },
+    "https://medium.com/p/c084abfe1285": {
+      "file": "lit-html_vs_hyperHTML_vs_lighterhtml.md",
+      "status": "saved",
+      "title": "lit-html vs hyperHTML vs lighterhtml"
+    },
+    "https://medium.com/p/c1a2b1b11b8f": {
+      "file": "NestJS,_TypeORM_and_PostgreSQL_\u2014_full_example_development_and_project_setup_working_with_database\u2026.md",
+      "status": "saved",
+      "title": "NestJS, TypeORM and PostgreSQL \u2014 full example development and project setup working with database\u2026"
+    },
+    "https://medium.com/p/c1b2a57455af": {
+      "file": "Self-Parking_Car_in_500_Lines_of_Code.md",
+      "status": "saved",
+      "title": "Self-Parking Car in <500 Lines of Code"
+    },
+    "https://medium.com/p/c1c18482fe77": {
+      "file": "Angular_Multi-Language_Without_Libraries_A_Custom_Pipe_with_Signals_\ud83c\udf0d.md",
+      "status": "saved",
+      "title": "Angular Multi-Language Without Libraries: A Custom Pipe with Signals \ud83c\udf0d"
+    },
+    "https://medium.com/p/c2ea89a90896": {
+      "file": "The_story_of_the_great_siddha,_Mahavatar_Babaji.md",
+      "status": "saved",
+      "title": "The story of the great siddha, Mahavatar Babaji"
+    },
+    "https://medium.com/p/c3ca4f4da15d": {
+      "file": "Learn_Firebase_CRUD_App_with_Vanilla_JavaScript_NOW_\u2014_Part_2.md",
+      "status": "saved",
+      "title": "Learn Firebase CRUD App with Vanilla JavaScript NOW\u200a\u2014\u200aPart 2"
+    },
+    "https://medium.com/p/c4611c4369f9": {
+      "file": "Make_Your_React_App_Multilingual_with_Ease.md",
+      "status": "saved",
+      "title": "Make Your React App Multilingual with Ease"
+    },
+    "https://medium.com/p/c494e442b47f": {
+      "file": "3_CSS_Grid_Layouts_That_Replace_Your_Entire_Component_Library.md",
+      "status": "saved",
+      "title": "3 CSS Grid Layouts That Replace Your Entire Component Library"
+    },
+    "https://medium.com/p/c4d4161538f4": {
+      "file": "Promises_vs_AsyncAwait_in_JavaScript_What_Actually_Happens_Under_the_Hood.md",
+      "status": "saved",
+      "title": "Promises vs Async/Await in JavaScript: What Actually Happens Under the Hood"
+    },
+    "https://medium.com/p/c51f3f011fd1": {
+      "file": "The_essential_role_of_shortcut_keys_in_internet_browsing.md",
+      "status": "saved",
+      "title": "The essential role of shortcut keys in internet browsing"
+    },
+    "https://medium.com/p/c57e965d580d": {
+      "file": "We_Scaled_to_1_Million_Users_with_a_Single_SQLite_Database._Here_is_How.md",
+      "status": "saved",
+      "title": "We Scaled to 1 Million Users with a Single SQLite Database. Here is How"
+    },
+    "https://medium.com/p/c59c99b961d6": {
+      "file": "Using_the_@incomesharks_trading_strategy._A_simple_but_very_effective_strategy.md",
+      "status": "saved",
+      "title": "Using the @incomesharks trading strategy. A simple but very effective strategy"
+    },
+    "https://medium.com/p/c6ff16a0fd00": {
+      "file": "Best_Practices_for_Writing_Sling_Models_in_AEM.md",
+      "status": "saved",
+      "title": "Best Practices for Writing Sling Models in AEM"
+    },
+    "https://medium.com/p/c70f15da836c": {
+      "file": "Why_do_I_need_an_API_Gateway_on_a_Kubernetes_cluster.md",
+      "status": "saved",
+      "title": "Why do I need an API Gateway on a Kubernetes cluster"
+    },
+    "https://medium.com/p/c7f1ce8e0fa7": {
+      "file": "I_Built_a_Desktop_App_That_Automatically_Discovers_Trading_Strategies_\u2014_Just_Click_and_Run.md",
+      "status": "saved",
+      "title": "I Built a Desktop App That Automatically Discovers Trading Strategies \u2014 Just Click and Run"
+    },
+    "https://medium.com/p/c828dbbe552f": {
+      "file": "10_AWS_Tools_That_Made_My_Side_Project_Feel_Enterprise_Grade.md",
+      "status": "saved",
+      "title": "10 AWS Tools That Made My Side Project Feel Enterprise Grade"
+    },
+    "https://medium.com/p/c88afb1c960c": {
+      "file": "I_Studied_50_JavaScript_Codebases_\u2014_Here\u2019s_What_Great_Developers_Do_Differently.md",
+      "status": "saved",
+      "title": "I Studied 50 JavaScript Codebases \u2014 Here\u2019s What Great Developers Do Differently"
+    },
+    "https://medium.com/p/c8d788e3eb2e": {
+      "file": "AEM_with_NextJS_spa_component_rendering.md",
+      "status": "saved",
+      "title": "AEM with NextJS spa component rendering"
+    },
+    "https://medium.com/p/c95f757e52a6": {
+      "file": "7_Coding_Patterns_I_Stole_From_Senior_Engineers.md",
+      "status": "saved",
+      "title": "7 Coding Patterns I Stole From Senior Engineers"
+    },
+    "https://medium.com/p/c9da0d815ef4": {
+      "file": "Route_Guards_in_Angular.md",
+      "status": "saved",
+      "title": "Route Guards in Angular"
+    },
+    "https://medium.com/p/ca1dfeb92edb": {
+      "file": "I_Handed_ChatGPT_$100_to_Trade_Stocks_\u2014_Here\u2019s_What_Happened_in_2_Months..md",
+      "status": "saved",
+      "title": "I Handed ChatGPT $100 to Trade Stocks\u200a\u2014\u200aHere\u2019s What Happened in 2 Months."
+    },
+    "https://medium.com/p/ca503ceabd84": {
+      "file": "How_to_build_a_Chrome_Extension_to_save_web_content_to_Cosmic_JS.md",
+      "status": "saved",
+      "title": "How to build a Chrome Extension to save web content to Cosmic JS"
+    },
+    "https://medium.com/p/cad77c8ffdc6": {
+      "file": "I_Replaced_BullBullMQ_With_60_Lines_of_PostgreSQL_(And_You_Should_Too).md",
+      "status": "saved",
+      "title": "I Replaced Bull/BullMQ With 60 Lines of PostgreSQL (And You Should Too)"
+    },
+    "https://medium.com/p/caecf58d7cbd": {
+      "file": "Demystifying_JSX_building_your_own_JSX_parser_from_scratch.md",
+      "status": "saved",
+      "title": "Demystifying JSX: building your own JSX parser from scratch"
+    },
+    "https://medium.com/p/cb2047cf5d4c": {
+      "file": "Mastering_RxJS_operators_and_functions_that_can_bite_you_when_you_don\u2019t_expect.md",
+      "status": "saved",
+      "title": "Mastering RxJS: operators and functions that can bite you when you don\u2019t expect"
+    },
+    "https://medium.com/p/cb5227da51f2": {
+      "file": "JavaScript_Memory_Management_Explained_Stack_vs_Heap,_Garbage_Collection_&_Memory_Leaks.md",
+      "status": "saved",
+      "title": "JavaScript Memory Management Explained: Stack vs Heap, Garbage Collection & Memory Leaks"
+    },
+    "https://medium.com/p/cb9a3c000e0": {
+      "file": "Re-create_the_RxJS_Library_from_Scratch_Deep_Dive_into_RxJS_Observables.md",
+      "status": "saved",
+      "title": "Re-create the RxJS Library from Scratch: Deep Dive into RxJS Observables"
+    },
+    "https://medium.com/p/ceecd6a4143b": {
+      "file": "GraphQL_as_BFF_(Backend-For-Frontends).md",
+      "status": "saved",
+      "title": "GraphQL as BFF (Backend-For-Frontends)"
+    },
+    "https://medium.com/p/cf3b0bc5399f": {
+      "file": "Not_a_nonsense_example_of_a_web_application_with_Flutter_and_Dart..md",
+      "status": "saved",
+      "title": "Not a nonsense example of a web application with Flutter and Dart."
+    },
+    "https://medium.com/p/cf71d13501c5": {
+      "file": "How_to_Setup_a_JavaScript_Monorepo_Like_a_Professional.md",
+      "status": "saved",
+      "title": "How to Setup a JavaScript Monorepo Like a Professional"
+    },
+    "https://medium.com/p/cff7db6dc2e9": {
+      "file": "Building_a_Rich-Text_Editor_for_Modern_Publishers.md",
+      "status": "saved",
+      "title": "Building a Rich-Text Editor for Modern Publishers"
+    },
+    "https://medium.com/p/d083acd36e2f": {
+      "file": "7_RxJS_Patterns_Every_React_Developer_Misses\u2014Until_It\u2019s_Too_Late.md",
+      "status": "saved",
+      "title": "7 RxJS Patterns Every React Developer Misses\u2014Until It\u2019s Too Late"
+    },
+    "https://medium.com/p/d09a4f4011de": {
+      "file": "Stop_Using_Old_React_Patterns_\u2014_React_19_Just_Changed_Enterprise_Architecture_Forever.md",
+      "status": "saved",
+      "title": "Stop Using Old React Patterns\u200a\u2014\u200aReact 19 Just Changed Enterprise Architecture Forever"
+    },
+    "https://medium.com/p/d0be0996c556": {
+      "file": "How_to_secure_your_WebSocket_connections.md",
+      "status": "saved",
+      "title": "How to secure your WebSocket connections"
+    },
+    "https://medium.com/p/d1185252bb46": {
+      "file": "Uploading_Massive_Files_Without_Breaking_Your_App_A_Guide_to_Streaming_&_Chunking_in_JavaScript.md",
+      "status": "saved",
+      "title": "Uploading Massive Files Without Breaking Your App: A Guide to Streaming & Chunking in JavaScript"
+    },
+    "https://medium.com/p/d1c3d4fee5e3": {
+      "file": "Circuit_breakers_in_Microservices.md",
+      "status": "saved",
+      "title": "Circuit breakers in Microservices"
+    },
+    "https://medium.com/p/d1c65ea09a48": {
+      "file": "7_React_Patterns_Senior_Devs_Use_That_Juniors_Have_Never_Heard_Of.md",
+      "status": "saved",
+      "title": "7 React Patterns Senior Devs Use That Juniors Have Never Heard Of"
+    },
+    "https://medium.com/p/d1f476224c07": {
+      "file": "I\u2019ve_Been_a_CSS_Modules_Fan_for_Years._@scope_Changed_That.md",
+      "status": "saved",
+      "title": "I\u2019ve Been a CSS Modules Fan for Years. @scope Changed That"
+    },
+    "https://medium.com/p/d23182ae0fbc": {
+      "file": "HTMLCSS_Tricks_\u2014_Scroll-able_Table_Body_tbody.md",
+      "status": "saved",
+      "title": "HTML/CSS Tricks \u2014 Scroll-able Table Body <tbody>"
+    },
+    "https://medium.com/p/d25f04870284": {
+      "file": "With_ES_Modules_and_HTTP2_You_May_Not_Need_Webpack_Anymore.md",
+      "status": "saved",
+      "title": "With ES Modules and HTTP/2 You May Not Need Webpack Anymore"
+    },
+    "https://medium.com/p/d26168429a34": {
+      "file": "Combining_React_with_Socket.io_for_real-time_goodness.md",
+      "status": "saved",
+      "title": "Combining React with Socket.io for real-time goodness"
+    },
+    "https://medium.com/p/d290cb207464": {
+      "file": "Multi-Zone_vs_Multi-Tenant_in_Next.js_A_Practical_Guide.md",
+      "status": "saved",
+      "title": "Multi-Zone vs Multi-Tenant in Next.js: A Practical Guide"
+    },
+    "https://medium.com/p/d31a4a68ef67": {
+      "file": "How_I_Made_My_JavaScript_2x_Faster_with_One_Change.md",
+      "status": "saved",
+      "title": "How I Made My JavaScript 2x Faster with One Change"
+    },
+    "https://medium.com/p/d333d60e3ad5": {
+      "file": "AWS,_Azure_and_Google_Cloud_Equivalent_Services.md",
+      "status": "saved",
+      "title": "AWS, Azure and Google Cloud Equivalent Services"
+    },
+    "https://medium.com/p/d43129494027": {
+      "file": "TypeScript_Patterns_You_Should_Know_for_React_Development.md",
+      "status": "saved",
+      "title": "TypeScript Patterns You Should Know for React Development"
+    },
+    "https://medium.com/p/d45aceb0a591": {
+      "file": "Docker_Is_Dead_Weight_\u2014_I_Rebuilt_Our_Pipeline_Without_It_and_Cut_Costs_60%.md",
+      "status": "saved",
+      "title": "Docker Is Dead Weight \u2014 I Rebuilt Our Pipeline Without It and Cut Costs 60%"
+    },
+    "https://medium.com/p/d467fbc8f66e": {
+      "file": "3_Tips_for_Angular_Runtime_Performance_from_the_Real_World.md",
+      "status": "saved",
+      "title": "3 Tips for Angular Runtime Performance from the Real World"
+    },
+    "https://medium.com/p/d47538b27697": {
+      "file": "Solving_Event_Losses_with_Kafka_Dead_Letter_Queue.md",
+      "status": "saved",
+      "title": "Solving Event Losses with Kafka Dead Letter Queue"
+    },
+    "https://medium.com/p/d53eea2e1cbf": {
+      "file": "Avoiding_Babel\u2019s_Production_Bloat.md",
+      "status": "saved",
+      "title": "Avoiding Babel\u2019s Production Bloat"
+    },
+    "https://medium.com/p/d617cb2640b6": {
+      "file": "From_Client_to_Pod_How_an_API_Request_Reaches_a_Microservice_Deployed_on_Kubernetes.md",
+      "status": "saved",
+      "title": "From Client to Pod: How an API Request Reaches a Microservice Deployed on Kubernetes"
+    },
+    "https://medium.com/p/d65938284255": {
+      "file": "Develop_W3C_Web_Components_with_WebAssembly.md",
+      "status": "saved",
+      "title": "Develop W3C Web Components with WebAssembly"
+    },
+    "https://medium.com/p/d66343ca900d": {
+      "file": "Switching_from_ws_to_socket.io.md",
+      "status": "saved",
+      "title": "Switching from ws to socket.io"
+    },
+    "https://medium.com/p/d66f3c828433": {
+      "file": "Strategies_for_Service_Worker_Caching_for_Progressive_Web_Apps.md",
+      "status": "saved",
+      "title": "Strategies for Service Worker Caching for Progressive Web Apps"
+    },
+    "https://medium.com/p/d6e088a39855": {
+      "file": "BFF_(Backend-for-Frontend)_Pattern_with_Next.js_API_Routes_Secure_and_Scalable_Architecture.md",
+      "status": "saved",
+      "title": "BFF (Backend-for-Frontend) Pattern with Next.js API Routes: Secure and Scalable Architecture"
+    },
+    "https://medium.com/p/d7cbf202a17": {
+      "file": "Searching_in_Your_IndexedDB_Database.md",
+      "status": "saved",
+      "title": "Searching in Your IndexedDB Database"
+    },
+    "https://medium.com/p/d7fa04baacfe": {
+      "file": "10_Advanced_CSS_Techniques_That_Will_Transform_Your_Web_Development_Game_\ud83d\ude80.md",
+      "status": "saved",
+      "title": "10 Advanced CSS Techniques That Will Transform Your Web Development Game \ud83d\ude80"
+    },
+    "https://medium.com/p/d846c5ce0ac6": {
+      "file": "Angular_Authentication_Using_JWT.md",
+      "status": "saved",
+      "title": "Angular Authentication Using JWT"
+    },
+    "https://medium.com/p/d8bb29090edf": {
+      "file": "When_a_2025_Math_Finance_Paper_Taught_Me_to_Time_the_Market_Like_an_Options_Hedger.md",
+      "status": "saved",
+      "title": "When a 2025 Math Finance Paper Taught Me to Time the Market Like an Options Hedger"
+    },
+    "https://medium.com/p/d8e5b88487bb": {
+      "file": "\ud83e\udde9_What_is_Multi-Zone_in_Next.js.md",
+      "status": "saved",
+      "title": "\ud83e\udde9 What is Multi-Zone in Next.js?"
+    },
+    "https://medium.com/p/d8ec35d1f981": {
+      "file": "How_to_make_a_Promise_out_of_a_Callback_function_in_JavaScript.md",
+      "status": "saved",
+      "title": "How to make a Promise out of a Callback function in JavaScript"
+    },
+    "https://medium.com/p/da53e544b0d8": {
+      "file": "Mastering_ConcurrentMultiple_API_Requests_with_RxJS_A_Deep_Dive_into_resourcerxResource_and_RxJS\u2026.md",
+      "status": "saved",
+      "title": "Mastering Concurrent/Multiple API Requests with RxJS: A Deep Dive into resource/rxResource and RxJS\u2026"
+    },
+    "https://medium.com/p/dac7f879bb21": {
+      "file": "Adventures_in_the_Virtual_DOM_\u2014_Part_2_The_DiffRender_Loop.md",
+      "status": "saved",
+      "title": "Adventures in the Virtual DOM \u2014 Part 2: The Diff/Render Loop"
+    },
+    "https://medium.com/p/dac9dd4196d9": {
+      "file": "RxJS_vs._Signals_The_Exact_Rulebook_on_When_to_Use_Which.md",
+      "status": "saved",
+      "title": "RxJS vs. Signals: The Exact Rulebook on When to Use Which"
+    },
+    "https://medium.com/p/db097ddd99b6": {
+      "file": "How_we_wrote_the_Fastest_JavaScript_UI_Framework,_Again!.md",
+      "status": "saved",
+      "title": "How we wrote the Fastest JavaScript UI Framework, Again!"
+    },
+    "https://medium.com/p/dbc51b09e2c5": {
+      "file": "Full_Stack_Application_Deployment_with_Docker,_AWS_EC2,_and_GitHub_Actions.md",
+      "status": "saved",
+      "title": "Full Stack Application Deployment with Docker, AWS EC2, and GitHub Actions"
+    },
+    "https://medium.com/p/dbe49a9ccf11": {
+      "file": "7_Killer_JavaScript_Snippets.md",
+      "status": "saved",
+      "title": "7 Killer JavaScript Snippets"
+    },
+    "https://medium.com/p/dbea71c32200": {
+      "file": "provideAppInitializer()_vs_provideEnvironmentInitializer()_in_Angular.md",
+      "status": "saved",
+      "title": "provideAppInitializer() vs provideEnvironmentInitializer() in Angular"
+    },
+    "https://medium.com/p/dc1895b05bce": {
+      "file": "I_Made_$3_Million_in_Crypto._These_are_the_26_Rules_I_Learned..md",
+      "status": "saved",
+      "title": "I Made $3 Million in Crypto. These are the 26 Rules I Learned."
+    },
+    "https://medium.com/p/dc464a82c46d": {
+      "file": "How_Frontend_Developers_Can_Handle_Millions_of_API_Requests_Without_Crashing_Everything.md",
+      "status": "saved",
+      "title": "How Frontend Developers Can Handle Millions of API Requests Without Crashing Everything"
+    },
+    "https://medium.com/p/dcae5b048e20": {
+      "file": "The_Hidden_Power_of_Custom_States_For_Web_Components.md",
+      "status": "saved",
+      "title": "The Hidden Power of Custom States For Web Components"
+    },
+    "https://medium.com/p/dcbcd6cc2076": {
+      "file": "How_to_use_IndexDB_to_build_Progressive_Web_Apps.md",
+      "status": "saved",
+      "title": "How to use IndexDB to build Progressive Web Apps"
+    },
+    "https://medium.com/p/dcd1dec3f0a2": {
+      "file": "Clustering_In_NodeJs.md",
+      "status": "saved",
+      "title": "Clustering In NodeJs"
+    },
+    "https://medium.com/p/dcfd67d646e8": {
+      "file": "3_CSS_Nesting_Patterns_I_Actually_Use.md",
+      "status": "saved",
+      "title": "3 CSS Nesting Patterns I Actually Use"
+    },
+    "https://medium.com/p/dd2407639cd0": {
+      "file": "GridMartBB_A_Mean-Reversion_Grid_System_That_Turns_Bollinger_Band_Extremes_Into_Profit_Machines.md",
+      "status": "saved",
+      "title": "GridMartBB: A Mean-Reversion Grid System That Turns Bollinger Band Extremes Into Profit Machines"
+    },
+    "https://medium.com/p/dd5f051e1f0": {
+      "file": "Top_UIUX_Design_Works_for_Inspiration_\u2014_#96.md",
+      "status": "saved",
+      "title": "Top UI/UX Design Works for Inspiration\u200a\u2014\u200a#96"
+    },
+    "https://medium.com/p/ddb09743eb16": {
+      "file": "Get_User_Postal_Code,_Latitude,_Longitude_etc_from_AWS.md",
+      "status": "saved",
+      "title": "Get User Postal Code, Latitude, Longitude etc from AWS"
+    },
+    "https://medium.com/p/dedbab8fb630": {
+      "file": "10_JS_Tricks_Senior_Devs_Don\u2019t_Tell_You.md",
+      "status": "saved",
+      "title": "10 JS Tricks Senior Devs Don\u2019t Tell You"
+    },
+    "https://medium.com/p/deec985aae20": {
+      "file": "Mastering_React\u2019s_Specialized_Hooks_7_Essential_Hooks_for_Your_Next_Project.md",
+      "status": "saved",
+      "title": "Mastering React\u2019s Specialized Hooks: 7 Essential Hooks for Your Next Project"
+    },
+    "https://medium.com/p/dfc4fafee80c": {
+      "file": "Create_Micro-Frontend_Architecture_Using_React.md",
+      "status": "saved",
+      "title": "Create Micro-Frontend Architecture Using React"
+    },
+    "https://medium.com/p/dfee1880349b": {
+      "file": "Use_These_7_Secret_React_Patterns_and_Instantly_Join_the_Top_5%_of_Developers.md",
+      "status": "saved",
+      "title": "Use These 7 Secret React Patterns and Instantly Join the Top 5% of Developers"
+    },
+    "https://medium.com/p/e02ba78660c7": {
+      "file": "Plugin_Architecture_in_Node.js_Without_Regrets.md",
+      "status": "saved",
+      "title": "Plugin Architecture in Node.js Without Regrets"
+    },
+    "https://medium.com/p/e0bf721429a2": {
+      "file": "Role-Based_Access_Control_(RBAC)_in_Next.js_A_Complete_Guide.md",
+      "status": "saved",
+      "title": "Role-Based Access Control (RBAC) in Next.js: A Complete Guide"
+    },
+    "https://medium.com/p/e0e6a00fa5e7": {
+      "status": "removed",
+      "title": "E0E6A00Fa5E7"
+    },
+    "https://medium.com/p/e142be786618": {
+      "file": "Envoy_Vs_Nginx_and_How_to_install_Envoy_and_Nginx..md",
+      "status": "saved",
+      "title": "Envoy Vs Nginx and How to install Envoy and Nginx."
+    },
+    "https://medium.com/p/e1b84ae12bda": {
+      "file": "The_Death_of_useEffect_How_React_19_Changes_Everything.md",
+      "status": "saved",
+      "title": "The Death of useEffect: How React 19 Changes Everything"
+    },
+    "https://medium.com/p/e231b6c71a4a": {
+      "file": "LangChain_Agents_for_Noobs_A_Complete_Practical_Guide.md",
+      "status": "saved",
+      "title": "LangChain Agents for Noobs: A Complete Practical Guide"
+    },
+    "https://medium.com/p/e264006d35cf": {
+      "file": "Make_NodeJs_handle_5x_request_with_99.9%_uptime_adding_10_lines_of_code.md",
+      "status": "saved",
+      "title": "Make NodeJs handle 5x request with 99.9% uptime adding 10 lines of code"
+    },
+    "https://medium.com/p/e2fbdebef4c": {
+      "file": "A_quick_tip_on_testing_Observables_\ud83d\udc40.md",
+      "status": "saved",
+      "title": "A quick tip on testing Observables \ud83d\udc40"
+    },
+    "https://medium.com/p/e3ab163f4fd3": {
+      "file": "Why_I_use_Rollup,_and_not_Webpack.md",
+      "status": "saved",
+      "title": "Why I use Rollup, and not Webpack"
+    },
+    "https://medium.com/p/e428b0cb52e4": {
+      "status": "removed",
+      "title": "E428B0Cb52E4"
+    },
+    "https://medium.com/p/e46a1ed62583": {
+      "file": "Decoding_Market_Patterns_A_Nobel_Prize-Inspired_Trading_Indicator_for_MetaTrader_5_(edited).md",
+      "status": "saved",
+      "title": "Decoding Market Patterns: A Nobel Prize-Inspired Trading Indicator for MetaTrader 5 (edited)"
+    },
+    "https://medium.com/p/e4e11d1a2e85": {
+      "file": "Service_Workers!_Your_first_step_towards_Progressive_Web_Apps_(PWA).md",
+      "status": "saved",
+      "title": "Service Workers! Your first step towards Progressive Web Apps (PWA)"
+    },
+    "https://medium.com/p/e50e04030c8a": {
+      "file": "Native_Git_Hooks_Bye_Bye,_Husky!.md",
+      "status": "saved",
+      "title": "Native Git Hooks: Bye Bye, Husky!"
+    },
+    "https://medium.com/p/e5569164d0ec": {
+      "file": "Enhancing_Adobe_Experience_Manager_with_Web_Components_Practical_Implementation_Guide.md",
+      "status": "saved",
+      "title": "Enhancing Adobe Experience Manager with Web Components: Practical Implementation Guide"
+    },
+    "https://medium.com/p/e574a6f39de": {
+      "file": "EZWC_for_Native_Web_Components.md",
+      "status": "saved",
+      "title": "EZWC for Native Web Components"
+    },
+    "https://medium.com/p/e651bd831721": {
+      "status": "removed",
+      "title": "E651Bd831721"
+    },
+    "https://medium.com/p/e72486286f63": {
+      "file": "Turbopack_A_Better_Way_to_Inline_SVG_in_Next.js_16.md",
+      "status": "saved",
+      "title": "Turbopack: A Better Way to Inline SVG in Next.js 16"
+    },
+    "https://medium.com/p/e7c5ce430ea1": {
+      "file": "Tekton_Build_Simple_Build_Pipeline_using_Kubernetes_Native_CICD_Tools.md",
+      "status": "saved",
+      "title": "Tekton: Build Simple Build Pipeline using Kubernetes Native CI/CD Tools"
+    },
+    "https://medium.com/p/e801ae6fb720": {
+      "file": "Get_notified!_Improvements_to_KaiOS_push_notifications.md",
+      "status": "saved",
+      "title": "Get notified! Improvements to KaiOS push notifications"
+    },
+    "https://medium.com/p/e844628da6ff": {
+      "file": "Vanilla_Redux.md",
+      "status": "saved",
+      "title": "Vanilla Redux"
+    },
+    "https://medium.com/p/e84f22fca9fa": {
+      "file": "Stop_Memorizing_Design_Patterns_Use_This_Decision_Tree_Instead.md",
+      "status": "saved",
+      "title": "Stop Memorizing Design Patterns: Use This Decision Tree Instead"
+    },
+    "https://medium.com/p/e87d80aeded1": {
+      "file": "How_to_Upload_Files_to_Firebase_Cloud_Storage_With_React_and_Node.js.md",
+      "status": "saved",
+      "title": "How to Upload Files to Firebase Cloud Storage With React and Node.js"
+    },
+    "https://medium.com/p/e8b22d6a57ad": {
+      "file": "3_Advanced_software_principles_you_must_know.md",
+      "status": "saved",
+      "title": "3 Advanced software principles you must know"
+    },
+    "https://medium.com/p/e977453dca80": {
+      "file": "Optimized_\u201c920_Straddle_Strategy\u201d_To_Get_More_Than_80%_Return_Annually.md",
+      "status": "saved",
+      "title": "Optimized \u201c920 Straddle Strategy\u201d To Get More Than 80% Return Annually"
+    },
+    "https://medium.com/p/e9b20c399f54": {
+      "file": "Python_Concepts_That_Quietly_Improve_Every_Program_You_Write.md",
+      "status": "saved",
+      "title": "Python Concepts That Quietly Improve Every Program You Write"
+    },
+    "https://medium.com/p/e9f447330b19": {
+      "file": "All_About_Kubernetes_Port_Types_NodePort,TargetPort,Port,ContainerPort.md",
+      "status": "saved",
+      "title": "All About Kubernetes Port Types: NodePort,TargetPort,Port,ContainerPort"
+    },
+    "https://medium.com/p/e9faacfc101b": {
+      "file": "Micro-Frontend_using_Web_Components.md",
+      "status": "saved",
+      "title": "Micro-Frontend using Web Components"
+    },
+    "https://medium.com/p/ea1d1b1e2ca1": {
+      "file": "Localhost_HTTPs_3_Easy_Ways_to_Secure_Your_Local_Development_Server.md",
+      "status": "saved",
+      "title": "Localhost HTTPs: 3 Easy Ways to Secure Your Local Development Server"
+    },
+    "https://medium.com/p/ea42b4bf2c54": {
+      "file": "FastAPI_in_Production_7_Mistakes_That_Will_Destroy_Your_App.md",
+      "status": "saved",
+      "title": "FastAPI in Production: 7 Mistakes That Will Destroy Your App"
+    },
+    "https://medium.com/p/ea6ee5fdf340": {
+      "file": "Building_A_Simple_Single_Sign_On(SSO)_Server_And_Solution_From_Scratch_In_Node.js..md",
+      "status": "saved",
+      "title": "Building A Simple Single Sign On(SSO) Server And Solution From Scratch In Node.js."
+    },
+    "https://medium.com/p/ea9b2b7214e5": {
+      "file": "Hono_\u2014_Ending_the_TypeScript_War_Between_Frontend_and_Backend.md",
+      "status": "saved",
+      "title": "Hono\u200a\u2014\u200aEnding the TypeScript War Between Frontend and Backend"
+    },
+    "https://medium.com/p/eb953d56e913": {
+      "file": "Web_Components_with_static_and_dynamic_content.md",
+      "status": "saved",
+      "title": "Web Components with static and dynamic content"
+    },
+    "https://medium.com/p/ebaa00b04a09": {
+      "file": "Dynamic_Conditional_Types_in_TypeScript.md",
+      "status": "saved",
+      "title": "Dynamic Conditional Types in TypeScript"
+    },
+    "https://medium.com/p/ebf2ec8a998c": {
+      "file": "There\u2019s_No_Need_To_Hate_Web_Components.md",
+      "status": "saved",
+      "title": "There\u2019s No Need To Hate Web Components"
+    },
+    "https://medium.com/p/ec33e599c1ae": {
+      "file": "Stop_Writing_the_Same_Code_Twice_\u2014_10_JavaScript_Utility_Functions_You_Should_Steal.md",
+      "status": "saved",
+      "title": "Stop Writing the Same Code Twice\u200a\u2014\u200a10 JavaScript Utility Functions You Should Steal"
+    },
+    "https://medium.com/p/ec5fbca3aa5d": {
+      "file": "Product-Oriented_JavaScript_Interview_Questions.md",
+      "status": "saved",
+      "title": "Product-Oriented JavaScript Interview Questions"
+    },
+    "https://medium.com/p/ec84d8be06ca": {
+      "file": "Design_patterns_in_modern_JavaScript_development.md",
+      "status": "saved",
+      "title": "Design patterns in modern JavaScript development"
+    },
+    "https://medium.com/p/ecbd8c2e62f3": {
+      "file": "This_JavaScript_API_Replaced_5_npm_Packages.md",
+      "status": "saved",
+      "title": "This JavaScript API Replaced 5 npm Packages"
+    },
+    "https://medium.com/p/eddf63f5ddf6": {
+      "file": "10_Game-Changing_CLAUDE.md_Entries_That_Turned_My_Claude_Code_Sessions_into_a_Coding_Superpower.md",
+      "status": "saved",
+      "title": "10 Game-Changing CLAUDE.md Entries That Turned My Claude Code Sessions into a Coding Superpower"
+    },
+    "https://medium.com/p/ee74acc13060": {
+      "file": "How_to_write_your_own_Virtual_DOM.md",
+      "status": "saved",
+      "title": "How to write your own Virtual DOM"
+    },
+    "https://medium.com/p/eea263647696": {
+      "status": "removed",
+      "title": "Eea263647696"
+    },
+    "https://medium.com/p/efe44e8149af": {
+      "file": "Python_Mastery_in_7_Days_From_Beginner_to_Confident_Developer.md",
+      "status": "saved",
+      "title": "Python Mastery in 7 Days: From Beginner to Confident Developer"
+    },
+    "https://medium.com/p/f0bedd37a335": {
+      "file": "A_TC39_Proposal_for_Signals.md",
+      "status": "saved",
+      "title": "A TC39 Proposal for Signals"
+    },
+    "https://medium.com/p/f0e849073334": {
+      "file": "We_Thought_React_Native_Was_the_Answer_\u2014_Until_Our_App_Hit_190%_CPU.md",
+      "status": "saved",
+      "title": "We Thought React Native Was the Answer\u200a\u2014\u200aUntil Our App Hit 190% CPU"
+    },
+    "https://medium.com/p/f1ea12cc1bd2": {
+      "file": "TypeScript_Decorators_Are_Finally_Stable_Real-World_Use_Cases_Beyond_Classes.md",
+      "status": "saved",
+      "title": "TypeScript Decorators Are Finally Stable: Real-World Use Cases Beyond Classes"
+    },
+    "https://medium.com/p/f1f1009a7544": {
+      "file": "Stop_Abusing_Base64_Blob_is_the_Right_Way_to_Unburden_the_Frontend.md",
+      "status": "saved",
+      "title": "Stop Abusing Base64: Blob is the Right Way to Unburden the Frontend"
+    },
+    "https://medium.com/p/f2013a204cb2": {
+      "file": "How_and_Why_You_Should_Store_React_UI_State_in_the_URL.md",
+      "status": "saved",
+      "title": "How and Why You Should Store React UI State in the URL"
+    },
+    "https://medium.com/p/f327e3769b6f": {
+      "file": "A_Dart_REPL_PoC.md",
+      "status": "saved",
+      "title": "A Dart REPL PoC"
+    },
+    "https://medium.com/p/f3d0b2995fc7": {
+      "file": "Vite,_Nginx_and_environment_variables_for_a_static_website_at_runtime.md",
+      "status": "saved",
+      "title": "Vite, Nginx and environment variables for a static website at runtime"
+    },
+    "https://medium.com/p/f55a2d885294": {
+      "file": "React_Patterns_Made_Simple.md",
+      "status": "saved",
+      "title": "React Patterns Made Simple"
+    },
+    "https://medium.com/p/f55ad885609f": {
+      "file": "Demystifying_Hooks.md",
+      "status": "saved",
+      "title": "Demystifying Hooks"
+    },
+    "https://medium.com/p/f57c4c913886": {
+      "file": "How_and_When_To_Use_Over-scroll_Effects_in_UX_Design.md",
+      "status": "saved",
+      "title": "How and When To Use Over-scroll Effects in UX Design"
+    },
+    "https://medium.com/p/f69edcea825d": {
+      "file": "How_to_Build_a_Double-Entry_Ledger.md",
+      "status": "saved",
+      "title": "How to Build a Double-Entry Ledger"
+    },
+    "https://medium.com/p/f6a3c032ea75": {
+      "file": "SASS,_LESS,_CSS_without_JavaScript_in_Polymer_3_with_Webpack.md",
+      "status": "saved",
+      "title": "SASS, LESS, CSS without JavaScript in Polymer 3 with Webpack"
+    },
+    "https://medium.com/p/f7ba4c48dfbd": {
+      "file": "JWT_Ultimate_How-To_Guide_With_Best_Practices_In_JavaScript.md",
+      "status": "saved",
+      "title": "JWT Ultimate: How-To Guide With Best Practices In JavaScript"
+    },
+    "https://medium.com/p/f82909d35fb4": {
+      "file": "HTTP_Just_Got_a_New_Method_That_Fixes_a_Problem_I\u2019ve_Hit_for_Years.md",
+      "status": "saved",
+      "title": "HTTP Just Got a New Method That Fixes a Problem I\u2019ve Hit for Years"
+    },
+    "https://medium.com/p/f8a9df5b7758": {
+      "file": "The_100%_correct_way_to_split_your_chunks_with_Webpack.md",
+      "status": "saved",
+      "title": "The 100% correct way to split your chunks with Webpack"
+    },
+    "https://medium.com/p/f8cc25afcf60": {
+      "file": "I_Compared_4_Python_Message_Queues._One_Won_Clearly..md",
+      "status": "saved",
+      "title": "I Compared 4 Python Message Queues. One Won Clearly."
+    },
+    "https://medium.com/p/f8f5dc609cfd": {
+      "file": "Comparing_bundlers_Webpack,_Rollup_&_Parcel.md",
+      "status": "saved",
+      "title": "Comparing bundlers: Webpack, Rollup & Parcel"
+    },
+    "https://medium.com/p/f90934947b0c": {
+      "file": "Protecting_Routes_in_Next.js_The_Right_Way_to_Avoid_UI_Flicker.md",
+      "status": "saved",
+      "title": "Protecting Routes in Next.js: The Right Way to Avoid UI Flicker"
+    },
+    "https://medium.com/p/f94335faf876": {
+      "file": "I_Stopped_Using_JavaScript_for_Menus.md",
+      "status": "saved",
+      "title": "I Stopped Using JavaScript for Menus"
+    },
+    "https://medium.com/p/f97ff6565221": {
+      "file": "Introducing_Static_Sharding_to_an_SQLite_Backend.md",
+      "status": "saved",
+      "title": "Introducing Static Sharding to an SQLite Backend"
+    },
+    "https://medium.com/p/f9823e550fe0": {
+      "file": "Algorithmic_Trading_with_RSI_using_Python.md",
+      "status": "saved",
+      "title": "Algorithmic Trading with RSI using Python"
+    },
+    "https://medium.com/p/fa5b5a01e6f4": {
+      "file": "System_Architecture_Deep_Dive_into_1M_RPS_API_Design.md",
+      "status": "saved",
+      "title": "System Architecture\u00a0: Deep Dive into 1M RPS API Design"
+    },
+    "https://medium.com/p/faa778c85396": {
+      "status": "removed",
+      "title": "Faa778C85396"
+    },
+    "https://medium.com/p/fbeba4a5ecd6": {
+      "file": "Factory_Functions_vs_Constructor_Functions_in_JavaScript_Which_One_Should_You_Use.md",
+      "status": "saved",
+      "title": "Factory Functions vs Constructor Functions in JavaScript: Which One Should You Use?"
+    },
+    "https://medium.com/p/fc48863a1b7c": {
+      "file": "How_to_Build_Your_Own_Reactivity_System.md",
+      "status": "saved",
+      "title": "How to Build Your Own Reactivity System"
+    },
+    "https://medium.com/p/fca679002c23": {
+      "file": "Dockerizing_Turborepo_Remix_Application.md",
+      "status": "saved",
+      "title": "Dockerizing Turborepo Remix Application"
+    },
+    "https://medium.com/p/fcf540b2a8fb": {
+      "file": "Complete_Guide_Password_Reset_and_Authentication_in_Next.js_with_Auth.js_(NextAuth_v5).md",
+      "status": "saved",
+      "title": "Complete Guide: Password Reset and Authentication in Next.js with Auth.js (NextAuth v5)"
+    },
+    "https://medium.com/p/fd5860fb6530": {
+      "file": "AEM_SPA_Comparison_of_Different_Approaches.md",
+      "status": "saved",
+      "title": "AEM SPA | Comparison of Different Approaches"
+    },
+    "https://medium.com/p/fdd772073a5d": {
+      "file": "Headless_CMS_(Contentful)_and_NextJS_How_to_create_a_modern_React_application_Part_1..md",
+      "status": "saved",
+      "title": "Headless CMS (Contentful) and NextJS: How to create a modern React application? Part 1."
+    },
+    "https://medium.com/p/fe88abaf8e38": {
+      "file": "Automated_Penetration_Testing_Useing_OWASP_ZAP.md",
+      "status": "saved",
+      "title": "Automated Penetration Testing Useing OWASP ZAP"
+    },
+    "https://medium.com/p/fee4b35e7a26": {
+      "file": "The_Rendering_Guide_Nobody_Explains_Properly_\u2014_SSR,_ISR,_and_CSR_in_Next.js.md",
+      "status": "saved",
+      "title": "The Rendering Guide Nobody Explains Properly\u200a\u2014\u200aSSR, ISR, and CSR in Next.js"
+    },
+    "https://medium.com/p/fef2c6ff3591": {
+      "file": "How_to_Force_a_PWA_to_Refresh_its_Content.md",
+      "status": "saved",
+      "title": "How to Force a PWA to Refresh its Content"
+    },
+    "https://medium.com/p/fef3d013e9f3": {
+      "file": "Algorithmic_Trading_with_MACD_and_Python.md",
+      "status": "saved",
+      "title": "Algorithmic Trading with MACD and Python"
+    },
+    "https://medium.com/p/ff41679a2490": {
+      "status": "removed",
+      "title": "How to Secure API Gateways in a Node.js Microservices Architecture"
+    },
+    "https://medium.com/p/ff858efdced5": {
+      "file": "Taming_Supabase_&_Next.js_Auth_Why_Your_Users_Keep_Getting_Logged_Out_(And_How_to_Fix_It).md",
+      "status": "saved",
+      "title": "Taming Supabase & Next.js Auth: Why Your Users Keep Getting Logged Out (And How to Fix It)"
+    }
+  },
+  "Rust": {
+    "https://medium.com/@kiranmantha": {
+      "file": "kiranmantha.md",
+      "status": "saved",
+      "title": "kiranmantha"
+    },
+    "https://medium.com/@kiranmantha/list/94c252bd6b9d": {
+      "file": "Link_to_list.md",
+      "status": "saved",
+      "title": "Link to list"
+    },
+    "https://medium.com/p/0fee51546a5e": {
+      "file": "I_Replaced_400ms_Of_JavaScript_With_12ms_Of_Rust_In_Angular.md",
+      "status": "saved",
+      "title": "I Replaced 400ms Of JavaScript With 12ms Of Rust In Angular"
+    },
+    "https://medium.com/p/252803be738c": {
+      "status": "removed",
+      "title": "I Tested 7 Rust Web Frameworks at 50K RPS \u2014 Only Actix-Web Held a Flat Latency Curve"
+    }
+  },
+  "Start_up_ideas": {
+    "https://medium.com/@kiranmantha": {
+      "file": "kiranmantha.md",
+      "status": "saved",
+      "title": "kiranmantha"
+    },
+    "https://medium.com/@kiranmantha/list/eb9e35f6bba2": {
+      "file": "Link_to_list.md",
+      "status": "saved",
+      "title": "Link to list"
+    },
+    "https://medium.com/p/85e2be943dba": {
+      "status": "removed",
+      "title": "85E2Be943Dba"
+    },
+    "https://medium.com/p/8beec91d4cd0": {
+      "file": "7_\u201cBoring\u201d_Micro-SaaS_Ideas_Making_$2kMonth_(The_Developer\u2019s_Blueprint).md",
+      "status": "saved",
+      "title": "7 \u201cBoring\u201d Micro-SaaS Ideas Making $2k/Month (The Developer\u2019s Blueprint)"
+    }
+  },
+  "Trading": {
+    "https://medium.com/p/1f48b4d54578": {
+      "file": "I_Built_a_Python_Tool_That_Automatically_Discovers_Trading_Strategies_For_You.md",
+      "status": "saved",
+      "title": "I Built a Python Tool That Automatically Discovers Trading Strategies For You"
+    },
+    "https://medium.com/p/9a815fb64afd": {
+      "file": "5\u201315_minute_updown_\u2014_Top_3_bots_that_can_print_you_money_+_strategies.md",
+      "status": "saved",
+      "title": "5\u201315 minute up/down \u2014 Top 3 bots that can print you money + strategies"
+    },
+    "https://medium.com/p/c7f1ce8e0fa7": {
+      "file": "I_Built_a_Desktop_App_That_Automatically_Discovers_Trading_Strategies_\u2014_Just_Click_and_Run.md",
+      "status": "saved",
+      "title": "I Built a Desktop App That Automatically Discovers Trading Strategies \u2014 Just Click and Run"
+    },
+    "https://medium.com/p/d8bb29090edf": {
+      "file": "When_a_2025_Math_Finance_Paper_Taught_Me_to_Time_the_Market_Like_an_Options_Hedger.md",
+      "status": "saved",
+      "title": "When a 2025 Math Finance Paper Taught Me to Time the Market Like an Options Hedger"
+    },
+    "https://medium.com/p/dd2407639cd0": {
+      "file": "GridMartBB_A_Mean-Reversion_Grid_System_That_Turns_Bollinger_Band_Extremes_Into_Profit_Machines.md",
+      "status": "saved",
+      "title": "GridMartBB: A Mean-Reversion Grid System That Turns Bollinger Band Extremes Into Profit Machines"
+    }
+  },
+  "css": {
+    "https://medium.com/@kiranmantha": {
+      "file": "kiranmantha.md",
+      "status": "saved",
+      "title": "kiranmantha"
+    },
+    "https://medium.com/@kiranmantha/list/e5c4cb537f53": {
+      "file": "Link_to_list.md",
+      "status": "saved",
+      "title": "Link to list"
+    },
+    "https://medium.com/p/054b290270e7": {
+      "file": "Why_100vh_Is_Still_Broken_on_Mobile_and_How_to_Fix_100vh.md",
+      "status": "saved",
+      "title": "Why 100vh Is Still Broken on Mobile and How to Fix 100vh"
+    },
+    "https://medium.com/p/52251ae61c2f": {
+      "file": "The_Spacing_System_That_Makes_Every_UI_Look_More_Intentional.md",
+      "status": "saved",
+      "title": "The Spacing System That Makes Every UI Look More Intentional"
+    },
+    "https://medium.com/p/5a0fe7f69628": {
+      "status": "removed",
+      "title": "5A0Fe7F69628"
+    },
+    "https://medium.com/p/6f3486a8c763": {
+      "file": "I_Tested_3_Font_Loading_Methods._Only_One_Won..md",
+      "status": "saved",
+      "title": "I Tested 3 Font Loading Methods. Only One Won."
+    },
+    "https://medium.com/p/885a30bd73a7": {
+      "file": "The_Latest_CSS_Features_That_Are_Replacing_JavaScript_\u2014_With_Real_Code_Examples.md",
+      "status": "saved",
+      "title": "The Latest CSS Features That Are Replacing JavaScript \u2014 With Real Code Examples"
+    },
+    "https://medium.com/p/899625a2365c": {
+      "status": "removed",
+      "title": "899625A2365C"
+    },
+    "https://medium.com/p/c494e442b47f": {
+      "file": "3_CSS_Grid_Layouts_That_Replace_Your_Entire_Component_Library.md",
+      "status": "saved",
+      "title": "3 CSS Grid Layouts That Replace Your Entire Component Library"
+    },
+    "https://medium.com/p/d1f476224c07": {
+      "file": "I\u2019ve_Been_a_CSS_Modules_Fan_for_Years._@scope_Changed_That.md",
+      "status": "saved",
+      "title": "I\u2019ve Been a CSS Modules Fan for Years. @scope Changed That"
+    }
+  },
+  "javascript": {
+    "https://medium.com/@kiranmantha": {
+      "file": "kiranmantha.md",
+      "status": "saved",
+      "title": "kiranmantha"
+    },
+    "https://medium.com/@kiranmantha/list/39089e8ad008": {
+      "file": "Link_to_list.md",
+      "status": "saved",
+      "title": "Link to list"
+    },
+    "https://medium.com/p/01d24d8fc767": {
+      "file": "Web_Workers_vs._WASM_When_to_Use_Which_for_Performance.md",
+      "status": "saved",
+      "title": "Web Workers vs. WASM: When to Use Which for Performance"
+    },
+    "https://medium.com/p/03349bd42956": {
+      "file": "5_JavaScript_Libraries_You\u2019ve_Never_Used_(But_Will_Wonder_How_You_Lived_Without).md",
+      "status": "saved",
+      "title": "5 JavaScript Libraries You\u2019ve Never Used (But Will Wonder How You Lived Without)"
+    },
+    "https://medium.com/p/06409fe4f66b": {
+      "status": "removed",
+      "title": "06409Fe4F66B"
+    },
+    "https://medium.com/p/1fe3c9089aff": {
+      "file": "The_Browser_API_Most_Developers_Have_Never_Used.md",
+      "status": "saved",
+      "title": "The Browser API Most Developers Have Never Used"
+    },
+    "https://medium.com/p/226fcae3d7f5": {
+      "file": "The_Vanilla_JS_Framework_5_Advanced_Patterns_That_Replace_Your_Entire_Dependency_Tree.md",
+      "status": "saved",
+      "title": "The Vanilla JS Framework: 5 Advanced Patterns That Replace Your Entire Dependency Tree"
+    },
+    "https://medium.com/p/284ed95a9107": {
+      "file": "Fetch_API_Trick_Auto_Retry_Request_When_It_Fails.md",
+      "status": "saved",
+      "title": "Fetch API Trick: Auto Retry Request When It Fails"
+    },
+    "https://medium.com/p/328fda24244f": {
+      "file": "I_Replaced_Axios_With_25_Lines_of_Vanilla_JS_(And_You_Should_Too).md",
+      "status": "saved",
+      "title": "I Replaced Axios With 25 Lines of Vanilla JS (And You Should Too)"
+    },
+    "https://medium.com/p/38d8874be673": {
+      "file": "I_Copy_These_10_Code_Snippets_Into_Every_Single_Project.md",
+      "status": "saved",
+      "title": "I Copy These 10 Code Snippets Into Every Single Project"
+    },
+    "https://medium.com/p/3a030a3ea8e4": {
+      "status": "removed",
+      "title": "3A030A3Ea8E4"
+    },
+    "https://medium.com/p/529ee28f9055": {
+      "file": "Token,_Session,_Cookie,_JWT,_OAuth2_\u2014_I_can\u2019t_tell_the_difference!.md",
+      "status": "saved",
+      "title": "Token, Session, Cookie, JWT, OAuth2\u200a\u2014\u200aI can\u2019t tell the difference!"
+    },
+    "https://medium.com/p/5f0f9344a7f6": {
+      "file": "4_String_Patterns_That_Solve_400+_Problems_(With_JavaScript_Examples).md",
+      "status": "saved",
+      "title": "4 String Patterns That Solve 400+ Problems (With JavaScript Examples)"
+    },
+    "https://medium.com/p/62b5c188e965": {
+      "status": "removed",
+      "title": "62B5C188E965"
+    },
+    "https://medium.com/p/68e07623ffa7": {
+      "file": "Why_NASA_Developers_Write_Code_Completely_Differently_(And_Why_You_Should_Too).md",
+      "status": "saved",
+      "title": "Why NASA Developers Write Code Completely Differently (And Why You Should Too)"
+    },
+    "https://medium.com/p/754794aa5c1f": {
+      "status": "removed",
+      "title": "754794Aa5C1F"
+    },
+    "https://medium.com/p/757cae3fef83": {
+      "status": "removed",
+      "title": "757Cae3Fef83"
+    },
+    "https://medium.com/p/75a183e3cb8e": {
+      "file": "No_More_Libraries_These_10_Existing_Browser_APIs_Already_Solve_Your_Problems.md",
+      "status": "saved",
+      "title": "No More Libraries: These 10 Existing Browser APIs Already Solve Your Problems"
+    },
+    "https://medium.com/p/77e759d18d60": {
+      "file": "I_Used_localStorage_Wrong_for_Years.md",
+      "status": "saved",
+      "title": "I Used localStorage Wrong for Years"
+    },
+    "https://medium.com/p/8410176ca560": {
+      "file": "I_Copy_These_10_Code_Snippets_Into_Every_Project.md",
+      "status": "saved",
+      "title": "I Copy These 10 Code Snippets Into Every Project"
+    },
+    "https://medium.com/p/87e8049ad319": {
+      "file": "I_Built_a_JavaScript_Tool_in_One_Night_That_Solved_a_Problem_I\u2019d_Struggled_With_for_Months.md",
+      "status": "saved",
+      "title": "I Built a JavaScript Tool in One Night That Solved a Problem I\u2019d Struggled With for Months"
+    },
+    "https://medium.com/p/a0fd611e9702": {
+      "file": "I_Finally_Understood_LLMs_Using_JavaScript.md",
+      "status": "saved",
+      "title": "I Finally Understood LLMs Using JavaScript"
+    },
+    "https://medium.com/p/c4d4161538f4": {
+      "file": "Promises_vs_AsyncAwait_in_JavaScript_What_Actually_Happens_Under_the_Hood.md",
+      "status": "saved",
+      "title": "Promises vs Async/Await in JavaScript: What Actually Happens Under the Hood"
+    },
+    "https://medium.com/p/c95f757e52a6": {
+      "file": "7_Coding_Patterns_I_Stole_From_Senior_Engineers.md",
+      "status": "saved",
+      "title": "7 Coding Patterns I Stole From Senior Engineers"
+    },
+    "https://medium.com/p/cb5227da51f2": {
+      "file": "JavaScript_Memory_Management_Explained_Stack_vs_Heap,_Garbage_Collection_&_Memory_Leaks.md",
+      "status": "saved",
+      "title": "JavaScript Memory Management Explained: Stack vs Heap, Garbage Collection & Memory Leaks"
+    },
+    "https://medium.com/p/d1185252bb46": {
+      "file": "Uploading_Massive_Files_Without_Breaking_Your_App_A_Guide_to_Streaming_&_Chunking_in_JavaScript.md",
+      "status": "saved",
+      "title": "Uploading Massive Files Without Breaking Your App: A Guide to Streaming & Chunking in JavaScript"
+    },
+    "https://medium.com/p/d31a4a68ef67": {
+      "file": "How_I_Made_My_JavaScript_2x_Faster_with_One_Change.md",
+      "status": "saved",
+      "title": "How I Made My JavaScript 2x Faster with One Change"
+    },
+    "https://medium.com/p/dc464a82c46d": {
+      "file": "How_Frontend_Developers_Can_Handle_Millions_of_API_Requests_Without_Crashing_Everything.md",
+      "status": "saved",
+      "title": "How Frontend Developers Can Handle Millions of API Requests Without Crashing Everything"
+    },
+    "https://medium.com/p/dedbab8fb630": {
+      "file": "10_JS_Tricks_Senior_Devs_Don\u2019t_Tell_You.md",
+      "status": "saved",
+      "title": "10 JS Tricks Senior Devs Don\u2019t Tell You"
+    },
+    "https://medium.com/p/e02ba78660c7": {
+      "file": "Plugin_Architecture_in_Node.js_Without_Regrets.md",
+      "status": "saved",
+      "title": "Plugin Architecture in Node.js Without Regrets"
+    },
+    "https://medium.com/p/e0e6a00fa5e7": {
+      "status": "removed",
+      "title": "E0E6A00Fa5E7"
+    },
+    "https://medium.com/p/e84f22fca9fa": {
+      "file": "Stop_Memorizing_Design_Patterns_Use_This_Decision_Tree_Instead.md",
+      "status": "saved",
+      "title": "Stop Memorizing Design Patterns: Use This Decision Tree Instead"
+    },
+    "https://medium.com/p/ec33e599c1ae": {
+      "file": "Stop_Writing_the_Same_Code_Twice_\u2014_10_JavaScript_Utility_Functions_You_Should_Steal.md",
+      "status": "saved",
+      "title": "Stop Writing the Same Code Twice\u200a\u2014\u200a10 JavaScript Utility Functions You Should Steal"
+    },
+    "https://medium.com/p/ecbd8c2e62f3": {
+      "file": "This_JavaScript_API_Replaced_5_npm_Packages.md",
+      "status": "saved",
+      "title": "This JavaScript API Replaced 5 npm Packages"
+    },
+    "https://medium.com/p/f55a2d885294": {
+      "file": "React_Patterns_Made_Simple.md",
+      "status": "saved",
+      "title": "React Patterns Made Simple"
+    },
+    "https://medium.com/p/fbeba4a5ecd6": {
+      "file": "Factory_Functions_vs_Constructor_Functions_in_JavaScript_Which_One_Should_You_Use.md",
+      "status": "saved",
+      "title": "Factory Functions vs Constructor Functions in JavaScript: Which One Should You Use?"
+    },
+    "https://medium.com/p/fed3784298b4": {
+      "file": "ES2025_JavaScript_Features_You_Can_Start_Using_Right_Now.md",
+      "status": "saved",
+      "title": "ES2025 JavaScript Features You Can Start Using Right Now"
+    }
+  },
+  "logging": {
+    "https://medium.com/@kiranmantha": {
+      "file": "kiranmantha.md",
+      "status": "saved",
+      "title": "kiranmantha"
+    },
+    "https://medium.com/@kiranmantha/list/0db6cf5d078e": {
+      "file": "Link_to_list.md",
+      "status": "saved",
+      "title": "Link to list"
+    },
+    "https://medium.com/p/8d3437bf7a33": {
+      "file": "How_to_Log_Every_API_Call_Without_Slowing_Down_Your_Server.md",
+      "status": "saved",
+      "title": "How to Log Every API Call Without Slowing Down Your Server"
+    },
+    "https://medium.com/p/d617cb2640b6": {
+      "file": "From_Client_to_Pod_How_an_API_Request_Reaches_a_Microservice_Deployed_on_Kubernetes.md",
+      "status": "saved",
+      "title": "From Client to Pod: How an API Request Reaches a Microservice Deployed on Kubernetes"
+    }
+  }
+}
