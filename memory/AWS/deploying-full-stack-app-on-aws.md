@@ -1,13 +1,18 @@
 ---
+type: Learning
 title: Deploying full stack app on AWS
 topic: AWS
 tags:
   - aws
   - ec2
   - deployment
-source_type: hands-on
-confidence: confirmed
-created: '2026-07-29'
+status: stable
+generated:
+  by: 'human:kiran'
+  at: '2026-07-30T07:06:32.664Z'
+verified:
+  - by: agent-kiran/seed-script
+    at: '2026-07-30T07:06:32.664Z'
 ---
 Original article: https://www.sammeechward.com/deploying-full-stack-js-to-aws-ec2
 

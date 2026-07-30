@@ -1,12 +1,17 @@
 ---
+type: Learning
 title: '{} vs Map'
 topic: javascript
 tags:
   - javascript
   - data-structures
-source_type: hands-on
-confidence: confirmed
-created: '2026-07-29'
+status: stable
+generated:
+  by: 'human:kiran'
+  at: '2026-07-30T07:06:29.897Z'
+verified:
+  - by: agent-kiran/seed-script
+    at: '2026-07-30T07:06:29.897Z'
 ---
 # {} vs Map
 

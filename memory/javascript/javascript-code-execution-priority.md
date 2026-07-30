@@ -1,13 +1,18 @@
 ---
+type: Learning
 title: Javascript code execution priority
 topic: javascript
 tags:
   - javascript
   - event-loop
   - async
-source_type: hands-on
-confidence: confirmed
-created: '2026-07-29'
+status: stable
+generated:
+  by: 'human:kiran'
+  at: '2026-07-30T07:06:30.562Z'
+verified:
+  - by: agent-kiran/seed-script
+    at: '2026-07-30T07:06:30.562Z'
 ---
 JavaScript doesn’t just run code in order — it maintains multiple queues with different priorities:
 

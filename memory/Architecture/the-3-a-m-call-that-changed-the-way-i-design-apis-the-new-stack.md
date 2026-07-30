@@ -1,13 +1,15 @@
 ---
+type: Learning
 title: The 3 a.m. Call That Changed The Way I Design APIs - The New Stack
 topic: Architecture
 tags:
   - api-design
   - reliability
   - postmortem
-source_type: referenced
-confidence: tentative
-created: '2026-07-29'
+status: stable
+generated:
+  by: agent-kiran/seed-script
+  at: '2026-07-30T07:06:30.947Z'
 ---
 # The 3 a.m. Call That Changed The Way I Design APIs - The New Stack
 At 3:17 a.m. on a Tuesday, my phone buzzed with the alert that would reshape the way I think about API design.

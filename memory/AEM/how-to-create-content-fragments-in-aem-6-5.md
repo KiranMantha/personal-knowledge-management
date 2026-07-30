@@ -1,12 +1,17 @@
 ---
+type: Learning
 title: How to create Content Fragments in aem 6.5
 topic: AEM
 tags:
   - aem
   - content-fragments
-source_type: hands-on
-confidence: confirmed
-created: '2026-07-29'
+status: stable
+generated:
+  by: 'human:kiran'
+  at: '2026-07-30T07:06:31.995Z'
+verified:
+  - by: agent-kiran/seed-script
+    at: '2026-07-30T07:06:31.995Z'
 ---
 Youtube Resource: 
 - create content fragment: https://www.youtube.com/watch?v=7SFYjGjSveQ&t=9s&ab_channel=TechTalkwithRitesh

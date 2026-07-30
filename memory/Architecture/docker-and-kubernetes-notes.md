@@ -1,12 +1,17 @@
 ---
+type: Learning
 title: docker and kubernetes notes
 topic: Architecture
 tags:
   - docker
   - kubernetes
-source_type: hands-on
-confidence: confirmed
-created: '2026-07-29'
+status: stable
+generated:
+  by: 'human:kiran'
+  at: '2026-07-30T07:06:37.067Z'
+verified:
+  - by: agent-kiran/seed-script
+    at: '2026-07-30T07:06:37.067Z'
 ---
 Docker
 -----

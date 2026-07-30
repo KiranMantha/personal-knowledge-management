@@ -1,13 +1,18 @@
 ---
+type: Learning
 title: aem-nextjs-remote-spa
 topic: AEM
 tags:
   - aem
   - nextjs
   - remote-spa
-source_type: hands-on
-confidence: confirmed
-created: '2026-07-29'
+status: stable
+generated:
+  by: 'human:kiran'
+  at: '2026-07-30T07:06:32.337Z'
+verified:
+  - by: agent-kiran/seed-script
+    at: '2026-07-30T07:06:32.337Z'
 ---
 Original article: https://www.tothenew.com/blog/aem-with-nextjs-remotespa-a-comprehensive-integration-guide/
 

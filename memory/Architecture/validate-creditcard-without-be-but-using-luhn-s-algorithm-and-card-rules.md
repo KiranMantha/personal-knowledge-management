@@ -1,12 +1,17 @@
 ---
+type: Learning
 title: Validate creditcard without BE but using Luhn's algorithm and card rules
 topic: Architecture
 tags:
   - validation
   - algorithms
-source_type: hands-on
-confidence: confirmed
-created: '2026-07-29'
+status: stable
+generated:
+  by: 'human:kiran'
+  at: '2026-07-30T07:06:29.083Z'
+verified:
+  - by: agent-kiran/seed-script
+    at: '2026-07-30T07:06:29.083Z'
 ---
 The Luhn algorithm (or "modulus 10") is a simple checksum formula used to validate identification numbers like credit cards and IMEI codes. It is designed to catch accidental input errors, such as mistyped digits.
 

@@ -1,12 +1,14 @@
 ---
+type: Learning
 title: How DoorDash Builds Robust Microservices
 topic: Architecture
 tags:
   - microservices
   - doordash
-source_type: referenced
-confidence: tentative
-created: '2026-07-29'
+status: stable
+generated:
+  by: agent-kiran/seed-script
+  at: '2026-07-30T07:06:34.091Z'
 ---
 Original article: https://blog.neetcode.io/p/doordash-robust-microservices
 

@@ -1,12 +1,17 @@
 ---
+type: Learning
 title: 'Nested aem components '
 topic: AEM
 tags:
   - aem
   - components
-source_type: hands-on
-confidence: confirmed
-created: '2026-07-29'
+status: stable
+generated:
+  by: 'human:kiran'
+  at: '2026-07-30T07:06:31.294Z'
+verified:
+  - by: agent-kiran/seed-script
+    at: '2026-07-30T07:06:31.294Z'
 ---
 The sling model will give a component that extends Container which dictates the allowed components via policy. In react component, the EditableComponent will be mapped to parent and the `add components` related aem container is mapped to `cqPath/*`. This is very important else the child container will take the focus of authoring dialog instead of whole component.
 

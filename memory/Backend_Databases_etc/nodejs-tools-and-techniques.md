@@ -1,12 +1,17 @@
 ---
+type: Learning
 title: Nodejs tools and techniques
 topic: Backend_Databases_etc
 tags:
   - nodejs
   - tools
-source_type: hands-on
-confidence: confirmed
-created: '2026-07-29'
+status: stable
+generated:
+  by: 'human:kiran'
+  at: '2026-07-30T07:06:35.140Z'
+verified:
+  - by: agent-kiran/seed-script
+    at: '2026-07-30T07:06:35.140Z'
 ---
 Original article: https://www.smashingmagazine.com/2018/06/nodejs-tools-techniques-performance-servers/
 

@@ -1,11 +1,16 @@
 ---
+type: Learning
 title: Database Types Indepth
 topic: Backend_Databases_etc
 tags:
   - databases
-source_type: hands-on
-confidence: confirmed
-created: '2026-07-29'
+status: stable
+generated:
+  by: 'human:kiran'
+  at: '2026-07-30T07:06:36.417Z'
+verified:
+  - by: agent-kiran/seed-script
+    at: '2026-07-30T07:06:36.417Z'
 ---
 <details>
   <summary>1. Relational Databases (RDBMS)</summary>

@@ -1,13 +1,18 @@
 ---
+type: Learning
 title: Containers With AWS Lambda Functions
 topic: AWS
 tags:
   - aws
   - lambda
   - containers
-source_type: hands-on
-confidence: confirmed
-created: '2026-07-29'
+status: stable
+generated:
+  by: 'human:kiran'
+  at: '2026-07-30T07:06:33.041Z'
+verified:
+  - by: agent-kiran/seed-script
+    at: '2026-07-30T07:06:33.041Z'
 ---
 Video: https://www.youtube.com/watch?v=qAYY9df2hVQ
 

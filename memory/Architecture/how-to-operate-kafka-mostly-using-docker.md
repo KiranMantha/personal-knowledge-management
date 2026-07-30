@@ -1,12 +1,17 @@
 ---
+type: Learning
 title: 'How to operate Kafka, mostly using Docker'
 topic: Architecture
 tags:
   - kafka
   - docker
-source_type: hands-on
-confidence: confirmed
-created: '2026-07-29'
+status: stable
+generated:
+  by: 'human:kiran'
+  at: '2026-07-30T07:06:37.762Z'
+verified:
+  - by: agent-kiran/seed-script
+    at: '2026-07-30T07:06:37.762Z'
 ---
 Kafka Distributed Streaming Platform
 ====================================

@@ -1,12 +1,17 @@
 ---
+type: Learning
 title: Pass cli args to nodejs program and read them
 topic: Backend_Databases_etc
 tags:
   - nodejs
   - cli
-source_type: hands-on
-confidence: confirmed
-created: '2026-07-29'
+status: stable
+generated:
+  by: 'human:kiran'
+  at: '2026-07-30T07:06:34.729Z'
+verified:
+  - by: agent-kiran/seed-script
+    at: '2026-07-30T07:06:34.729Z'
 ---
 ```javascript
 // index.js

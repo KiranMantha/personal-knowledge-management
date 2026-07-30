@@ -1,12 +1,17 @@
 ---
+type: Learning
 title: BFF vs Graphql
 topic: Architecture
 tags:
   - bff
   - graphql
-source_type: hands-on
-confidence: confirmed
-created: '2026-07-29'
+status: stable
+generated:
+  by: 'human:kiran'
+  at: '2026-07-30T07:06:35.481Z'
+verified:
+  - by: agent-kiran/seed-script
+    at: '2026-07-30T07:06:35.481Z'
 ---
 Original Article: https://philcalcado.com/2019/07/12/some_thoughts_graphql_bff.html
 

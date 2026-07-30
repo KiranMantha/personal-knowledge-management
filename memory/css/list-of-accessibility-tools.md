@@ -1,12 +1,17 @@
 ---
+type: Learning
 title: list of accessibility tools
 topic: css
 tags:
   - accessibility
   - tools
-source_type: hands-on
-confidence: confirmed
-created: '2026-07-29'
+status: stable
+generated:
+  by: 'human:kiran'
+  at: '2026-07-30T07:06:38.427Z'
+verified:
+  - by: agent-kiran/seed-script
+    at: '2026-07-30T07:06:38.427Z'
 ---
 # Opensource accessibility audit tools you must know
 Accessibility is the ability to make websites usable by everyone. When a website is not accessible, we are creating barriers and making their impairment a disability. We need to build websites and include accessibility testing in our STLC to cater to people with disabilities for both better business and usability. Accessibility testing involves checking whether a website abides by WCAG guidelines and accessibility legislation and yields better SEO.

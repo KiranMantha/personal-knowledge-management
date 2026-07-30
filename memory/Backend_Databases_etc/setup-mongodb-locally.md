@@ -1,12 +1,17 @@
 ---
+type: Learning
 title: setup mongodb locally
 topic: Backend_Databases_etc
 tags:
   - mongodb
   - setup
-source_type: hands-on
-confidence: confirmed
-created: '2026-07-29'
+status: stable
+generated:
+  by: 'human:kiran'
+  at: '2026-07-30T07:06:38.811Z'
+verified:
+  - by: agent-kiran/seed-script
+    at: '2026-07-30T07:06:38.811Z'
 ---
 # Install mongodb
 

@@ -1,12 +1,17 @@
 ---
+type: Learning
 title: publish docker image to ecr
 topic: AWS
 tags:
   - docker
   - ecr
-source_type: hands-on
-confidence: confirmed
-created: '2026-07-29'
+status: stable
+generated:
+  by: 'human:kiran'
+  at: '2026-07-30T07:06:37.379Z'
+verified:
+  - by: agent-kiran/seed-script
+    at: '2026-07-30T07:06:37.379Z'
 ---
 Reference link: https://www.youtube.com/watch?v=zs3tyVgiBQQ
 

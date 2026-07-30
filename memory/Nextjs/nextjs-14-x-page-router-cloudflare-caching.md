@@ -1,13 +1,18 @@
 ---
+type: Learning
 title: Nextjs 14.x page router cloudflare caching
 topic: Nextjs
 tags:
   - nextjs
   - cloudflare
   - caching
-source_type: hands-on
-confidence: confirmed
-created: '2026-07-29'
+status: stable
+generated:
+  by: 'human:kiran'
+  at: '2026-07-30T07:06:30.235Z'
+verified:
+  - by: agent-kiran/seed-script
+    at: '2026-07-30T07:06:30.235Z'
 ---
 Original Issue Link: https://github.com/vercel/next.js/issues/47516
 

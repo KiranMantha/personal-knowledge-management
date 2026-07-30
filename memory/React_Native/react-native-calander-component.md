@@ -1,12 +1,17 @@
 ---
+type: Learning
 title: React-Native calander component
 topic: React_Native
 tags:
   - react-native
   - ui
-source_type: hands-on
-confidence: confirmed
-created: '2026-07-29'
+status: stable
+generated:
+  by: 'human:kiran'
+  at: '2026-07-30T07:06:31.646Z'
+verified:
+  - by: agent-kiran/seed-script
+    at: '2026-07-30T07:06:31.646Z'
 ---
 ```tsx
 // Calander.tsx

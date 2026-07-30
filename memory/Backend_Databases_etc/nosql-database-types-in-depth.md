@@ -1,12 +1,17 @@
 ---
+type: Learning
 title: NoSQL database types in-depth
 topic: Backend_Databases_etc
 tags:
   - nosql
   - databases
-source_type: hands-on
-confidence: confirmed
-created: '2026-07-29'
+status: stable
+generated:
+  by: 'human:kiran'
+  at: '2026-07-30T07:06:36.746Z'
+verified:
+  - by: agent-kiran/seed-script
+    at: '2026-07-30T07:06:36.746Z'
 ---
 ## NoSQL Databases Overview
 

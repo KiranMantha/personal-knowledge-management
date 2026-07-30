@@ -1,12 +1,17 @@
 ---
+type: Learning
 title: What is SSL Termination?
 topic: Architecture
 tags:
   - ssl
   - networking
-source_type: hands-on
-confidence: confirmed
-created: '2026-07-29'
+status: stable
+generated:
+  by: 'human:kiran'
+  at: '2026-07-30T07:06:34.406Z'
+verified:
+  - by: agent-kiran/seed-script
+    at: '2026-07-30T07:06:34.406Z'
 ---
 Original Articles: 
 - https://www.f5.com/glossary/ssl-termination

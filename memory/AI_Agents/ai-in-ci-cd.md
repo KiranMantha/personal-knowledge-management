@@ -1,12 +1,14 @@
 ---
+type: Learning
 title: AI in CI/CD
 topic: AI_Agents
 tags:
   - ai
   - cicd
-source_type: referenced
-confidence: tentative
-created: '2026-07-29'
+status: stable
+generated:
+  by: agent-kiran/seed-script
+  at: '2026-07-30T07:06:33.746Z'
 ---
 Original article: https://www.eficode.com/blog/mastering-devops-with-ai-building-next-level-ci/cd-pipelines
 
